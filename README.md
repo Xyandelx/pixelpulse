@@ -31,10 +31,7 @@ Si un medio falla en una ejecución, se conservan sus noticias anteriores (hasta
 
 Si tu repositorio se llama `TU-USUARIO.github.io`, la dirección del sitio no lleva el nombre del repositorio: ajusta `SITE_URL` en el workflow.
 
-## Antes de publicar
 
-- En `contact.html` reemplaza `TU-CORREO@EJEMPLO.COM` por tu correo real.
-- Opcional: analítica gratuita sin cookies con [GoatCounter](https://www.goatcounter.com) (es gratis para uso no comercial). Crea tu cuenta y descomenta la línea marcada en `index.html`. Si la activas, actualiza `privacy.html`.
 
 ## Personalizar
 
