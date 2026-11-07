@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="es" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PixelPulse · Noticias de videojuegos | Gaming news</title>
+<meta name="description" content="Las últimas noticias de videojuegos en español e inglés, actualizadas automáticamente cada hora. / Latest gaming news in Spanish and English, updated hourly.">
+<meta name="theme-color" content="#0a0a18">
+<meta property="og:type" content="website">
+<meta property="og:title" content="PixelPulse · Noticias de videojuegos">
+<meta property="og:description" content="Tu pulso diario de videojuegos, en español e inglés. / Your daily gaming pulse.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="PixelPulse" href="feed.xml">
+<script>
+  try { var t = localStorage.getItem('pp-theme'); document.documentElement.dataset.theme = (t === 'light' || t === 'dark') ? t : 'dark'; }
+  catch (e) { document.documentElement.dataset.theme = 'dark'; }
+</script>
+<link rel="stylesheet" href="style.css">
+<!-- Analítica gratuita opcional (GoatCounter, sin cookies): crea tu cuenta y descomenta con tu código.
+<script data-goatcounter="https://TU-CODIGO.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+-->
+</head>
+<body>
+<a class="skip" href="#main">Saltar al contenido</a>
+
+<header class="site-header wrap">
+  <div class="brand">
+    <a class="logo" href="./" aria-label="PixelPulse">
+      <svg width="40" height="40" viewBox="0 0 32 32" aria-hidden="true">
+        <rect width="32" height="32" rx="7" fill="#12122e"/>
+        <rect x="1" y="1" width="30" height="30" rx="6" fill="none" stroke="#ff2e97" stroke-width="1.5"/>
+        <polyline points="3,17 10,17 13,8 18,25 21,14 23,17 29,17" fill="none" stroke="#00e5ff" stroke-width="2.2" stroke-linecap="square"/>
+      </svg>
+      <span class="logo-text"><span class="p1">Pixel</span><span class="p2">Pulse</span></span>
+    </a>
+    <p class="tagline" data-i18n="tagline">Tu pulso diario de videojuegos</p>
+  </div>
+  <svg class="pulse" viewBox="0 0 1200 40" preserveAspectRatio="none" aria-hidden="true">
+    <defs>
+      <linearGradient id="pg" x1="0" x2="1" y1="0" y2="0">
+        <stop offset="0" stop-color="#00e5ff"/><stop offset="1" stop-color="#ff2e97"/>
+      </linearGradient>
+    </defs>
+    <path pathLength="1400" d="M0 20 H300 L318 20 L334 4 L356 36 L372 12 L384 20 H760 L778 20 L794 4 L816 36 L832 12 L844 20 H1200"/>
+  </svg>
+</header>
+
+<div class="wrap">
+  <div class="toolbar">
+    <input class="field search" id="q" type="search" autocomplete="off"
+           placeholder="Buscar noticias…" data-i18n-ph="search" data-i18n-aria="searchAria" aria-label="Buscar noticias">
+    <select class="field" id="source" data-i18n-aria="sourceAria" aria-label="Filtrar por medio"></select>
+    <div class="seg" id="langs" role="group" data-i18n-aria="langAria" aria-label="Idioma de las noticias"></div>
+    <button class="btn" id="themeBtn" type="button" data-i18n-aria="themeAria" aria-label="Cambiar tema">☀</button>
+  </div>
+  <nav class="cats" id="cats" data-i18n-aria="catsAria" aria-label="Categorías"></nav>
+  <p class="updated" id="updated"></p>
+</div>
+
+<main class="wrap" id="main">
+  <div class="top" id="top"></div>
+  <h2 class="sec latest-title" id="latestTitle" data-i18n="latest" hidden>Últimas noticias</h2>
+  <div class="grid" id="grid" aria-live="polite"></div>
+  <p class="status" id="status" role="status" hidden></p>
+  <button class="btn more" id="more" type="button" data-i18n="more" hidden>Ver más noticias</button>
+  <noscript><p>Activa JavaScript para ver las noticias. / Enable JavaScript to see the news.</p></noscript>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <nav>
+      <a href="about.html" data-i18n="about">Acerca de</a>
+      <a href="privacy.html" data-i18n="privacy">Privacidad</a>
+      <a href="contact.html" data-i18n="contact">Contacto</a>
+      <a href="feed.xml" data-i18n="rss">RSS</a>
+    </nav>
+    <p data-i18n="disclaimer">Las noticias pertenecen a sus medios de origen. PixelPulse solo muestra titulares y un resumen breve, y enlaza al artículo original.</p>
+  </div>
+</footer>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="app.js"></script>
+</body>
+</html>

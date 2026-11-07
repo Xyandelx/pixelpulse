@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="es" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Acerca de · About · PixelPulse</title>
+<meta name="description" content="Qué es PixelPulse y cómo funciona. / What PixelPulse is and how it works.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<script>
+  try { var t = localStorage.getItem('pp-theme'); document.documentElement.dataset.theme = (t === 'light' || t === 'dark') ? t : 'dark'; }
+  catch (e) { document.documentElement.dataset.theme = 'dark'; }
+</script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header wrap">
+  <a class="logo" href="./" aria-label="PixelPulse">
+    <svg width="40" height="40" viewBox="0 0 32 32" aria-hidden="true">
+      <rect width="32" height="32" rx="7" fill="#12122e"/>
+      <rect x="1" y="1" width="30" height="30" rx="6" fill="none" stroke="#ff2e97" stroke-width="1.5"/>
+      <polyline points="3,17 10,17 13,8 18,25 21,14 23,17 29,17" fill="none" stroke="#00e5ff" stroke-width="2.2" stroke-linecap="square"/>
+    </svg>
+    <span class="logo-text"><span class="p1">Pixel</span><span class="p2">Pulse</span></span>
+  </a>
+</header>
+
+<main class="wrap page">
+  <section lang="es">
+    <h1>Acerca de PixelPulse</h1>
+    <p>PixelPulse reúne en un solo lugar los titulares de videojuegos de varios medios, en español e inglés. Se actualiza automáticamente cada hora, sin que nadie tenga que publicar a mano.</p>
+    <h2>Cómo funciona</h2>
+    <p>Un programa consulta cada hora los feeds RSS públicos de los medios. De cada noticia mostramos el título, un resumen breve y la imagen de portada, y siempre enlazamos al artículo original para que leas la noticia completa en el medio que la publicó.</p>
+    <p>Las categorías (PC, PlayStation, Xbox, Nintendo, móvil, esports y lanzamientos) se asignan automáticamente a partir de palabras clave, así que pueden equivocarse en algún caso.</p>
+    <h2>Qué no hacemos</h2>
+    <p>No escribimos las noticias ni copiamos artículos completos. Tampoco hay cuentas de usuario ni publicidad por ahora.</p>
+  </section>
+
+  <section lang="en">
+    <h1>About PixelPulse</h1>
+    <p>PixelPulse gathers gaming headlines from several outlets in one place, in Spanish and English. It updates itself automatically every hour, with nobody posting by hand.</p>
+    <h2>How it works</h2>
+    <p>A program checks the outlets' public RSS feeds every hour. For each story we show the headline, a short summary and the cover image, and we always link to the original article so you can read the full story at the outlet that published it.</p>
+    <p>Categories (PC, PlayStation, Xbox, Nintendo, mobile, esports and releases) are assigned automatically from keywords, so they can occasionally be wrong.</p>
+    <h2>What we don't do</h2>
+    <p>We don't write the news or copy full articles. There are no user accounts or advertising for now.</p>
+  </section>
+  <a class="back" href="./">← PixelPulse</a>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <nav>
+      <a href="about.html">Acerca de / About</a>
+      <a href="privacy.html">Privacidad / Privacy</a>
+      <a href="contact.html">Contacto / Contact</a>
+      <a href="feed.xml">RSS</a>
+    </nav>
+  </div>
+</footer>
+</body>
+</html>
