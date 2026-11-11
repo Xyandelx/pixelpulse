@@ -1,6 +1,952 @@
 {
- "updated": "2026-11-11T10:08:57.486840+00:00",
+ "updated": "2026-11-11T18:16:39.912431+00:00",
  "items": [
+  {
+   "title": "After being laid off by Microsoft, former Doom devs found new Smash TV-influenced FPS studio that isn't \"subject to investor demands\"",
+   "link": "https://www.rockpapershotgun.com/after-being-laid-off-by-microsoft-former-doom-devs-found-new-smash-tv-influenced-fps-studio-that-isnt-subject-to-investor-demands",
+   "summary": "Back in July, Doom developers id Software laid off around a hundred people as part of wider Microsoft blood-letting . Now, a few of those devs have founded a new employee-owned studio, Hidden Horses. Their first project…",
+   "image": "https://assetsio.gnwcdn.com/Smash-TV_PvR31M4.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T18:08:40+00:00"
+  },
+  {
+   "title": "I have converted GTA 5 from crime sim to train sim",
+   "link": "https://www.pcgamer.com/games/grand-theft-auto/i-have-converted-gta-5-from-crime-sim-to-train-sim/",
+   "summary": "Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or…",
+   "image": "https://cdn.mos.cms.futurecdn.net/Rn7RowkeJonRVhEDmoQZmA-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T18:00:00+00:00"
+  },
+  {
+   "title": "Two Major Developers Explain Why They Like And Dislike Making Games For Xbox Series S",
+   "link": "https://www.purexbox.com/news/2026/11/two-major-developers-explain-why-they-like-and-dislike-making-games-for-xbox-series-s",
+   "summary": "\"I wish hardware like the 'Xbox Series S' wouldn't be released (laughs)\". Over the years, we've heard all kinds of stories from all kinds of developers about whether they either like or dislike making games for the Xbox…",
+   "image": "https://images.purexbox.com/82c2ce4756b87/small.jpg",
+   "source": "Pure Xbox",
+   "lang": "en",
+   "cats": [
+    "xbox"
+   ],
+   "date": "2026-11-11T18:00:00+00:00"
+  },
+  {
+   "title": "Marvel Rivals' creative director addresses hate speech controversy and promises 'we've ramped up our disciplinary measures'",
+   "link": "https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-creative-director-addresses-hate-speech-controversy-and-promises-weve-ramped-up-our-disciplinary-measures/",
+   "summary": "A few months ago Marvel Rivals became embroiled in one of the biggest controversies in its history when an error during an update ended up removing the \"Hate Speech\" option in its reporting system. This unfortunately…",
+   "image": "https://cdn.mos.cms.futurecdn.net/ruwTABdYAKNih34QkCHxsf-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T17:34:01+00:00"
+  },
+  {
+   "title": "The European Commission's new Digital Fairness Act could change monetisation in games forever - and not just in Europe",
+   "link": "https://www.eurogamer.net/eu-digital-fairness-act-what-is-it-video-games",
+   "summary": "The European Commission has published its proposed Digital Fairness Act, which has the potential to change how video games are monetised - worldwide - forever. A draft of the Act was leaked yesterday and what's been…",
+   "image": "https://assetsio.gnwcdn.com/mei-overwatch-loot-box-cs-go.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-11T17:25:50+00:00"
+  },
+  {
+   "title": "Got a Synology NAS? Time to check your updates, as two high-level vulnerabilities let ne’er-do-wells read and write files and conduct DDOS attacks",
+   "link": "https://www.pcgamer.com/hardware/storage/got-a-synology-nas-time-to-check-your-updates-as-two-high-level-vulnerabilities-let-neer-do-wells-read-and-write-files-and-conduct-ddos-attacks/",
+   "summary": "Another day, another cybersecurity update. This time, it's the turn of immensely popular NAS provider Synology to advise its users about some now-fixed gaping holes. The company has updated its DiskStation Manager (DSM)…",
+   "image": "https://cdn.mos.cms.futurecdn.net/csYBBfR3NRUwQc6kRSL7vh-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T17:24:05+00:00"
+  },
+  {
+   "title": "Ex-Tekken director savages Xbox Series S in front of senior Xbox staff: ‘feels like having to do extra work for a slightly weaker child’",
+   "link": "https://www.pcgamer.com/hardware/ex-tekken-director-savages-xbox-series-s-in-front-of-senior-xbox-staff-feels-like-having-to-do-extra-work-for-a-slightly-weaker-child/",
+   "summary": "Ex-Tekken director and current SNK VS Studio CEO Katsuhiro Harada expressed some sheer savagery at the Console Game Developers Conference in Seoul a couple of days ago. According to Inven Global , the game director and…",
+   "image": "https://cdn.mos.cms.futurecdn.net/PrEv8rn2SEJVGcUAXtv3yX-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc",
+    "xbox"
+   ],
+   "date": "2026-11-11T17:17:42+00:00"
+  },
+  {
+   "title": "Skyrim Celebrates 15th Anniversary with Creation Club DLC Bundle, Big Sales, and More",
+   "link": "https://www.pushsquare.com/news/2026/11/skyrim-celebrates-15th-anniversary-with-creation-club-dlc-bundle-big-sales-and-more",
+   "summary": "Reach for the Skyrim. The Elder Scrolls 5: Skyrim is officially 15 years old today, having originally launched on the 11th November, 2011. And no, Bethesda doesn't have a new re-release lined up or anything like that,…",
+   "image": "https://images.pushsquare.com/750761635a423/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation",
+    "releases"
+   ],
+   "date": "2026-11-11T17:15:00+00:00"
+  },
+  {
+   "title": "GTA VI sigue batiendo récords: sus reservas ya superan las ventas de estos 10 grandes videojuegos a una semana de su lanzamiento",
+   "link": "https://areajugones.sport.es/videojuegos/gta-vi-sigue-batiendo-records-sus-reservas-ya-superan-las-ventas-de-estos-10-grandes-videojuegos-a-una-semana-de-su-lanzamiento/",
+   "summary": "GTA VI está más que preparado para escribir su nombre en la historia de los videojuegos con una contundencia abrumadora. Los últimos datos que nos llegan, por estimaciones de Sensor Tower, es que acaba de superar los…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/gta-vi-ventas-reservas-locas-1-1024x574.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [
+    "releases"
+   ],
+   "date": "2026-11-11T17:09:57+00:00"
+  },
+  {
+   "title": "Steam’s Growing Review Backlog Has Cost Another Game Its Launch Date",
+   "link": "https://www.gamespot.com/articles/steam-growing-review-backlog-has-cost-another-game-its-launch-date/",
+   "summary": "Steam's growing backlog for approving game builds appears to be getting worse, as yet another studio's game is stuck in the purgatory of the platform's review program. Australia Did It: End-of-the-World Railway Defense…",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Australia-Did-It.jpg?w=300",
+   "source": "GameSpot",
+   "lang": "en",
+   "cats": [
+    "pc",
+    "releases"
+   ],
+   "date": "2026-11-11T17:09:14+00:00"
+  },
+  {
+   "title": "Dark Souls 2 and 3 multiplayer is back: We still don't know what went wrong but at least it didn't take almost a year to fix it",
+   "link": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-and-3-multiplayer-is-back-we-still-dont-know-what-went-wrong-but-at-least-it-didnt-take-almost-a-year-to-fix-it/",
+   "summary": "A little less than two weeks after their multiplayer features were taken offline because of a mysterious \" server issue ,\" multiplayer functionality in Dark Souls 2 and Dark Souls 3 has been restored, meaning invasions…",
+   "image": "https://cdn.mos.cms.futurecdn.net/TwRkXYr4TgjdEKjC4xvjz7-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T17:05:30+00:00"
+  },
+  {
+   "title": "Minerva Rising is a Frostpunk-meets-Silo underground city builder in which rebel citizens can hack your camera",
+   "link": "https://www.rockpapershotgun.com/minerva-rising-is-a-frostpunk-meets-silo-underground-city-builder-in-which-rebel-citizens-can-hack-your-camera",
+   "summary": "Minerva Rising is a post-apocalyptic city builder in which your city extends deep underground, divided into levels with their own resources, industries, and communities. You are an artificial intelligence with overall…",
+   "image": "https://assetsio.gnwcdn.com/Minerva-Rising.png?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T17:04:00+00:00"
+  },
+  {
+   "title": "The Body Review",
+   "link": "https://www.ign.com/articles/the-body-review-netflix",
+   "summary": "The Body, titled “Slutty God,” opens with a Bible verse about, well, the body. Series creator Quinn Shephard picks apart that verse, disseminating a sermon that reflects on pleasure, purity, sacrifice, and how one part…",
+   "image": "https://assets-prd.ignimgs.com/2026/11/10/the-body-blog-1794351441060.png",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-11T17:00:43+00:00"
+  },
+  {
+   "title": "12 Days of Snoopy Exclusive Clip: Inside the Peanuts Holiday Special",
+   "link": "https://www.ign.com/articles/12-days-snoopy-exclusive-clip-interview-apple-tv",
+   "summary": "Watch an exclusive clip from 12 Days of Snoopy on Apple TV. The creators explain the new Peanuts holiday special and Snoopy’s spot on the naughty list.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/10/12-days-of-snoopy-blogroll-1794332713819.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-11T17:00:00+00:00"
+  },
+  {
+   "title": "The DC Art of Riccardo Federici Highlights the Talented Painter",
+   "link": "https://www.ign.com/articles/the-dc-art-of-riccardo-federici-highlights-the-talented-painter",
+   "summary": "The mega-talented painter Riccardo Federici renders the DC Universe like no one else, and his career is now the subject of a new art book from Clover Press.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/11/mixcollage-10-nov-2026-06-25-pm-467-1794369035548.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-11T17:00:00+00:00"
+  },
+  {
+   "title": "Feature: What Sony Live Service PS5 Games Are Still Alive?",
+   "link": "https://www.pushsquare.com/features/what-sony-live-service-ps5-games-are-still-alive",
+   "summary": "All the cancelled projects and those that remain. Video games are cancelled internally all the time, but never in PlayStation's personal history have those cancellations had to happen in such a public manner. The…",
+   "image": "https://images.pushsquare.com/312a961a9bebf/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-11T17:00:00+00:00"
+  },
+  {
+   "title": "'We Will Put In Our Best Efforts To Develop For It' - Stellar Blade CTO Wants Xbox Helix Dev Kit",
+   "link": "https://www.purexbox.com/news/2026/11/we-will-put-in-our-best-efforts-to-develop-for-it-stellar-blade-cto-wants-xbox-helix-dev-kit",
+   "summary": "\"Personally, I am looking forward to the next-gen Xbox\". Shift Up CTO DongKi Lee, best known for his work on Stellar Blade and the studio's mobile games, recently spoke at a developer panel about his excitement to get…",
+   "image": "https://images.purexbox.com/b236f6c32709f/small.jpg",
+   "source": "Pure Xbox",
+   "lang": "en",
+   "cats": [
+    "xbox",
+    "mobile"
+   ],
+   "date": "2026-11-11T17:00:00+00:00"
+  },
+  {
+   "title": "Antec C6 Curve Air review",
+   "link": "https://www.pcgamer.com/hardware/pc-cases/antec-c6-curve-air-review/",
+   "summary": "Shangri-la, the promised land. Aside from the very notion of that concept being oh so appetising in the chaotic world that is 2026, there's something of that in the C6 Curve Air. An odd way to start a chassis review,…",
+   "image": "https://cdn.mos.cms.futurecdn.net/vQqWnMGFhqArpZdDU4K3YT-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T16:50:44+00:00"
+  },
+  {
+   "title": "EU 'Digital Fairness Act' Could Have A Huge Impact On Loot Boxes And Virtual Currency",
+   "link": "https://www.nintendolife.com/news/2026/11/eu-digital-fairness-act-could-have-a-huge-impact-on-loot-boxes-and-virtual-currency",
+   "summary": "A step in the right direction? After being leaked earlier this week, the European Commission has today presented its proposal for the ' Digital Fairness Act ' — a rule update that aims to offer \"better protection for…",
+   "image": "https://images.nintendolife.com/7a289d18e4b55/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-11T16:45:00+00:00"
+  },
+  {
+   "title": "GTA 6 Preloading Is Causing Major Download Traffic Spikes in Europe",
+   "link": "https://www.pushsquare.com/news/2026/11/gta-6-preloading-is-causing-major-download-traffic-spikes-in-europe",
+   "summary": "ISPs are reporting big surges. If you needed another clue as to how big GTA 6 is going to be, internet service providers in a number of countries are reporting inflated traffic figures in the wake of preload access.…",
+   "image": "https://images.pushsquare.com/860514e821a93/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-11T16:45:00+00:00"
+  },
+  {
+   "title": "The LEGO Up-Scaled Santa Minifigure Has Hit a New Low Price in Early Black Friday Deal at Amazon",
+   "link": "https://www.ign.com/articles/the-lego-up-scaled-santa-minifigure-has-hit-a-new-low-price-in-early-black-friday-deal-at-amazon",
+   "summary": "Amazon has marked the LEGO Up-Scaled Santa Minifigure as an 'Early Black Friday Deal' with a 30% discount. This has brought it down to a new all-time low price at the retailer of $41.99.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/11/lego-up-scaled-santa-minifigure-1794408647544.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-11T16:41:33+00:00"
+  },
+  {
+   "title": "Bethesda Sets Expectations as Fans Hope for The Elder Scrolls VI: Sentinel News Today",
+   "link": "https://www.ign.com/articles/bethesda-sets-expectations-as-fans-hope-for-the-elder-scrolls-vi-sentinel-news-today",
+   "summary": "Bethesda has issued an official response to fans expecting a major announcement for The Elder Scrolls VI: Sentinel at some point today.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/03/theelderscrolls6-sentinel-blogroll-1793718530021.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-11T16:16:25+00:00"
+  },
+  {
+   "title": "Kioxia has chained together 640 SSDs to create a 157 *petabyte* storage solution, because AI data centers get all the cool toys",
+   "link": "https://www.pcgamer.com/hardware/storage/kioxia-has-chained-together-640-ssds-to-create-a-157-petabyte-storage-solution-because-ai-data-centers-get-all-the-cool-toys/",
+   "summary": "There's a golden rule of storage: no matter how much you have, it's never quite enough. Nevertheless, Kioxia is taking that principle to its limits, as it's announced \" a new storage density milestone \" in the form of…",
+   "image": "https://cdn.mos.cms.futurecdn.net/TCVjVhL9CmktoopS692uQk-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T16:16:16+00:00"
+  },
+  {
+   "title": "Blizzard Changes World of Warcraft Forever Gold Rewards For High Level Quests, and Players are Celebrating",
+   "link": "https://www.ign.com/articles/blizzard-changes-gold-rewards-for-high-level-quests-and-players-are-celebrating",
+   "summary": "For the longest time in World of Warcraft, when you finished a quest at max level, the experience you would earn would get converted to gold. But in WoW Forever, Blizzard killed off that conversion, and has now added a…",
+   "image": "https://assets-prd.ignimgs.com/2026/11/03/mxr-wowforever-promofi-1793722551273.png",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-11T16:14:26+00:00"
+  },
+  {
+   "title": "Katsuhiro Harada, histórico responsable de Tekken: \"Ojalá Xbox Series S no se hubiera lanzado\"",
+   "link": "https://areajugones.sport.es/videojuegos/katsuhiro-harada-historico-responsable-de-tekken-ojala-xbox-series-s-no-se-hubiera-lanzado/",
+   "summary": "Aunque en una conversación entre risas, Katsuhiro Harada, conocido por su trabajo en la mítica franquicia de lucha Tekken, ha expresado su rechazo ante Xbox Series S debido a la dificultad añadida que supone adaptar…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/harada-xbox-series-s-1024x576.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [
+    "xbox"
+   ],
+   "date": "2026-11-11T16:03:29+00:00"
+  },
+  {
+   "title": "The Good Daughter Review",
+   "link": "https://www.ign.com/articles/the-good-daughter-review",
+   "summary": "Review: Meghann Fahy and Rose Byrne provide the good stuff for The Good Daughter.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/04/df-1793817496896.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-11T16:00:00+00:00"
+  },
+  {
+   "title": "There were 47 graphics chip makers in 1998. Where did they all go?",
+   "link": "https://www.rockpapershotgun.com/there-were-47-graphics-chip-makers-in-1998-where-did-they-all-go",
+   "summary": "Some may find this hard to believe, given the absolute state of the market today , but if you were building a gaming PC in 1998, the hard part wasn’t finding somewhere that had 3D cards in stock for a reasonable price.…",
+   "image": "https://assetsio.gnwcdn.com/COLORFUL-GPU-MUSEUM-11_vcz.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T16:00:00+00:00"
+  },
+  {
+   "title": "Hardware Review: Astro A50 X Lightspeed - The Ultimate Gaming Headset, But Not Suited to All",
+   "link": "https://www.pushsquare.com/features/hardware-review-astro-a50-x-lightspeed-the-ultimate-gaming-headset-but-not-suited-to-all",
+   "summary": "Jack of all trades, and master of all? The Astro A50 X Lightspeed is a pair of headphones I’ve been looking forward to trying out for a while. This is a high-end headset that actually utilises HDMI passthrough rather…",
+   "image": "https://images.pushsquare.com/dfab7435ff883/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-11T16:00:00+00:00"
+  },
+  {
+   "title": "Final Fantasy 14 players are gathering in virtual vigils to honour the passing of the game's most prestigious bass player",
+   "link": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-players-are-gathering-in-virtual-vigils-to-honour-the-passing-of-the-games-most-prestigious-bass-player/",
+   "summary": "Final Fantasy 14 players have been gathering en masse across servers today in the wake of the news that Eikichi Iwai—the bassist behind the game's band The Primals—has passed away at the age of 57. A post went out on…",
+   "image": "https://cdn.mos.cms.futurecdn.net/fE9QpmpttoXK7UyGkBX2Kk-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T15:53:31+00:00"
+  },
+  {
+   "title": "Lanterns Writer Says 'Nothing's Cancelled. Calm Down' Amid Concern for Season 2 Following Shock DC Shakeup",
+   "link": "https://www.ign.com/articles/lanterns-writer-says-nothings-cancelled-calm-down-amid-concern-for-season-2-following-shock-dc-shakeup",
+   "summary": "Lanterns writer addresses concern over Season 2 amid DC shakeup.",
+   "image": "https://assets-prd.ignimgs.com/2026/03/04/lanterns-blogroll-1740701126885-1772654361603.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-11T15:45:58+00:00"
+  },
+  {
+   "title": "No more need to slap 'reddit' on the end of your Google searches as Reddit Reviews is here to amalgamate everyone's thoughts",
+   "link": "https://www.pcgamer.com/hardware/no-more-need-to-slap-reddit-on-the-end-of-your-google-searches-as-reddit-reviews-is-here-to-amalgamate-everyones-thoughts/",
+   "summary": "I'm no stranger to slapping \"Reddit\" on the end of a Google search about a product to see what the unwashed masses (myself included) think about it. Assuming we're not reading bot comments, it's a great way to get a…",
+   "image": "https://cdn.mos.cms.futurecdn.net/5Rn5C8no72U8EXRXMjtPGG-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T15:42:03+00:00"
+  },
+  {
+   "title": "Hell Let Loose's original developers' Napoleonic-era extraction game, Hunger, gets December early access release, and an open beta this month",
+   "link": "https://www.eurogamer.net/hunger-extraction-napoleonic-era-early-access-date",
+   "summary": "Good Fun Corp, the studio made up of the original developers behind Hell Let Loose, has finally announced a release date for its anticipated next project: Hunger. The extraction shooter-slasher game enters early access…",
+   "image": "https://assetsio.gnwcdn.com/hunger-early-access-screen-2.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [
+    "releases"
+   ],
+   "date": "2026-11-11T15:41:50+00:00"
+  },
+  {
+   "title": "Sudokoo SK700V review",
+   "link": "https://www.pcgamer.com/hardware/cooling/sudokoo-sk700v-review/",
+   "summary": "Where do I even begin with this thing? I'm so conflicted on the SK700V. It's such a unique problem, simultaneously excellent, and yet surprisingly frustrating to talk about. I'll start with the positive. It's…",
+   "image": "https://cdn.mos.cms.futurecdn.net/WhAZnip2ZtwzBUSmU8Wk9k-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T15:41:38+00:00"
+  },
+  {
+   "title": "Overwatch is adding 6v6 role queue to its Competitive play: 'We've realised that there doesn't have to be a winner between 5v5 and 6v6'",
+   "link": "https://www.pcgamer.com/games/fps/overwatch-is-adding-6v6-role-queue-to-its-competitive-play-weve-realised-that-there-doesnt-have-to-be-a-winner-between-5v5-and-6v6/",
+   "summary": "If you had told me back in 2019 that I'd actually prefer a 5v5 version of Overwatch instead of the traditional 6v6 in the big old year of 2026 I'd have replied: \"I'm still playing Overwatch in 2026?\" Regardless, it's a…",
+   "image": "https://cdn.mos.cms.futurecdn.net/iRQu3XQsfD9ZZQhW2k88gC-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T15:31:58+00:00"
+  },
+  {
+   "title": "How Skyrim Found a Second Life As Cozy Game",
+   "link": "https://www.ign.com/articles/how-skyrim-found-a-second-life-as-cozy-game",
+   "summary": "15 years after release, Skyrim's icy, dangerous world feels warm and cozy. But why has this dark fantasy become such a comfort play? We spoke to experts and developers to find out.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/11/cozyskyrim-blogroll-1794397242244.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-11T15:30:00+00:00"
+  },
+  {
+   "title": "Square Enix Sees Huge Increase in Digital Game Sales, Upping Its Financial Forecast",
+   "link": "https://www.pushsquare.com/news/2026/11/square-enix-sees-huge-increase-in-digital-game-sales-upping-its-financial-forecast",
+   "summary": "While physical sales decline. Much like Capcom , Square Enix is seeing a significant surge in digital game sales, as opposed to physical, with the latter now in steady decline. In fact, Square Enix's latest financial…",
+   "image": "https://images.pushsquare.com/8bbdc8e372c88/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-11T15:30:00+00:00"
+  },
+  {
+   "title": "Shrek 2 Remastered Has No Official Reviews Yet, But The User Reviews Are Quite Bizarre",
+   "link": "https://www.purexbox.com/news/2026/11/shrek-2-remastered-has-no-official-reviews-yet-but-the-user-reviews-are-quite-bizarre",
+   "summary": "It has a high score on Xbox right now, but a Mixed one on Steam. Yesterday marked the launch of Shrek 2 Remastered on Xbox Series X and Xbox Series S (along with other platforms), and if you're wondering why nobody…",
+   "image": "https://images.purexbox.com/d67ed4f1da7c3/small.jpg",
+   "source": "Pure Xbox",
+   "lang": "en",
+   "cats": [
+    "xbox",
+    "pc",
+    "releases"
+   ],
+   "date": "2026-11-11T15:30:00+00:00"
+  },
+  {
+   "title": "De 69,99€ a 19,59€: PS Store tumba el precio de dos de los mejores juegos de terror de PS5 hasta su mínimo histórico",
+   "link": "https://areajugones.sport.es/videojuegos/de-6999e-a-1959e-ps-store-tumba-el-precio-de-dos-de-los-mejores-juegos-de-terror-de-ps5-hasta-su-minimo-historico/",
+   "summary": "Mira que hay buenas ofertas de Black Friday en la tienda digital de PS4 y PS5, pero hay un par que son absolutamente imposibles de perder de vista para cualquier buen aficionado a los survival horror. Y es que PS Store…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/ps-store-silent-hill-1-1024x576.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-11T15:20:59+00:00"
+  },
+  {
+   "title": "\"Some of the best games of the last decade came from teams of fifty\": Destroy All Humans! remake devs Black Forest Games split from THQ Nordic to launch new indie studio group",
+   "link": "https://www.rockpapershotgun.com/some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-destroy-all-humans-remake-devs-black-forest-games-split-from-thq-nordic-to-launch-new-indie-studio-group",
+   "summary": "Black Forest Games, developers of the Destroy All Humans! remakes, have spun out of Embracer Group-owned publishers THQ Nordic via a management buyout and announced plans to form a new \"developer-driven group\" of…",
+   "image": "https://assetsio.gnwcdn.com/destroy-all-humans-remake-devs-spin-out-thq-nordic-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc",
+    "releases"
+   ],
+   "date": "2026-11-11T15:19:30+00:00"
+  },
+  {
+   "title": "Tekken Legend Katsuhiro Harada Says He Wishes 'Hardware Like the Xbox Series S Wouldn't Be Released'",
+   "link": "https://www.ign.com/articles/tekken-legend-katsuhiro-harada-says-he-wishes-hardware-like-the-xbox-series-s-wouldnt-be-released",
+   "summary": "Tekken development legend Katsuhiro Harada had some strong comments for Microsoft's lower-powered Xbox Series S console, dubbing it a \"weaker child\" with \"awkwardly lower performance.\"",
+   "image": "https://assets-prd.ignimgs.com/2022/11/30/seriess-1624390081463-1669817083526.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [
+    "xbox"
+   ],
+   "date": "2026-11-11T15:14:21+00:00"
+  },
+  {
+   "title": "Sabrina the Teenage Witch #5 Kicks Off a Brand-New Adventure for Sabrina Spellman",
+   "link": "https://www.ign.com/articles/sabrina-the-teenage-witch-5-kicks-off-a-brand-new-adventure-for-sabrina-spellman",
+   "summary": "Oni Press' Sabrina the Teenage Witch reboot is one of our favorite new comics of 2026, and we've got an exclusive first look at the series' next major storyline.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/10/mixcollage-10-nov-2026-11-55-am-3348-1794329721246.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-11T15:00:00+00:00"
+  },
+  {
+   "title": "Square Enix's Big Reset Is Working As It Increases Its Full-Year Forecast",
+   "link": "https://www.nintendolife.com/news/2026/11/square-enixs-big-reset-is-working-as-it-increases-its-full-year-forecast",
+   "summary": "Publisher reports \"solid performance\" for FF7 Rebirth. Square Enix has released its latest financial data for the six-month period ending 30th September 2026. In short, it looks like the company's efforts to reset its…",
+   "image": "https://images.nintendolife.com/9d3e8cb526d33/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-11T14:45:00+00:00"
+  },
+  {
+   "title": "Glorious GMMK Eternal review",
+   "link": "https://www.pcgamer.com/hardware/gaming-keyboards/glorious-gmmk-eternal-review/",
+   "summary": "It seems Glorious is intent on converting you out of that old Amazon Basics keyboard you might have sat on your desk and into something with a little more of, well, everything. The new GMMK Eternal is the second product…",
+   "image": "https://cdn.mos.cms.futurecdn.net/5BwSv6aAQMJbpxBpkNmKT7-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T14:43:47+00:00"
+  },
+  {
+   "title": "AMD's Zen 6 gaming CPUs might be absolute monsters by the looks of the server chips—and there's a 3D V-Cache variant to keep an eye on",
+   "link": "https://www.pcgamer.com/hardware/processors/amds-zen-6-gaming-cpus-might-be-absolute-monsters-by-the-looks-of-the-server-chips-and-theres-a-3d-v-cache-variant-to-keep-an-eye-on/",
+   "summary": "AMD has revealed a substantial amount of detail on its next-gen Zen 6 CPU architecture, in the form of a technical deep dive on its newly-unveiled EPYC \"Venice\" range of server chips. These models will find themselves…",
+   "image": "https://cdn.mos.cms.futurecdn.net/rzParbRmcG9d7cPPxniue9-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T14:36:40+00:00"
+  },
+  {
+   "title": "PS Plus es una mina de oro para los fans de Assassin's Creed: 16 juegos disponibles con una sola suscripción",
+   "link": "https://areajugones.sport.es/videojuegos/ps-plus-es-una-mina-de-oro-para-los-fans-de-assassins-creed-16-juegos-disponibles-con-una-sola-suscripcion/",
+   "summary": "Assassin's Creed es una franquicia de la que solo un fan extremo va a ser capaz de decirte de carrerilla todas las entregas que se han lanzado hasta la fecha. Ubisoft dio en su momento con su gallina particular de los…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/assassins-creed-en-ps-plus-1-1024x575.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [],
+   "date": "2026-11-11T14:13:27+00:00"
+  },
+  {
+   "title": "\"I wish hardware like the Xbox Series S wouldn't be released\" - former Tekken director Katsuhiro Harada trashes Microsoft's console in front of senior Xbox staff",
+   "link": "https://www.eurogamer.net/katsuhiro-harada-xbox-series-s-wish-it-wouldnt-release",
+   "summary": "Katsuhiro Harada, formerly director on the Tekken series, is known for not pulling his punches. This truth was reinforced recently, as he said he wished the Xbox Series S \"wouldn't be released\" at a developer panel. All…",
+   "image": "https://assetsio.gnwcdn.com/Harada-Series-S.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [
+    "xbox"
+   ],
+   "date": "2026-11-11T14:09:30+00:00"
+  },
+  {
+   "title": "Mini Review: Barbie Rewind (PS5) - Fab Outer Layer Brings This Retro Ensemble Together",
+   "link": "https://www.pushsquare.com/reviews/ps5/barbie-rewind",
+   "summary": "Life in plastic, it's fantastic. The only Barbie title I've played, prior to Barbie Rewind , is a PC game named Fashion Designer, in which you choose clothes based on particular themes, then apply patterns, accessories,…",
+   "image": "https://images.pushsquare.com/fe3dbbe1cef40/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation",
+    "pc"
+   ],
+   "date": "2026-11-11T14:00:00+00:00"
+  },
+  {
+   "title": "Xbox Brings Halo's Iconic Pelican To Microsoft Flight Sim 2024 As Limited-Time Freebie",
+   "link": "https://www.purexbox.com/news/2026/11/xbox-brings-halos-iconic-pelican-to-microsoft-flight-sim-2024-as-limited-time-freebie",
+   "summary": "Act fast and claim the combat dropship for free! Asobo Studios is commemorating the 25th anniversary of Halo by introducing the iconic UNSC Pelican into Microsoft Flight Simulator 2024 . Over the years, the combat…",
+   "image": "https://images.purexbox.com/4a03ab95aa824/small.jpg",
+   "source": "Pure Xbox",
+   "lang": "en",
+   "cats": [
+    "xbox"
+   ],
+   "date": "2026-11-11T14:00:00+00:00"
+  },
+  {
+   "title": "Colin Farrell Says 'There's a Conversation to Be Had' About The Penguin Season 2, Having Filmed Just 2 Scenes for The Batman Part II",
+   "link": "https://www.ign.com/articles/colin-farrell-says-theres-a-conversation-to-be-had-about-the-penguin-season-2-having-filmed-just-2-scenes-for-the-batman-part-ii",
+   "summary": "Colin Farrell has confirmed he only appears in two scenes as the Penguin in The Batman Part II, but would love to play the character again in a potential Season 2 of the HBO show, insisting \"there's a conversation to be…",
+   "image": "https://assets-prd.ignimgs.com/2023/04/12/penguin-1681321284658.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-11T13:58:41+00:00"
+  },
+  {
+   "title": "Lootboxes, pay-to-win, virtual currencies and other blights unto gaming face heavy regulation as the EU tables new Digital Fairness Act",
+   "link": "https://www.rockpapershotgun.com/lootboxes-pay-to-win-virtual-currencies-and-other-blights-unto-gaming-face-heavy-regulation-as-the-eu-tables-new-digital-fairness-act",
+   "summary": "Loot boxes, dark patterns, virtual currencies, subscription services, pay-to-win systems, and many other trappings of diabolical digital serfdom all face extensive regulation under the European Commission's proposed…",
+   "image": "https://assetsio.gnwcdn.com/Overwatch-loot-box.png?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T13:30:00+00:00"
+  },
+  {
+   "title": "Try Hellraiser: Revival in This New PS5 Demo, Out Now",
+   "link": "https://www.pushsquare.com/news/2026/11/try-hellraiser-revival-in-this-new-ps5-demo-out-now",
+   "summary": "Play the prologue and chapter one. Saber Interactive is letting you sample the opening moments of Hellraiser: Revival via a new PS5 demo that's been put on the PS Store today. This isn't one that's tied to PS Plus…",
+   "image": "https://images.pushsquare.com/d913c827045c2/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation",
+    "releases"
+   ],
+   "date": "2026-11-11T13:30:00+00:00"
+  },
+  {
+   "title": "Apparently now we *won’t* see a 24 GB RTX 5080, which is probably actually good for our wallets",
+   "link": "https://www.pcgamer.com/hardware/graphics-cards/apparently-now-we-wont-see-a-24-gb-rtx-5080-which-is-probably-actually-good-for-our-wallets/",
+   "summary": "So, uhhh, apparently the long-rumoured 24 GB version of the RTX 5080 will not be coming to fruition, contrary to the previous rumour we reported on , which itself was contrary to previous rumours, which were contrary to…",
+   "image": "https://cdn.mos.cms.futurecdn.net/PAyH44t76kADMXqtedRwtk-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T13:09:01+00:00"
+  },
+  {
+   "title": "Mass Effect Could Still Be Saved, Ex-BioWare Developer Suggests, With Clair Obscur: Expedition 33 Holding the Key",
+   "link": "https://www.ign.com/articles/mass-effect-could-still-be-saved-ex-bioware-developer-suggests-with-clair-obscur-expedition-33-holding-the-key",
+   "summary": "The future of Mass Effect could be secured with a key learning from the beloved Clair Obscur: Expedition 33, a former BioWare veteran has suggested.",
+   "image": "https://assets-prd.ignimgs.com/2026/08/17/me1-blogroll-1786972844387.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-11T13:00:21+00:00"
+  },
+  {
+   "title": "This Is Where the Rings Are in Rings of Power Season 3",
+   "link": "https://www.ign.com/articles/this-is-where-the-rings-are-in-rings-of-power-season-3",
+   "summary": "Where in Middle-earth are the Rings of Power as Season 3 begins, what does Sauron want with them, and what do they have to do with the One Ring?",
+   "image": "https://assets-prd.ignimgs.com/2026/11/10/rings-of-power-where-are-the-rings-season-3-thumb-1794348716941.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-11T13:00:00+00:00"
+  },
+  {
+   "title": "What New DC Studios Boss Jeremy Latcham’s Past Comments and Films Suggest About the Future of the DCU",
+   "link": "https://www.ign.com/articles/what-new-dc-studios-boss-jeremy-latchams-past-comments-and-films-suggest-about-the-future-of-the-dcu",
+   "summary": "Outgoing DC Studios boss James Gunn and incoming boss Jeremy Latcham worked together on Guardians of the Galaxy. In fact, Latcham was the creative exec who hired Gunn to write and direct his first MCU film.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/11/gettyimages-469662012-1794360069268.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-11T13:00:00+00:00"
+  },
+  {
+   "title": "Opinion: A Pokémon Rave Just Might Have Been The Strangest Night Of My Life",
+   "link": "https://www.nintendolife.com/features/opinion-a-pokemon-rave-just-might-have-been-the-strangest-night-of-my-life",
+   "summary": "Drum and Feebas. It's a strange feeling, finding yourself in a dark room with thousands of Pokémon fans while a DJ blasts EDM so loud you can feel it in your chest. Yet that's how I found myself yesterday evening,…",
+   "image": "https://images.nintendolife.com/14ad3ca2238df/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-11T13:00:00+00:00"
+  },
+  {
+   "title": "Trails beyond the Horizon Sequel Confirmed for 2027 as Falcom Steps Back from Remakes",
+   "link": "https://www.pushsquare.com/news/2026/11/trails-beyond-the-horizon-sequel-confirmed-for-2027-as-falcom-steps-back-from-remakes",
+   "summary": "The big one. The next game in Falcom's long running Trails series will be a sequel to Trails beyond the Horizon . The developer confirmed this in its annual financial report, putting to rest mass speculation from fans…",
+   "image": "https://images.pushsquare.com/bdf0fc8c6ce71/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-11T13:00:00+00:00"
+  },
+  {
+   "title": "GTA 6 Gets Its First Unboxing Video As Shipping Begins For Xbox & PS5",
+   "link": "https://www.purexbox.com/news/2026/11/gta-6-gets-its-first-unboxing-video-as-shipping-begins-for-xbox-and-ps5",
+   "summary": "Here's a look at what's inside the physical edition. While Rockstar Games mentioned a date of November 12th for shipping the physical edition of GTA 6 for Xbox and PS5 the other day, we noticed other retailers stating…",
+   "image": "https://images.purexbox.com/f7c13b44cd992/small.jpg",
+   "source": "Pure Xbox",
+   "lang": "en",
+   "cats": [
+    "xbox",
+    "playstation"
+   ],
+   "date": "2026-11-11T13:00:00+00:00"
+  },
+  {
+   "title": "As of this week, PlayStation 5 has surpassed 100 million consoles sold",
+   "link": "https://www.eurogamer.net/playstation-5-100-million-sales-november-2026",
+   "summary": "PlayStation 5 has officially surpassed 100m consoles sold, Sony's updated sales data revealed. The milestone was reached on 10th November, almost exactly six years on from the console's launch. Read more",
+   "image": "https://assetsio.gnwcdn.com/where-to-preorder-ps5-pro-eurogamer.png?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [
+    "playstation",
+    "releases"
+   ],
+   "date": "2026-11-11T12:49:10+00:00"
+  },
+  {
+   "title": "Por qué los 30 FPS de GTA VI no tienen que ser un problema: 5 videojuegos históricos que triunfaron sin llegar a 60 FPS",
+   "link": "https://areajugones.sport.es/videojuegos/por-que-los-30-fps-de-gta-vi-no-tienen-que-ser-un-problema-5-videojuegos-historicos-que-triunfaron-sin-llegar-a-60-fps/",
+   "summary": "GTA VI funcionará a 30 FPS en todas sus plataformas y eso, para muchos usuarios, está siendo relativamente dramático. Aunque ya se anticipaba que hacer funcionar a 60 FPS la bestia técnica que ha preparado Rockstar iba…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/gta-vi-30-fps-2-1024x574.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [],
+   "date": "2026-11-11T12:41:04+00:00"
+  },
+  {
+   "title": "The Outer Worlds 2's first story expansion could well be the opening to the series' last hurrah and will have you hunting for a cure to \"explosive cell death\" in December",
+   "link": "https://www.rockpapershotgun.com/the-outer-worlds-2s-first-story-expansion-could-well-be-the-opening-to-the-series-last-hurrah-and-will-have-you-hunting-for-a-cure-to-explosive-cell-death-in-december",
+   "summary": "Since they released The Outer Worlds 2 around this time last year, the world has rather turned upside down for Obsidian. The studio lost a chunk of staff to Microsoft's mass layoffs and have pivoted to making a new…",
+   "image": "https://assetsio.gnwcdn.com/the-outer-worlds-2-first-dlc-side-effects-guaranteed-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T12:29:50+00:00"
+  },
+  {
+   "title": "World of Warcraft: Forever secret hunters have found the MMO's first hidden treasure",
+   "link": "https://www.eurogamer.net/world-of-warcraft-forever-secret-dawn-walker-sword",
+   "summary": "World of Warcraft secret hunters are a noble breed, known for scouring the MMO for years for hidden trinkets and treasures. With World of Warcraft: Forever's launch, they've uncovered a quest chain for an especially…",
+   "image": "https://assetsio.gnwcdn.com/WoW_Forever_SCENIC_Announce_Skyborne_Customization_061.png?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [
+    "releases"
+   ],
+   "date": "2026-11-11T12:15:50+00:00"
+  },
+  {
+   "title": "What Happens When Two Games Have The Same Title? Indie Publisher Reveals Heartwarming Answer",
+   "link": "https://www.nintendolife.com/news/2026/11/what-happens-when-two-games-have-the-same-title-indie-publisher-reveals-heartwarming-answer",
+   "summary": "\"I signed their game and now we're launching both\". With so many games releasing these days, it must be so difficult to come up with a completely unique title without encroaching on another developer's work. Case in…",
+   "image": "https://images.nintendolife.com/e6145c72d7fba/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo",
+    "releases"
+   ],
+   "date": "2026-11-11T12:15:00+00:00"
+  },
+  {
+   "title": "Microsoft’s own upscaler and alternative to FSR just landed on Xbox Ally X handhelds - actually uses an NPU for something useful",
+   "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/microsofts-own-upscaler-and-alternative-to-fsr-just-landed-on-xbox-ally-x-handhelds-actually-uses-an-npu-for-something-useful/",
+   "summary": "A few months ago, Microsoft opened up Auto SR support for the Asus ROG Xbox Ally X , allowing it to use the AI-aided upscaling tech to improve frame rates in games. But that was only for people using a Preview version…",
+   "image": "https://cdn.mos.cms.futurecdn.net/YP43KX8Ttr8qaaXDtVVoU8-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc",
+    "xbox"
+   ],
+   "date": "2026-11-11T12:11:36+00:00"
+  },
+  {
+   "title": "Microsoft Announces Last-Minute Restock Of The Xbox Series X25 Console",
+   "link": "https://www.purexbox.com/news/2026/11/microsoft-announces-last-minute-restock-of-the-xbox-series-x25-console",
+   "summary": "Available at launch through the Microsoft Store and participating retailers. Ever since the Xbox Series X25 console first became available for pre-order in August, it's become hard to get your hands on one. The \"Limited…",
+   "image": "https://images.purexbox.com/639d70ff27d7a/small.jpg",
+   "source": "Pure Xbox",
+   "lang": "en",
+   "cats": [
+    "xbox",
+    "releases"
+   ],
+   "date": "2026-11-11T12:00:00+00:00"
+  },
+  {
+   "title": "Avengers Endgame: Encore Finally Gets a Disney+ Release Date, And It's Real Soon",
+   "link": "https://www.ign.com/articles/avengers-endgame-encore-finally-gets-a-disney-release-date-and-its-real-soon",
+   "summary": "Avengers Endgame: Encore will get an imminent Disney+ launch, it's been confirmed.",
+   "image": "https://assets-prd.ignimgs.com/2026/04/19/avengers-endgame-re-release-1776625157270.png",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [
+    "releases"
+   ],
+   "date": "2026-11-11T11:52:42+00:00"
+  },
+  {
+   "title": "WoW: Forever to add extra gold to high-level quests, since it turns out you don't get extra cash at 60",
+   "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-to-add-extra-gold-to-high-level-quests-since-it-turns-out-you-dont-get-extra-cash-at-60/",
+   "summary": "Best MMOs : Most massive Best strategy games : Number crunching Best open world games : Unlimited exploration Best survival games : Live craft love Best horror games : Fight or flight",
+   "image": "https://cdn.mos.cms.futurecdn.net/8aFJkNpnCky3pWYeEqNyH8-1920-80.png",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T11:41:45+00:00"
+  },
+  {
+   "title": "Rompiendo el hielo (Temporada 2): Guía de episodios y número de capítulos del anime",
+   "link": "https://areajugones.sport.es/anime/rompiendo-el-hielo-temporada-2-guia-de-episodios-y-numero-de-capitulos-del-anime/",
+   "summary": "'Rompiendo el hielo' ('The Ramparts of Ice' en inglés) estrenó sus primeros episodios en Netflix siendo una serie muy poco conocida, y ha llegado a esta segunda temporada convertido en un anime de romance…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/rompiendo-el-hielo-temporada-2-guia-de-episodios-1024x576.png",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [],
+   "date": "2026-11-11T11:35:22+00:00"
+  },
+  {
+   "title": "God of War: Ragnarok ya es el juego de PlayStation que más dinero ha generado, pero Kratos no reina en solitario",
+   "link": "https://areajugones.sport.es/videojuegos/god-of-war-ragnarok-ya-es-el-juego-de-playstation-que-mas-dinero-ha-generado-pero-kratos-no-reina-en-solitario/",
+   "summary": "Uno de los momentos más memorables del ya desaparecido E3 fue cuando, en la ceremonia de 2016, Santa Monica Studio presentó un nuevo God of War que lo cambiaría todo para la saga. Este soft-reboot de la franquicia fue…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/god-of-war-ventas-1024x576.png",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-11T11:31:16+00:00"
+  },
+  {
+   "title": "'We're kind of friendslop': CEO of Jackbox Games sees the link between party games and this new trend but doesn't think it's necessarily 'a negative moniker'",
+   "link": "https://www.pcgamer.com/games/were-kind-of-friendslop-ceo-of-jackbox-games-sees-the-link-between-party-games-and-this-new-trend-but-doesnt-think-its-necessarily-a-negative-moniker/",
+   "summary": "What was the first instance of a friendslop game? Was it REPO ? Human: Fall Flat ? Or perhaps it was the first time a group of people tried to guess what someone was saying in what we would now call a game of charades?…",
+   "image": "https://cdn.mos.cms.futurecdn.net/CfPExkt5CSM4jRfS6smJnW-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T11:22:49+00:00"
+  },
+  {
+   "title": "Monster Hunter Wilds' upcoming Ascendance expansion may be getting a beta, some curious Steam backend updates suggest",
+   "link": "https://www.eurogamer.net/monster-hunter-wilds-ascendance-beta-steam-backend",
+   "summary": "Monster Hunter Wilds 's first expansion, Ascendance, is set for release sometime next year . But, judging by some very suspect recent changes to the Wilds beta app on Steam, we may be playing some of the new stuff…",
+   "image": "https://assetsio.gnwcdn.com/monster-hunter-wilds-lagiacrus-monster-screen-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T11:16:50+00:00"
+  },
+  {
+   "title": "World of Warcraft: Forever's magical opening week reminds us all about the power of the MMO, and the threat it poses to your free time",
+   "link": "https://www.eurogamer.net/world-of-warcraft-forever-now-playing",
+   "summary": "World of Warcraft: Forever is a time vampire. Since its release last Wednesday, I have spent 78 hours in Azeroth. Some of that I was AFK, sure. But for many of those hours, I was lost, happily, in the rolling hills and…",
+   "image": "https://assetsio.gnwcdn.com/WoW_Forever_Cinematic_Still_7.jpeg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-11T11:08:30+00:00"
+  },
+  {
+   "title": "Best New Books to Read in November 2026: 9 Must-Read Sci-Fi, Fantasy and Romance Releases",
+   "link": "https://www.ign.com/articles/best-new-books-november-2026",
+   "summary": "Discover the best new books releasing in November 2026, featuring anticipated releases from Rebecca Yarros, John Scalzi, Jason Pargin and Nick Harkaway.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/11/best-books-november-2026-ign-2-1794394814979.png",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-11T11:00:38+00:00"
+  },
+  {
+   "title": "As The Elder Scrolls 5 turns 15, massive mod Beyond Skyrim: Bruma gets a 2.0 update delivering a new quest, extra dungeons and an \"expanded worldspace\"",
+   "link": "https://www.rockpapershotgun.com/as-the-elder-scrolls-5-turns-15-massive-mod-beyond-skyrim-bruma-gets-a-20-update-delivering-a-new-quest-extra-dungeons-and-an-expanded-worldspace",
+   "summary": "Warning: I'm probably about to make you feel old. Today, November 11th 2026, is the 15th anniversary of Skyrim 's release. The first one, before it was re-released on every other platform under the sun. Fittingly, one…",
+   "image": "https://assetsio.gnwcdn.com/beyond-skyrim-bruma-mod-update-minotaur-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T11:00:00+00:00"
+  },
+  {
+   "title": "Two Games Are Available Today With Xbox Game Pass (November 11)",
+   "link": "https://www.purexbox.com/news/2026/11/two-games-are-available-today-with-xbox-game-pass-november-11",
+   "summary": "A charming pair of day one releases. Welcome to your latest Xbox Game Pass update! Today, we've got two day one releases joining the Ultimate and PC tiers of the service. As per the usual, we'll summarise your two new…",
+   "image": "https://images.purexbox.com/074bb02bc1e21/small.jpg",
+   "source": "Pure Xbox",
+   "lang": "en",
+   "cats": [
+    "xbox",
+    "pc"
+   ],
+   "date": "2026-11-11T11:00:00+00:00"
+  },
+  {
+   "title": "El histórico batacazo de PlayStation con sus juegos como servicio: todos sus proyectos cancelados, estudios cerrados y su único gran éxito",
+   "link": "https://areajugones.sport.es/videojuegos/el-historico-batacazo-de-playstation-con-sus-juegos-como-servicio-todos-sus-proyectos-cancelados-estudios-cerrados-y-su-unico-gran-exito/",
+   "summary": "En 2022, PlayStation decidió apostar por los juegos como servicio. El motivo, probablemente, vino derivado del éxito de propuestas como Fortnite, Roblox y GTA Online, ocupando los primeros puestos de ingresos en la…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/playstation-fracaso-1024x576.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-11T10:55:07+00:00"
+  },
+  {
+   "title": "Nintendo Defends Decision to Cut Mario and Yoshi Easter Eggs From The Legend of Zelda: Ocarina of Time Remake",
+   "link": "https://www.ign.com/articles/nintendo-defends-decision-to-cut-mario-and-yoshi-easter-eggs-from-the-legend-of-zelda-ocarina-of-time-remake",
+   "summary": "Nintendo has defended its decision to scrub the secret appearance of Mario characters from its The Legend of Zelda: Ocarina of Time remake.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/11/untitled-1-1794393973423.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-11T10:51:26+00:00"
+  },
+  {
+   "title": "El actor de Goku lo confirma: Dragon Ball Super: Beerus tiene nuevo doblaje, aunque se reutiliza parte del anterior",
+   "link": "https://areajugones.sport.es/anime/el-actor-de-goku-lo-confirma-dragon-ball-super-beerus-tiene-nuevo-doblaje-aunque-se-reutiliza-parte-del-anterior/",
+   "summary": "'Dragon Ball Super: Beerus' es un remake de una parte de la historia que ya conocemos. Visualmente la serie ha recibido una actualización importante, pero... ¿y las voces? Una de las cosas que más está llamando la…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/dragon-ball-super-beerus-doblaje-nuevo-1024x576.png",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [],
+   "date": "2026-11-11T10:46:43+00:00"
+  },
+  {
+   "title": "The Legend of Zelda: Ocarina of Time Remake Players Use In-Game Ocarina to Play Everything From Linkin Park, Titanic, and Japanese Supermarket Themes",
+   "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-players-use-in-game-ocarina-to-play-everything-from-linkin-park-titanic-and-japanese-supermarket-themes",
+   "summary": "The much anticipated remake of The Legend of Zelda: Ocarina of Time launched on November 5, and one feature has fast become a big hit: the fact that you can now play any tune you like on Link’s ocarina. Now, social…",
+   "image": "https://assets-prd.ignimgs.com/2026/11/11/thelegendofzeldaocarinaoftime-46-1794393387768.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [
+    "nintendo",
+    "releases"
+   ],
+   "date": "2026-11-11T10:37:33+00:00"
+  },
+  {
+   "title": "Casualties: Unknown is a total pain simulator that makes other survival games seem like massive cowards",
+   "link": "https://www.rockpapershotgun.com/casualties-unknown-is-a-total-pain-simulator-that-makes-other-survival-games-seem-like-massive-cowards",
+   "summary": "Content warning for discussion of extreme violence and self-harm. Read more",
+   "image": "https://assetsio.gnwcdn.com/20261110144234_1.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-11T10:28:40+00:00"
+  },
+  {
+   "title": "Nintendo Switch 2 Drops to All-Time Low Price of £309 in Early Black Friday Deal",
+   "link": "https://www.ign.com/articles/nintendo-switch-2-drops-to-all-time-low-price-of-309-in-early-black-friday-deal",
+   "summary": "Save over £100 on the Nintendo Switch 2 in the UK ahead of Black Friday. A limited-time AliExpress voucher code drops the console to a record-low £309 with local delivery.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/09/switch2ocarina-1794245852166.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-11T10:16:45+00:00"
+  },
   {
    "title": "First November 2026 PS Plus Extra Game Available to Download Now",
    "link": "https://www.pushsquare.com/news/2026/11/first-november-2026-ps-plus-extra-game-available-to-download-now",
@@ -1403,967 +2349,6 @@
     "releases"
    ],
    "date": "2026-11-10T16:19:40+00:00"
-  },
-  {
-   "title": "El cofundador original de BioWare quiere reunir al viejo equipo para salvar Mass Effect y sus sagas: \"Volver a trabajar en Dragon Age sería un sueño\"",
-   "link": "https://areajugones.sport.es/videojuegos/el-cofundador-original-de-bioware-quiere-reunir-al-viejo-equipo-para-salvar-mass-effect-y-sus-sagas-volver-a-trabajar-en-dragon-age-seria-un-sueno/",
-   "summary": "Trent Oster, cofundador de BioWare, quiere reunir a los miembros veteranos del estudio para tratar de rescatar sus sagas más icónicas (especialmente Mass Effect y Dragon Age) tras el cierre del estudio por parte de…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/bioware-mass-effect-dragon-age-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-10T16:16:34+00:00"
-  },
-  {
-   "title": "GTA 6 Is The Most Preordered Game Of All Time For PlayStation And Xbox",
-   "link": "https://www.gamespot.com/articles/gta-6-is-the-most-preordered-game-of-all-time-for-playstation-and-xbox/",
-   "summary": "Rockstar's Grand Theft Auto 6 releases on November 19 for PlayStation 5 and Xbox Series X|S, and the game is breaking records before it even releases. Sony announced today that GTA 6 is now the most preordered game in…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_14.jpg?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [
-    "playstation",
-    "xbox"
-   ],
-   "date": "2026-11-10T16:15:37+00:00"
-  },
-  {
-   "title": "I fought Queens and Knights, but somehow my hardest opponents in Stack Order, the next great deckbuilder, were 2 birds",
-   "link": "https://www.pcgamer.com/games/roguelike/i-fought-queens-and-knights-but-somehow-my-hardest-opponents-in-stack-order-the-next-great-deckbuilder-were-2-birds/",
-   "summary": "What's worse than fighting one human-sized bird with sunglasses? Fighting two human-sized birds with sunglasses. That wasn't a usual problem in my everyday life until I started playing Stack Order's demo , the…",
-   "image": "https://cdn.mos.cms.futurecdn.net/VL5XkPBfaaR4jpNpnnUjcm-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T16:12:12+00:00"
-  },
-  {
-   "title": "Xbox Vs. PS5: GTA 6 Specs Revealed, And These Are The Biggest Differences",
-   "link": "https://www.purexbox.com/news/2026/11/xbox-vs-ps5-gta-6-specs-revealed-and-these-are-the-biggest-differences",
-   "summary": "\"Pushing both platforms to their absolute limits\". Rockstar Games has today lifted the lid on a bunch of specs for both the Xbox and PS5 versions of GTA 6 , revealing some of the biggest differences (and similarities)…",
-   "image": "https://images.purexbox.com/2259805761ccf/small.jpg",
-   "source": "Pure Xbox",
-   "lang": "en",
-   "cats": [
-    "xbox",
-    "playstation"
-   ],
-   "date": "2026-11-10T16:05:00+00:00"
-  },
-  {
-   "title": "New TMNT: Splintered Fate Update Adds Even More Reasons To Play In Co-Op",
-   "link": "https://www.nintendolife.com/news/2026/11/new-tmnt-splintered-fate-update-adds-even-more-reasons-to-play-in-co-op",
-   "summary": "Co-op Cowabunga. Super Evil Megacorp has been steadily pumping out new content for its TMNT Hades -like, Splintered Fate , ever since launch, and today, the team has added a bunch of new reasons to embark on your…",
-   "image": "https://images.nintendolife.com/ef471f5abac9d/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo",
-    "releases"
-   ],
-   "date": "2026-11-10T16:00:00+00:00"
-  },
-  {
-   "title": "Beloved Co-Op Adventure Big Walk in Hot Water After Failing to Disclose AI Usage",
-   "link": "https://www.pushsquare.com/news/2026/11/beloved-co-op-adventure-big-walk-in-hot-water-after-failing-to-disclose-ai-usage",
-   "summary": "Walk of shame. Big Walk , one of the most highly-rated games of 2026, has suddenly found itself in a spot of bother, and it's all thanks to those controversial AI tools. This story stems from the Independent Games…",
-   "image": "https://images.pushsquare.com/db95813a7fa3b/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-10T16:00:00+00:00"
-  },
-  {
-   "title": "Rockstar explica por qué GTA VI solo irá a 30 FPS: \"Llevaremos PS5 y Xbox Series al límite para dar vida a Leonida\"",
-   "link": "https://areajugones.sport.es/videojuegos/rockstar-explica-por-que-gta-vi-solo-ira-a-30-fps-llevaremos-ps5-y-xbox-series-al-limite-para-dar-vida-a-leonida/",
-   "summary": "Ha sido durante meses uno de los tópicos más calientes respecto a GTA VI: ¿funcionará lo nuevo de Rockstar solo a 30 FPS o se conseguirá ir un paso más allá? Ahora, ya tenemos por primera vez la respuesta oficial: no…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/gta-vi-30-fps-1-1024x578.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "playstation",
-    "xbox"
-   ],
-   "date": "2026-11-10T15:49:54+00:00"
-  },
-  {
-   "title": "I feel better than ever waiting for GTA 6 on PC now Rockstar confirms it's targeting 30 fps on PlayStation and Xbox",
-   "link": "https://www.pcgamer.com/games/grand-theft-auto/i-feel-better-than-ever-waiting-for-gta-6-on-pc-now-rockstar-confirms-its-targeting-30-fps-on-playstation-and-xbox/",
-   "summary": "Developer of entertainment products and pillar of the global economy Rockstar has announced that Grand Theft Auto 6 , its much-ballyhooed upcoming Bonnie and Clyde simulator, will be targeting 30 frames per second on…",
-   "image": "https://cdn.mos.cms.futurecdn.net/yTKHqSdfMgjayUTSfEEiKF-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc",
-    "playstation",
-    "xbox"
-   ],
-   "date": "2026-11-10T15:41:26+00:00"
-  },
-  {
-   "title": "GTA Releases Could Speed Up, Take-Two Boss Says",
-   "link": "https://www.gamespot.com/articles/gta-releases-could-speed-up-take-two-boss-says/",
-   "summary": "According to Take-Two boss Strauss Zelnick, the \"nature and velocity\" of the company's content releases in its major franchises, including GTA, will look \"dramatically different over the next decade.\" He told this to…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6NewScreen-Large.jpeg?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-10T15:39:51+00:00"
-  },
-  {
-   "title": "Marathon's Fate Hangs in the Balance as Bungie Details Its Game-Saving PvE Update",
-   "link": "https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update",
-   "summary": "Symbiosis still on for December. Bungie has reconfirmed that Marathon's major 'Symbiosis' update will launch on the 8th December. You may recall that it was delayed back in September. Many believe that this patch will…",
-   "image": "https://images.pushsquare.com/83406d3836989/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation",
-    "releases"
-   ],
-   "date": "2026-11-10T15:30:00+00:00"
-  },
-  {
-   "title": "GTA 6 Will Be Playable On Xbox One Through Xbox Cloud Gaming",
-   "link": "https://www.purexbox.com/news/2026/11/gta-6-will-be-playable-on-xbox-one-through-xbox-cloud-gaming",
-   "summary": "Rockstar also confirms GTA 6 will run at 30FPS. Buying current-gen Xbox hardware isn't cheap these days, and with GTA 6 is now confirmed to be running 30FPS on Xbox Series X|S, what chance would an Xbox One have of…",
-   "image": "https://images.purexbox.com/1ffbb6554e28b/small.jpg",
-   "source": "Pure Xbox",
-   "lang": "en",
-   "cats": [
-    "xbox"
-   ],
-   "date": "2026-11-10T15:26:00+00:00"
-  },
-  {
-   "title": "You Don't Need a Current-Gen Console if You're Happy to Play GTA 6 at Xbox Series S Settings",
-   "link": "https://www.ign.com/articles/you-dont-need-a-current-gen-console-if-youre-happy-to-play-gta-6-at-xbox-series-s-settings",
-   "summary": "After months of speculation, Rockstar finally revealed that GTA 6 would be targeting 30 fps on all of the current-generation consoles, including the Xbox Series S. But, thanks to a cloud streaming deal with Xbox, you…",
-   "image": "https://assets-prd.ignimgs.com/2026/11/09/gta6-launch-ai-blogroll-1794222934628.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "xbox"
-   ],
-   "date": "2026-11-10T15:11:25+00:00"
-  },
-  {
-   "title": "\"A fight for all workers\": SAG-AFTRA throw weight behind emerging Rockstar union ahead of its GTA 6 release week vote",
-   "link": "https://www.rockpapershotgun.com/a-fight-for-all-workers-sag-aftra-throw-weight-behind-emerging-rockstar-union-ahead-of-its-gta-6-release-week-vote",
-   "summary": "In what has come to feel like the dawn of the final day before Grand Theft Auto VI 's release, one thing that Rockstar really don't want people to be aware of is the ongoing legal dispute between the Rockstar Games…",
-   "image": "https://assetsio.gnwcdn.com/gta-6-cloud-streaming-xbox-no-pc-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T15:04:20+00:00"
-  },
-  {
-   "title": "Here’s How Your Xbox One Can Play GTA 6",
-   "link": "https://www.gamespot.com/articles/heres-how-your-xbox-one-can-play-gta-6/",
-   "summary": "Grand Theft Auto 6 is out next week, and the game is launching on both Xbox Series X|S and PS5. If you don't have an expensive current-generation system , it previously appeared you would be out of luck to play GTA 6,…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/08/gta-6-subpoena.webp?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [
-    "playstation",
-    "xbox",
-    "releases"
-   ],
-   "date": "2026-11-10T15:02:58+00:00"
-  },
-  {
-   "title": "Rockstar details Grand Theft Auto 6 PS5 Pro enhancements, but it'll still only run at 30FPS",
-   "link": "https://www.eurogamer.net/gta-6-30-fps-platforms-absolute-limit",
-   "summary": "As Grand Theft Auto 6 preloads go live, developer Rockstar has detailed the enhancements coming to the PS5 Pro version of the game, confirming these won't include framerates above the 30 FPS its targeting for consoles.…",
-   "image": "https://assetsio.gnwcdn.com/GTA-frame-rate.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-10T15:01:10+00:00"
-  },
-  {
-   "title": "GTA 6 Preloads Are Now Available",
-   "link": "https://www.ign.com/articles/gta-6-preloads-are-now-available-ps5-xbox",
-   "summary": "You can now preload Grand Theft Auto 6 onto your PS5 or Xbox Series X|S. But you still have to wait until November 19 to play it.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/gta-6-preload-1794322351146.jpeg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "playstation",
-    "xbox"
-   ],
-   "date": "2026-11-10T15:00:07+00:00"
-  },
-  {
-   "title": "Análisis de Metaphor: ReFantazio en Switch 2: Uno de los mejores JRPG ahora en la mejor forma de jugarlo",
-   "link": "https://areajugones.sport.es/videojuegos/analisis-de-metaphor-refantazio-en-switch-2-uno-de-los-mejores-jrpg-ahora-en-la-mejor-forma-de-jugarlo/",
-   "summary": "Lo he jugado en su versión final y en profundidad, muy por encima del prólogo de la demo que anda rulando, con un código facilitado por SEGA. Repartí la partida con una debilidad clara —la mayor parte en modo portátil,…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/analisis-metaphor-switch2-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-10T15:00:00+00:00"
-  },
-  {
-   "title": "How Silent Hill: Townfall's developer created a fictional town that's still real—'It exists. It's there'",
-   "link": "https://www.pcgamer.com/games/horror/how-silent-hill-townfalls-developer-created-a-fictional-town-thats-still-real-it-exists-its-there/",
-   "summary": "Silent Hill: Townfall 's St. Amelia is a singularly unnerving location, especially if, like me, you are blessed with the good fortune to be a Scot. It's a fictional place, but one that a lot of us are intimately…",
-   "image": "https://cdn.mos.cms.futurecdn.net/NrL8Psamwm6va9UKBXjkea-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T15:00:00+00:00"
-  },
-  {
-   "title": "Review: Metaphor: ReFantazio (Switch 2) - An Extraordinary JRPG That Could Use Another Optimisation Pass",
-   "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/metaphor-refantazio",
-   "summary": "Atlus shrugged. A game with the name 'Metaphor' that tackles issues such as culture diversity, democracy, and classism isn't exactly subtle in its delivery, but is just as poignant in 2026 as it was when the game first…",
-   "image": "https://images.nintendolife.com/5d2aa699b5ff6/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-10T15:00:00+00:00"
-  },
-  {
-   "title": "Unknown 9 Dev Being Shut Down Two Years After Disaster PS5 Launch",
-   "link": "https://www.pushsquare.com/news/2026/11/unknown-9-dev-being-shut-down-two-years-after-disaster-ps5-launch",
-   "summary": "Bandai Namco confirms. Do you remember Unknown 9: Awakening ? Published by Bandai Namco, the story-driven stealth-action title had a fairly hard marketing push ahead of its release back in October 2024 — but it was…",
-   "image": "https://images.pushsquare.com/2ce0672922c96/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation",
-    "releases"
-   ],
-   "date": "2026-11-10T15:00:00+00:00"
-  },
-  {
-   "title": "GTA VI confirma que PS5 Pro será el mejor lugar para jugar: se revelan todas las mejoras que tendrá en la consola",
-   "link": "https://areajugones.sport.es/videojuegos/gta-vi-confirma-que-ps5-pro-sera-el-mejor-lugar-para-jugar-se-revelan-todas-las-mejoras-que-tendra-en-la-consola/",
-   "summary": "A falta de muy pocos días para el lanzamiento definitivo de GTA VI, Rockstar no para de realizar anuncios relacionados con su nuevo título. Desde poner a la venta un coche de un millón de libras hasta montar su propio…",
-   "image": "https://www.youtube.com/embed/_yl5ELcmugI",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "playstation",
-    "releases"
-   ],
-   "date": "2026-11-10T14:53:24+00:00"
-  },
-  {
-   "title": "Europe is about to get very tough on loot boxes in games, according to a leaked draft of the landmark Digital Fairness Act",
-   "link": "https://www.eurogamer.net/digital-fairness-act-eu-europe-loot-boxes-regulation",
-   "summary": "An alleged draft of the potentially game-changing Digital Fairness Act has leaked ahead of its scheduled publication tomorrow (11th November), containing proposals that could dramatically affect the way games operate…",
-   "image": "https://assetsio.gnwcdn.com/evil_lootbox.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-10T14:46:50+00:00"
-  },
-  {
-   "title": "GTA VI podría haber batido ya el récord histórico de reservas de Cyberpunk 2077, y lo habría hecho con una mano atada a la espalda",
-   "link": "https://areajugones.sport.es/videojuegos/gta-vi-podria-haber-batido-ya-el-record-historico-de-reservas-de-cyberpunk-2077-y-lo-habria-hecho-con-un/",
-   "summary": "Un nuevo análisis no oficial ha afirmado que GTA VI ya se ha convertido en el videojuego más reservado de la historia, superando de esta manera a Cyberpunk 2077, que tenía el récord desde su lanzamiento en 2020. Según…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/gta-vi-cyberpunk-2077-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "releases"
-   ],
-   "date": "2026-11-10T14:46:32+00:00"
-  },
-  {
-   "title": "Rockstar kills any hopes of streaming GTA 6 from Xbox to PC, but you can stream it to your old Xbox One if you like",
-   "link": "https://www.eurogamer.net/gta-6-xbox-cloud-streaming-pc-xbox-one",
-   "summary": "Rockstar Games has today clarified a few remaining details about Grand Theft Auto 6's framerate target and visual settings on PlayStation 5, PS5 Pro and Xbox Series X/S . And as part of the same announcement , the…",
-   "image": "https://assetsio.gnwcdn.com/xbox-one-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [
-    "pc",
-    "playstation",
-    "xbox"
-   ],
-   "date": "2026-11-10T14:40:10+00:00"
-  },
-  {
-   "title": "GTA 6 PS5 Pro Features, Frame Rates, And Xbox Cloud Gaming Details Confirmed By Rockstar",
-   "link": "https://www.gamespot.com/articles/gta-6-ps5-pro-features-frame-rates-and-xbox-cloud-gaming-details-confirmed-by-rockstar/",
-   "summary": "Rockstar has finally shared details on what PlayStation 5 Pro owners can expect from Grand Theft Auto 6 on their expensive consoles, but has also confirmed that all platforms will run at the exact same frame rate .…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-PC-sooner-than-expected-scaled-1.jpg?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [
-    "playstation",
-    "xbox"
-   ],
-   "date": "2026-11-10T14:37:16+00:00"
-  },
-  {
-   "title": "Big Walk developer reveals it used generative AI 'sparingly', estimates 'well under 0.1%' was actually coded using LLMs",
-   "link": "https://www.pcgamer.com/games/puzzle/big-walk-developer-reveals-it-used-generative-ai-sparingly-estimates-well-under-0-1-percent-was-actually-coded-using-llms/",
-   "summary": "Big Walk developer House House has sparked a brand-new generative AI debate after revealing that it utilised LLMs \"sparingly\" during the final stretch of the game's development. The revelation came in the hours…",
-   "image": "https://cdn.mos.cms.futurecdn.net/opLfRff2WdB2jTWDfA2RSc-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T14:36:16+00:00"
-  },
-  {
-   "title": "Big Walk’s AI Usage Was Tiny, But Its Disclosure Has Sparked A Bigger Debate",
-   "link": "https://www.gamespot.com/articles/big-walks-ai-usage-was-tiny-but-its-disclosure-has-sparked-a-bigger-debate/",
-   "summary": "Big Walk developer House House has confirmed that it used AI during the \"final stretch\" of its development. The studio recently updated its FAQs page to confirm its use of the tech, with the news coming after 19…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Big-Walk-2.jpg?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-10T14:35:13+00:00"
-  },
-  {
-   "title": "Battlefield 6 vuelve a ser gratis: EA repite la apuesta con la Temporada 5",
-   "link": "https://areajugones.sport.es/videojuegos/battlefield-6-vuelve-a-ser-gratis-ea-repite-la-apuesta-con-la-temporada-5/",
-   "summary": "Electronic Arts vuelve a ofrecer Battlefield 6 de forma gratuita. Los jugadores podrán acceder a una selección de partidas y participar en Atraco al casino, la segunda fase de su Temporada 5. La promoción llega pocas…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/bt-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-10T14:31:07+00:00"
-  },
-  {
-   "title": "The Witcher 3’s New Expansion Has Me Wondering if BioWare Should Have Focused on Dragon Age and Mass Effect DLC Rather Than Big New Games",
-   "link": "https://www.ign.com/articles/the-witcher-3s-new-expansion-has-me-wondering-if-bioware-should-have-focused-on-dragon-age-and-mass-effect-dlc-rather-than-big-new-games",
-   "summary": "The Witcher 3's Songs of the Past expansion has me wondering: what if BioWare had returned to its older games and made new expansions?",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/mass-effect-dlc-blogroll-1794316062131.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-10T14:30:00+00:00"
-  },
-  {
-   "title": "Nintendo’s New Gift-Giving Feature Comes With Some Very Nintendo Restrictions",
-   "link": "https://www.gamespot.com/articles/nintendo-new-gift-giving-feature-comes-with-some-very-nintendo-restrictions/",
-   "summary": "A new update is available for all Nintendo Switch 2 and Switch consoles, and if you're on a Nintendo Account family plan, version 23.5.0 will allow you to once again gift games to members in your group. \"Just in time…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Nintendo-Gift-4.jpg?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-10T14:27:46+00:00"
-  },
-  {
-   "title": "Amazon Black Friday 2026 Dates Announced as Early Deals Go Live",
-   "link": "https://www.ign.com/articles/amazon-black-friday-2026-dates-confirmed-early-deals",
-   "summary": "Amazon has announced its Black Friday 2026 deal lineup, starting on November 19. But you don't have to wait, as some deals are already live, including free $200 bonus gift cards, heavily discounted Audible memberships,…",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/download-1794318601355.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-10T14:26:05+00:00"
-  },
-  {
-   "title": "GTA 5 Simply Refuses To Stop Selling, Even With GTA 6 On The Way",
-   "link": "https://www.gamespot.com/articles/gta-5-simply-refuses-to-stop-selling-even-with-gta-6-on-the-way/",
-   "summary": "As Grand Theft Auto 6 gets ready to launch, GTA 5 is still selling impressively. The GTA series has sold more than 480 million copies, with GTA 5 making up 235 million of those. Take-Two Interactive, the publisher,…",
-   "image": "https://www.gamespot.com/wp-content/uploads/original/1595/15950357/4064252-gta5.jpeg?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [
-    "releases"
-   ],
-   "date": "2026-11-10T14:25:12+00:00"
-  },
-  {
-   "title": "GTA 6 Will Run at 30fps On All Consoles, Features Ray Tracing Improvements on PS5 Pro",
-   "link": "https://www.ign.com/articles/gta-6-will-run-at-30fps-on-all-consoles-features-ray-tracing-improvements-on-ps5-pro",
-   "summary": "Rockstar has finally announced performance for GTA 6. It’ll run at 30fps on all consoles, but PS5 Pro enhancements that improve ray tracing.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/09/ultimate-edition-hawk-and-little-morgan-revolvers-01-1794266239211.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-10T14:17:08+00:00"
-  },
-  {
-   "title": "GTA 6 Preorder Numbers Are So Good, Even Take-Two Is Struggling To Believe Them",
-   "link": "https://www.gamespot.com/articles/gta-6-preorder-numbers-are-so-good-even-take-two-is-struggling-to-believe-them/",
-   "summary": "Grand Theft Auto 6 looks set to be the best-selling game of 2026, and even publisher Take-Two Interactive is surprised at just how big the demand for it has been ahead of launch. In its second-quarter fiscal year 2027…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-7.jpg?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [
-    "releases"
-   ],
-   "date": "2026-11-10T14:16:15+00:00"
-  },
-  {
-   "title": "GTA 6 PS5 Pro Features Revealed, 30fps Target on Both Consoles",
-   "link": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-pro-features-revealed-30fps-target-on-both-consoles",
-   "summary": "Improved clarity and ray traced shadows on PS5 Pro. Rockstar Games has today revealed what sort of benefits playing GTA 6 on a PS5 Pro will provide. No matter whether you play on a base PS5 or a PS5 Pro, though, the…",
-   "image": "https://images.pushsquare.com/30e94f06a6b3c/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-10T14:15:00+00:00"
-  },
-  {
-   "title": "Despite promising a heady mix of Vampire Survivors and Warhammer fan-service, Warhammer Survivors is somehow less than the sum of its parts",
-   "link": "https://www.eurogamer.net/warhammer-survivors-now-playing",
-   "summary": "You know my favourite thing about Vampire Survivors ? The slow build of strength, the swelling power fantasy, the edging . Developer Poncle has proved itself incredibly adept at goading players into ever more ludicrous…",
-   "image": "https://assetsio.gnwcdn.com/warhammer-survivors_5jrmIgw.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-10T14:06:10+00:00"
-  },
-  {
-   "title": "Trump calls his pal Jensen Huang an ‘honourable guy’ and says he ‘probably has an excuse’ for Nvidia CEO’s affair with alleged spy",
-   "link": "https://www.pcgamer.com/hardware/graphics-cards/trump-calls-his-pal-jensen-huang-an-honourable-guy-and-says-he-probably-has-an-excuse-for-nvidia-ceos-affair-with-alleged-spy/",
-   "summary": "Nvidia CEO Jensen Huang admitted to an affair with one Alice Huang on Sunday ; someone suspected of being a Chinese spy by US authorities. Trump has since spoken on the matter, saying he asked Jensen whether he knew she…",
-   "image": "https://cdn.mos.cms.futurecdn.net/7foqDBPfcAkwqyvMkoRz98-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T14:01:26+00:00"
-  },
-  {
-   "title": "Análisis de Pikmin 4 Nintendo Switch 2 Edition: La Academia Dandori justifica el salto, aunque no todo lo nuevo es exclusivo",
-   "link": "https://areajugones.sport.es/videojuegos/analisis-de-pikmin-4-nintendo-switch-2-edition-la-academia-dandori-justifica-el-salto-aunque-no-todo-lo-nuevo-es-exclusivo/",
-   "summary": "Hay sagas que entran por los ojos y Pikmin es una de ellas. Dos años después de su estreno en la Switch original, aquella cuarta entrega que en su día nos pareció la flor más bonita del jardín regresa remozada para la…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/analisispikmin4-switch-2-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-10T14:00:00+00:00"
-  },
-  {
-   "title": "Is the DC Cinematic Universe Just Cursed?",
-   "link": "https://www.ign.com/articles/is-the-dc-cinematic-universe-just-cursed",
-   "summary": "Is the DC Cinematic Universe just cursed? Because it sure feels like it after James Gunn and Peter Safran's departure from DC Studios.",
-   "image": "https://assets1.ignimgs.com/2017/11/20/review-zack-snyders-batman-v-superman-dawn-of-justice-starring-ben-affleck-henry-cavill-jesse-eisenberg-amy-adams-more-1511212483270.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-10T14:00:00+00:00"
-  },
-  {
-   "title": "Fallout and Elder Scrolls actor Stephen Russell returns as Garrett in Thief: The Tarnished Mirror: 'Great to be back with the old guy'",
-   "link": "https://www.pcgamer.com/games/fps/fallout-and-elder-scrolls-actor-stephen-russell-returns-as-garrett-in-thief-the-tarnished-mirror-great-to-be-back-with-the-old-guy/",
-   "summary": "In a new episode of Nightdive's Deep Dive podcast releasing later today, legendary voice actor Stephen Russell spoke about his experience portraying the protagonist of the Thief series, Garrett. We also got final…",
-   "image": "https://cdn.mos.cms.futurecdn.net/RDwPQiHTqMuwLwsAVsSxNV-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T14:00:00+00:00"
-  },
-  {
-   "title": "Mini Review: Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy (Switch 2) - Pleasant But Perplexingly Piecemeal",
-   "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy",
-   "summary": "Leave them wanting Olimore. The latest addition to the pantheon of obscenely long-titled Nintendo Switch 2 Editions is a strange one. Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy takes the Switch 1 game that I…",
-   "image": "https://images.nintendolife.com/391431227159e/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-10T14:00:00+00:00"
-  },
-  {
-   "title": "This Might Be the Best Game You Didn't Know Was Out on PS5",
-   "link": "https://www.pushsquare.com/news/2026/11/this-might-be-the-best-game-you-didnt-know-was-out-on-ps5",
-   "summary": "Special delivery. How the hell am I only learning about Tanuki: Pon's Summer now? It's out today on PS5 for $19.99 / £15.99 / €19.99. Somehow, this is a game that we've never covered — despite the fact that it looks…",
-   "image": "https://images.pushsquare.com/37e9e20240aea/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-10T14:00:00+00:00"
-  },
-  {
-   "title": "Here's What Xbox Owners Need To Know About 'Moving To New Zealand' For GTA 6",
-   "link": "https://www.purexbox.com/news/2026/11/heres-what-xbox-owners-need-to-know-about-moving-to-new-zealand-for-gta-6",
-   "summary": "Popular questions answered. So, it's finally almost time for GTA 6 . You've probably preloaded the game on your Xbox Series X and Xbox Series S already, and now you're eagerly awaiting the official launch that takes…",
-   "image": "https://images.purexbox.com/a1939561ec76f/small.jpg",
-   "source": "Pure Xbox",
-   "lang": "en",
-   "cats": [
-    "xbox",
-    "releases"
-   ],
-   "date": "2026-11-10T14:00:00+00:00"
-  },
-  {
-   "title": "Cómo tocar 8 canciones míticas con la ocarina de Link: de Dragon Ball a Undertale, con partituras para Zelda: Ocarina of Time",
-   "link": "https://areajugones.sport.es/videojuegos/como-tocar-8-canciones-miticas-con-la-ocarina-de-link-de-dragon-ball-a-undertale-con-partituras-para-zelda-ocarina-of-time/",
-   "summary": "La ocarina de Link en el remake de Ocarina of Time no es solo un instrumento para pasar el rato, es una herramienta fundamental con impacto en la jugabilidad... pero eso no quiere decir que no se pueda usar de forma…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/zelda-ocarina-of-time-remake-como-tocar-1-1024x571.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-10T13:57:41+00:00"
-  },
-  {
-   "title": "Steam now shows average Steam Deck framerates when browsing games, but Valve says it's considering expanding the feature to other hardware",
-   "link": "https://www.eurogamer.net/steam-deck-framerate-average-data-store-widget",
-   "summary": "Valve has released a new Steam update that adds Steam Deck framerate data to a game's store page, giving potential buyers an indication of how well a game runs on the handheld. Read more",
-   "image": "https://assetsio.gnwcdn.com/steam_share_image.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T13:53:30+00:00"
-  },
-  {
-   "title": "007 First Light’s PS5 Collector’s Edition With a Gold Mask Has Hit a New Low Price at Amazon",
-   "link": "https://www.ign.com/articles/007-first-lights-ps5-collectors-edition-with-a-gold-mask-has-hit-a-new-low-price-at-amazon",
-   "summary": "Amazon has slashed the price of 007 First Light’s PS5 Collector’s Edition down to a new all-time low of $94.77. That's a huge 53% discount off its original MSRP.",
-   "image": "https://assets-prd.ignimgs.com/2025/11/21/ss-a840c903dd0431a24509454787dcb0a565b56d31-1920x1080-1763729435847.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-10T13:47:19+00:00"
-  },
-  {
-   "title": "Steam now lets you see exactly what frame rate you should get in games using a Steam Deck",
-   "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/steam-now-lets-you-see-exactly-what-frame-rate-you-should-get-in-games-using-a-steam-deck/",
-   "summary": "The Steam Deck is the most popular handheld gaming PC, and no doubt a lot of you own one already. It's also far from the most powerful handheld on the market, meaning devs have to get optimisation just right to allow…",
-   "image": "https://cdn.mos.cms.futurecdn.net/ayjXuyTNyLQvfidxvnbpF-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T13:31:56+00:00"
-  },
-  {
-   "title": "Strauss Zelnick, CEO de Take-Two, asegura que la salida de GTA VI ha metido un tapón a NBA 2K27: \"Las cifras de venta están por debajo de nuestras previsiones\"",
-   "link": "https://areajugones.sport.es/videojuegos/strauss-zelnick-ceo-de-take-two-asegura-que-la-salida-de-gta-vi-ha-metido-un-tapon-a-nba-2k27-las-cifras-de-venta-estan-por-debajo-de-nuestras-previsiones/",
-   "summary": "Es algo bastante obvio que la salida de GTA VI es actualmente el evento más esperado de la industria del videojuego y sus efectos se han sentido a lo largo del año. Campañas de marketing gigantes que han llenado la…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/nba-gta-1024x576.png",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-10T13:15:09+00:00"
-  },
-  {
-   "title": "AMD's next-gen GPU architecture has appeared in new Linux kernel patches as GFX13 updates roll out",
-   "link": "https://www.pcgamer.com/hardware/graphics-cards/amds-next-gen-gpu-architecture-has-appeared-in-new-linux-kernel-patches-as-gfx13-updates-roll-out/",
-   "summary": "AMD's next-gen graphics architecture has popped up in a graphics driver for the first time, with a suite of GFX13 patches going live in an AMDGPU Linux kernel graphics driver. This has first been reported by Michael…",
-   "image": "https://cdn.mos.cms.futurecdn.net/nArC34Ecvopyb2Nkcd6a4C-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T13:06:31+00:00"
-  },
-  {
-   "title": "Depende de para qué consola compres la edición física de GTA VI, tendrás una caja distinta en este detalle",
-   "link": "https://areajugones.sport.es/videojuegos/depende-de-para-que-consola-compres-la-edicion-fisica-de-gta-vi-tendras-una-caja-distinta-en-este-detalle/",
-   "summary": "Estamos a tan solo nueves días (en el momento de publicar estas líneas) de que GTA VI sea lanzado definitivamente. Está claro que ya lo han reservado millones de personas que no quieren perderse los primeros momentos de…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/gta-vi-xbox-ps5-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-10T13:06:15+00:00"
-  },
-  {
-   "title": "Tripwire Interactive says it's laying off 36 staff in a \"necessary\" decision, while reassuring that Killing Floor 3 and Maneater 2 are still in active development",
-   "link": "https://www.rockpapershotgun.com/tripwire-interactive-says-its-laying-off-36-staff-in-a-necessary-decision-while-reassuring-that-killing-floor-3-and-maneater-2-are-still-in-active-development",
-   "summary": "In a statement posted yesterday, Killing Floor developers Tripwire Interactive have announced that the studio is laying off 36 \"talented\" internal staff as part of a \"workforce reduction\". The job cuts come 16 months…",
-   "image": "https://assetsio.gnwcdn.com/Killing-Floor-3-Flesh-Pound.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T13:01:00+00:00"
-  },
-  {
-   "title": "What DC Movies and Shows Could Get Batgirl'd Next?",
-   "link": "https://www.ign.com/articles/what-dc-movies-and-shows-could-get-batgirld-next",
-   "summary": "Don’t assume everything James Gunn and Peter Safran had planned at DC Studios will see the light of day.",
-   "image": "https://assets-prd.ignimgs.com/2026/10/02/lanterns-finale-questions-thumb-1790973041764.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-10T13:00:00+00:00"
-  },
-  {
-   "title": "Persona 4 Revival Wasn't Meant to Be Part of Packed February 2027 Release Schedule",
-   "link": "https://www.pushsquare.com/news/2026/11/persona-4-revival-wasnt-meant-to-be-part-of-packed-february-2027-release-schedule",
-   "summary": "Originally a summer 2026 launch. Persona 4 Revival was initially designed to launch for PS5 in the late summer months of this year, not the very crowded February 2027 release calendar it's now found itself in. In an…",
-   "image": "https://images.pushsquare.com/33b6ab534f381/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation",
-    "releases"
-   ],
-   "date": "2026-11-10T13:00:00+00:00"
-  },
-  {
-   "title": "NACON Releases REVO Range Of Xbox Controllers Designed For 'Every Gamer Style'",
-   "link": "https://www.purexbox.com/news/2026/11/nacon-releases-revo-range-of-xbox-controllers-designed-for-every-gamer-style",
-   "summary": "\"Always Ready. Tailored Control. Pros' Arsenal.\". NACON has announced today the availability of its REVO range of Xbox controllers, three officially licensed pads. The trio aims to accommodate the needs of every Xbox…",
-   "image": "https://images.purexbox.com/ac3ac640ec73e/small.jpg",
-   "source": "Pure Xbox",
-   "lang": "en",
-   "cats": [
-    "xbox"
-   ],
-   "date": "2026-11-10T13:00:00+00:00"
-  },
-  {
-   "title": "As Arc Raiders celebrates its first birthday, publisher Nexon reveals the extraction shooter has topped 17 million sales, but revenue is set to decline",
-   "link": "https://www.eurogamer.net/arc-raiders-17-million-sales-nexon-decline",
-   "summary": "Arc Raiders , Embark Studios' popular extraction shooter, has exceeded 17m copies sold, according to publisher Nexon. Read more",
-   "image": "https://assetsio.gnwcdn.com/Arc-Raiders-deluxe-set.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-10T12:28:00+00:00"
-  },
-  {
-   "title": "Steam's new Steam Deck framerate graphs are good news for handheld players, though I wouldn't fully trust the numbers yet",
-   "link": "https://www.rockpapershotgun.com/steams-new-steam-deck-framerate-graphs-are-good-news-for-handheld-players-though-i-wouldnt-fully-trust-the-numbers-yet",
-   "summary": "Valve have finally made clear what they've been doing with all that hoovered-up performance data and all those \"Framerate Estimator\" text strings : a framerate estimator for the Steam Deck . Or, rather, a framerate…",
-   "image": "https://assetsio.gnwcdn.com/Steam-Deck-OLED-Baldurs-Gate-3.png?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T12:26:20+00:00"
-  },
-  {
-   "title": "Guía de capítulos de ‘12 12 12’ en Apple TV+: número de episodios y fechas de estreno",
-   "link": "https://areajugones.sport.es/series/guia-de-capitulos-de-12-12-12-en-apple-tv-numero-de-episodios-y-fechas-de-estreno/",
-   "summary": "El título de ‘12 12 12’ parece una fecha, pero en realidad marca los tres tiempos de un atraco, cuánto se tarda en prepararlo, cuánto dura el robo y qué ocurre después. De entrada, me intriga más esa forma de contar el…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/apple-tv-12-12-12-1024x538.webp",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-10T12:23:03+00:00"
-  },
-  {
-   "title": "Redditor runs PC cooling loop outside of their house to keep it cool in one of the bravest yet unnecessary mods I’ve ever seen",
-   "link": "https://www.pcgamer.com/hardware/cooling/redditor-runs-pc-cooling-loop-outside-of-their-house-to-keep-it-cool-in-one-of-the-bravest-yet-unnecessary-mods-ive-ever-seen/",
-   "summary": "Got tired of the pc heating the room, so i solved it sensibly.. from r/pcmasterrace In what they describe as \"just a proof of concept\", one Redditor has gone further than your average custom looper to help keep their…",
-   "image": "https://cdn.mos.cms.futurecdn.net/gNdC99rn5ujHdz74qocWoR-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T12:22:25+00:00"
-  },
-  {
-   "title": "Law firms lining up for a chance to bop Nvidia’s nose on behalf of its own shareholders; president Trump says FBI are sniffing around the AI company's case",
-   "link": "https://www.pcgamer.com/hardware/graphics-cards/law-firms-lining-up-for-a-chance-to-bop-nvidias-nose-on-behalf-of-its-own-shareholders-president-trump-says-fbi-are-sniffing-around-the-case/",
-   "summary": "Nvidia has found itself at the center of a spying scandal as its CEO, Jensen Huang, admitted to an affair with an alleged Chinese intelligence asset . A couple of hundred billion dollars have been wiped off the…",
-   "image": "https://cdn.mos.cms.futurecdn.net/QK74zQEsbLEPPVka5Xj4Qe-1920-80.png",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T12:18:45+00:00"
-  },
-  {
-   "title": "Rockstar is putting on a last-minute live music festival featuring Travis Scott and Cardi B to celebrate GTA 6's launch",
-   "link": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-is-putting-on-a-last-minute-live-music-festival-featuring-travis-scott-and-cardi-b-to-celebrate-gta-6s-launch/",
-   "summary": "Just when you thought the celebrations for Grand Theft Auto 6 couldn't get any more extravagant, Rockstar has announced that it will be hosting a huge music festival in Miami just a few days after its release. But that…",
-   "image": "https://cdn.mos.cms.futurecdn.net/uyN9wrNV4ua2tpbwpub9NF-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc",
-    "releases"
-   ],
-   "date": "2026-11-10T12:14:01+00:00"
-  },
-  {
-   "title": "I'm so glad I'm not using a questing addon in World of Warcraft: Forever",
-   "link": "https://www.pcgamer.com/games/world-of-warcraft/im-so-glad-im-not-using-a-questing-addon-in-world-of-warcraft-forever/",
-   "summary": "World of Warcraft: Forever 's quests are kind of a pain in the ass—they are this way because of the archaic, pre-solved quest design of the early 2000s (which is still very much more convenient than the MMOs that came…",
-   "image": "https://cdn.mos.cms.futurecdn.net/SvRuVmNugQizDn2sqmiaY8-1920-80.png",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T12:07:27+00:00"
-  },
-  {
-   "title": "GTA 6 Won't Have Any Last Minute Delays, as It's Officially Gone Gold",
-   "link": "https://www.pushsquare.com/news/2026/11/gta-6-wont-have-any-last-minute-delays-as-its-officially-gone-gold",
-   "summary": "Gold Theft Auto. In case there was any doubt remaining, GTA 6 will definitely be making its debut on 19th November, 2026, with no risk of another delay of some kind. That's because it's finally been confirmed the game…",
-   "image": "https://images.pushsquare.com/76e10b1c421ef/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-10T12:00:00+00:00"
-  },
-  {
-   "title": "Feature: These Are Xbox's Best 25 Games From 2001-2026 According To Metacritic",
-   "link": "https://www.purexbox.com/features/these-are-xboxs-best-25-games-from-2001-2026-according-to-metacritic",
-   "summary": "We're looking at it year-by-year. As we continue our celebrations for Xbox's 25th anniversary this Sunday (November 15th), we thought it might be fun to look back at the past 25 years on Metacritic, and specifically the…",
-   "image": "https://images.purexbox.com/81f27a4754803/small.jpg",
-   "source": "Pure Xbox",
-   "lang": "en",
-   "cats": [
-    "xbox"
-   ],
-   "date": "2026-11-10T12:00:00+00:00"
-  },
-  {
-   "title": "Skydance Games lay off an undisclosed number of staff in the wake of Paramount-Warner Bros. merger, in latest case of consolidation killing livelihoods",
-   "link": "https://www.rockpapershotgun.com/skydance-games-lay-off-an-undisclosed-number-of-staff-in-the-wake-of-paramount-warner-bros-merger-in-latest-case-of-consolidation-killing-livelihoods",
-   "summary": "A little over a month following the huge, vile, culture-defining (negative) merger between Paramount and Warner Bros. into Skydance, the corporation has confirmed that games division Skydance Games will be facing a…",
-   "image": "https://assetsio.gnwcdn.com/marvel-1943-rise-of-hydra-cinematic-captain-america-black-panther-punch.png?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T11:54:00+00:00"
-  },
-  {
-   "title": "Guide: Cyberpunk 2077: Best Mods on PS5",
-   "link": "https://www.pushsquare.com/guides/cyberpunk-2077-best-mods-on-ps5",
-   "summary": "Chippin' in. What are the best Cyberpunk 2077 mods on PS5? In this guide, I'm going to highlight which mods I think are well worth installing to make your dark future experience more enticing. Read the full article on…",
-   "image": "https://images.pushsquare.com/6a7597cbf9aec/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-10T11:45:00+00:00"
-  },
-  {
-   "title": "Nintendo's Analysis Indicates You Might Want To Watch The Zelda Movie With Others",
-   "link": "https://www.nintendolife.com/news/2026/11/nintendos-analysis-indicates-you-might-want-to-watch-the-zelda-movie-with-others",
-   "summary": "More is more? The Legend of Zelda movie is fast approaching, scheduled to release on 30th April 2027 (we could really do with a trailer soon, Nintendo). A such, we felt it only right to relay a new quote from Nintendo's…",
-   "image": "https://images.nintendolife.com/84bdae0292929/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo",
-    "releases"
-   ],
-   "date": "2026-11-10T11:30:00+00:00"
-  },
-  {
-   "title": "Antes de GTA VI, la comunidad quiere despedir a GTA V como se merece: así puedes participar",
-   "link": "https://areajugones.sport.es/videojuegos/antes-de-gta-vi-la-comunidad-quiere-despedir-a-gta-v-como-se-merece-asi-puedes-participar/",
-   "summary": "Después de muchos años de espera, el lanzamiento de GTA VI está a la vuelta de la esquina, y se producirá el próximo 19 de noviembre en PS5 y Xbox Series X/S. Antes de eso, la comunidad de jugadores ha organizado un…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/gta-despedida-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "playstation",
-    "xbox",
-    "releases"
-   ],
-   "date": "2026-11-10T11:19:31+00:00"
-  },
-  {
-   "title": "Following site-wide discussion on AI use, Nexus Mods add a \"daily limit\" to the spots in the new mods tab one person can hog via multiple rapid-fire uploads",
-   "link": "https://www.rockpapershotgun.com/following-site-wide-discussion-on-ai-use-nexus-mods-add-a-daily-limit-to-the-spots-in-the-new-mods-tab-one-person-can-hog-via-multiple-rapid-fire-uploads",
-   "summary": "The folks behind Nexus Mods have rolled out a new \"daily limit\" system which ensures modders who upload multiple works in bulk during a single 24 hour period can't take up more than one spot in the tabs dedicated to…",
-   "image": "https://assetsio.gnwcdn.com/skyrim-ikea-mod-02.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T11:17:50+00:00"
-  },
-  {
-   "title": "Phasmophobia raises over $200,000 for charity in the annual Ghost Hunts for Hearts collaboration with the American Heart Association",
-   "link": "https://www.pcgamer.com/games/horror/phasmophobia-raises-over-usd200-000-for-charity-in-the-annual-ghost-hunts-for-hearts-collaboration-with-the-american-heart-association/",
-   "summary": "It's the second year for Phasmophobia's Ghost Hunts for Hearts event in which players come together to raise money for the American Heart Association Liive, and they've already managed to set a new personal best. The…",
-   "image": "https://cdn.mos.cms.futurecdn.net/Du7wdZLvxPiyAwoZqvRpqN-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T11:17:09+00:00"
-  },
-  {
-   "title": "Warhammer Survivors review: More than just Vampire Survivors with Space Marines",
-   "link": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-review/",
-   "summary": "Need to know What is it A Warhammer-themed bullet heaven built on top of Vampire Survivors Release date November 10, 2026 Expect to pay £5.75/$7.19 Publisher Auroch Digital Developer Auroch Digital Reviewed on Steam…",
-   "image": "https://cdn.mos.cms.futurecdn.net/pUAtdsuf3rVrGneiJe6qXc-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc",
-    "releases"
-   ],
-   "date": "2026-11-10T11:02:26+00:00"
-  },
-  {
-   "title": "Vengadores: Doomsday reunirá las voces de muchos personajes de anime en Japón: Eren, Shikamaru y más",
-   "link": "https://areajugones.sport.es/anime/vengadores-doomsday-reunira-las-voces-de-muchos-personajes-de-anime-en-japon-eren-shikamaru-y-mas/",
-   "summary": "La película 'Vengadores: Doomsday' va a ser todo un fenómeno cuando se estrene el 18 de diciembre (17 de diciembre en España). Entre otras cosas, porque va a reunir a muchos de los superhéroes más conocidos de Marvel.…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/vengadores-doomsday-voces-personajes-de-anime-1024x576.png",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-10T11:01:08+00:00"
-  },
-  {
-   "title": "Dedicated PS5, PS5 Pro Patch Aims to Fix Silent Hill 2 Graphics Issues",
-   "link": "https://www.pushsquare.com/news/2026/11/dedicated-ps5-ps5-pro-patch-aims-to-fix-silent-hill-2-graphics-issues",
-   "summary": "Update 1.08 available to download now. Could the excellent Silent Hill 2 remake finally be fixed on base PS5 and PS5 Pro? That's what a new patch for the game seems to be suggesting. A new update for the survival horror…",
-   "image": "https://images.pushsquare.com/85d8e5a94821b/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-10T11:00:00+00:00"
-  },
-  {
-   "title": "10 Xbox Games Are Releasing Today, Including A Nostalgic Return To A Kingdom Far Far Away (November 10)",
-   "link": "https://www.purexbox.com/news/2026/11/10-xbox-games-are-releasing-today-including-a-nostalgic-return-to-a-kingdom-far-far-away-november-10",
-   "summary": "It's not ogre. It'll never be ogre. Welcome back to your daily update of all the new releases on Xbox today! It's a good day for Xbox games, and an even better day for Game Pass. We've got three XGP titles launching…",
-   "image": "https://images.purexbox.com/db951c1fffb24/small.jpg",
-   "source": "Pure Xbox",
-   "lang": "en",
-   "cats": [
-    "xbox",
-    "releases"
-   ],
-   "date": "2026-11-10T11:00:00+00:00"
-  },
-  {
-   "title": "World of Warcraft: Forever might live officially on PC, but people are playing it on phones and handhelds already",
-   "link": "https://www.eurogamer.net/world-of-warcraft-forever-ipad-handheld",
-   "summary": "If you're a World of Warcraft: Forever player you're almost certainly having your free time drained as you chain yourself to your desktop PC to play the game, or maybe a laptop. But for a small selection of true…",
-   "image": "https://assetsio.gnwcdn.com/WoW_Forever_SCENIC_Announce_Camping_Players_064.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T10:55:40+00:00"
-  },
-  {
-   "title": "I have converted GTA 5 to its final form: A GTA 6 countdown app",
-   "link": "https://www.pcgamer.com/games/grand-theft-auto/i-have-converted-gta-5-to-its-final-form-a-gta-6-countdown-app/",
-   "summary": "Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or…",
-   "image": "https://cdn.mos.cms.futurecdn.net/Uhxf4WLX2y9A75bEUnq5h7-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T10:52:35+00:00"
-  },
-  {
-   "title": "Under pressure, Big Walk studio reveals it used generative AI \"sparingly\" while making its hit 2026 game",
-   "link": "https://www.eurogamer.net/house-house-big-walk-generative-ai-development",
-   "summary": "Australian developer House House has revealed it used generative AI \"sparingly\" to help make celebrated, indie, multiplayer puzzle game Big Walk. Read more",
-   "image": "https://assetsio.gnwcdn.com/big-walk-house-house.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-10T10:51:40+00:00"
-  },
-  {
-   "title": "Por solo 9,89 euros y con un 92 en Metacritic: PS Store tira la casa por la ventana con uno de los mejores indies de la historia",
-   "link": "https://areajugones.sport.es/videojuegos/por-solo-989-euros-y-con-un-92-en-metacritic-ps-store-tira-la-casa-por-la-ventana-con-uno-de-los-mejores-indies-de-la-historia/",
-   "summary": "Toda la calidad de un juego no se puede medir por su nota en Metacritic, al fin y al cabo, siempre hay que tener en cuenta la subjetividad de cada uno. Lo que puede ser un 8 para uno, puede ser un 6.5 para otro y un 9.5…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/descuento-ps-store-undertale-1-1024x573.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-10T10:47:59+00:00"
-  },
-  {
-   "title": "Zelda: Ocarina Of Time \"Off To A Great Start\", Says Nintendo",
-   "link": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-off-to-a-great-start-says-nintendo",
-   "summary": "No specific numbers yet, though. Nintendo has released the Q&A translation from its latest financial briefing, with president Shuntaro Furukawa stating that Zelda: Ocarina of Time is \"off to a great start\". The comment…",
-   "image": "https://images.nintendolife.com/7b4200d058863/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-10T10:45:00+00:00"
-  },
-  {
-   "title": "\"Why Is It Not Fun?\" - Doug Bowser Gives A Peek Into Nintendo's Strategy Sessions",
-   "link": "https://www.nintendolife.com/news/2026/11/why-is-it-not-fun-doug-bowser-gives-a-peek-into-nintendos-strategy-sessions",
-   "summary": "The eyes have it. It's no secret that when it comes to game development, Nintendo is all about fun. We all know this firsthand, of course, but it's still interesting to get a peek behind the curtain and find out how…",
-   "image": "https://images.nintendolife.com/bd5460fe34203/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-10T10:30:00+00:00"
-  },
-  {
-   "title": "Nintendo Switch 2 por solo 1€: así funciona el nuevo Plan Renove de GAME para conseguir la consola por muy poco",
-   "link": "https://areajugones.sport.es/videojuegos/nintendo-switch-2-por-solo-1e-asi-funciona-el-nuevo-plan-renove-de-game-para-conseguir-la-consola-por-muy-poco/",
-   "summary": "La cadena de tiendas GAME, especializada en videojuegos, ha lanzado una nueva campaña que permite obtener una consola Nintendo Switch 2 por tan solo 1 euro cumpliendo con las condiciones marcadas por su nuevo Plan…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/switch-game-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-10T10:24:47+00:00"
-  },
-  {
-   "title": "Big Walk developer House House reveal genAI use in final stretch of development, only revealing it now as \"it has become a matter of public interest\"",
-   "link": "https://www.rockpapershotgun.com/big-walk-developer-house-house-reveal-genai-use-in-final-stretch-of-development-only-revealing-it-now-as-it-has-become-a-matter-of-public-interest",
-   "summary": "Friendslop du jour Big Walk is the latest in an unfortunately long series of games that have been confirmed to use generative AI in their production, with developers House House clarifying their use of it in a statement…",
-   "image": "https://assetsio.gnwcdn.com/Big-Walk_SivZWZr.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T10:19:30+00:00"
   }
  ]
 }
