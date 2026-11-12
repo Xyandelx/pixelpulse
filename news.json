@@ -1,6 +1,1338 @@
 {
- "updated": "2026-11-12T09:04:35.907141+00:00",
+ "updated": "2026-11-12T17:50:07.787079+00:00",
  "items": [
+  {
+   "title": "Darktide's getting a Sisters of Battle class on December 7",
+   "link": "https://www.pcgamer.com/games/fps/darktides-getting-a-sisters-of-battle-class-on-december-7/",
+   "summary": "Warhammer 40,000: Darktide has announced its newest class, the Sister Novitiate , is arriving on December 7, finally bringing the much anticipated Adepta Sororitas faction to Atoma. Alongside the Skitarii, which was the…",
+   "image": "https://cdn.mos.cms.futurecdn.net/cvmrgLjkh6gyJZdQQeodfS-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T17:40:30+00:00"
+  },
+  {
+   "title": "Conan: The Black Pyramid shoves the titular barbarian into a very Hades-inspired action roguelite with the addition of a few other familiar heroes",
+   "link": "https://www.rockpapershotgun.com/conan-the-black-pyramid-shoves-the-titular-barbarian-into-a-very-hades-inspired-action-roguelite-with-the-addition-of-a-few-other-familiar-heroes",
+   "summary": "I feel like one thing I only sort of miss from my youth, viewed through the lenses of those rose tinted goggles, is the established intellectual property game that just copies the formula of another, successful game.…",
+   "image": "https://assetsio.gnwcdn.com/conan-the-black-pyramid.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T17:39:40+00:00"
+  },
+  {
+   "title": "After Jensen Huang's resignation from Nvidia, it's all praise or political finger-wagging about the ex-CEO, with little in between",
+   "link": "https://www.pcgamer.com/hardware/after-jensen-huangs-resignation-from-nvidia-its-all-praise-or-political-finger-wagging-about-the-ex-ceo-with-little-in-between/",
+   "summary": "Welp, that's it, the face of Nvidia is no longer the face of Nvidia. Jensen Huang served as CEO of the company since it was founded over three decades ago, and now he's out, replaced by the new interim CEO Colette…",
+   "image": "https://cdn.mos.cms.futurecdn.net/rHxkg3Pp7WErRnCTGsVow8-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T17:35:37+00:00"
+  },
+  {
+   "title": "Nvidia stocks jump back up after ex-CEO Jensen Huang's ousting",
+   "link": "https://www.pcgamer.com/hardware/nvidia-stocks-jump-back-up-after-ex-ceo-jensen-huangs-ousting/",
+   "summary": "This week has been a mess for Nvidia, with its CEO, Jensen Huang, admitting to an affair on Sunday , only for a second affair allegation to come out yesterday . Today, Nvidia shares started as low as $151 in pre-market…",
+   "image": "https://cdn.mos.cms.futurecdn.net/kHuY4jFFVYqZxzAx2bbAdn-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T17:34:31+00:00"
+  },
+  {
+   "title": "Hang On, Firefight Is Coming To Halo: Campaign Evolved",
+   "link": "https://www.purexbox.com/news/2026/11/hang-on-firefight-is-coming-to-halo-campaign-evolved",
+   "summary": "Halo-lujah! Halo: Campaign Evolved isn't dead, people! Firefight has just been announced as a free update for Halo: Campaign Evolved, arriving sometime this winter. The series' staple co-op PvE mode is locked in, with…",
+   "image": "https://images.purexbox.com/8152c2a801973/small.jpg",
+   "source": "Pure Xbox",
+   "lang": "en",
+   "cats": [
+    "xbox"
+   ],
+   "date": "2026-11-12T17:33:00+00:00"
+  },
+  {
+   "title": "Xbox boss seemingly champions gen-AI development as she celebrates 25 years of Xbox: \"A small team will be able to build worlds that today demand hundreds of developers\"",
+   "link": "https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo",
+   "summary": "Xbox leader Asha Sharma has alluded to harnessing the power of generative AI when making games, in a memo published this afternoon. Read more",
+   "image": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [
+    "xbox"
+   ],
+   "date": "2026-11-12T17:32:20+00:00"
+  },
+  {
+   "title": "Professor Layton And The New World Of Steam English Voice Cast Revealed",
+   "link": "https://www.nintendolife.com/news/2026/11/professor-layton-and-the-new-world-of-steam-english-voice-cast-revealed",
+   "summary": "And they're real humans! It has been a tense wait to see whether Level-5 would bring in real, human voice actors for the regional dubs of Professor Layton and The New World of Steam , or whether it would slip into the…",
+   "image": "https://images.nintendolife.com/ac77f23eceed2/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo",
+    "pc"
+   ],
+   "date": "2026-11-12T17:30:00+00:00"
+  },
+  {
+   "title": "Mysterious Bandai Namco Trademark Has People Talking About a New Fighting Game",
+   "link": "https://www.pushsquare.com/news/2026/11/mysterious-bandai-namco-trademark-has-people-talking-about-a-new-fighting-game",
+   "summary": "Fatal Ichor, anyone? Hmmm , something tells me this is only going to lead to disappointment... Earlier this week, Bandai Namco registered a video game trademark for 'FATAL ICHOR'. And as is so often the case with…",
+   "image": "https://images.pushsquare.com/cdd0d53e12317/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-12T17:30:00+00:00"
+  },
+  {
+   "title": "Next Nvidia CEO has to have national security as a 'top priority' says chairman of US Gov committee on China – claims Huang departure 'could have been avoided'",
+   "link": "https://www.pcgamer.com/hardware/graphics-cards/next-nvidia-ceo-has-to-have-national-security-as-a-top-priority-says-chairman-of-us-gov-committee-on-china-claims-huang-departure-could-have-been-avoided/",
+   "summary": "The dust hasn't even settled yet after Jensen Huang's resignation as Nvidia CEO , and the US government is already making it pretty clear where it stands on who gets the job next. Nvidia CFO Colette Kress has taken up…",
+   "image": "https://cdn.mos.cms.futurecdn.net/MzTzZq7AuVhTzmWxrusWDb-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T17:27:15+00:00"
+  },
+  {
+   "title": "'I'm a big Zach Cregger fan': Angela Sant'Albano gushes about the Resident Evil movie and likens Bryan to her own Grace Ashcroft",
+   "link": "https://www.pcgamer.com/games/resident-evil/im-a-big-zach-cregger-fan-angela-santalbano-gushes-about-the-resident-evil-movie-and-likens-bryan-to-her-own-grace-ashcroft/",
+   "summary": "Resident Evil Requiem's director, Koshi Nakanishi, once said that putting Leon Kennedy in a horror game simply wouldn't work because \"he wouldn't jump at something like a bucket falling. No one wants to see Leon scared…",
+   "image": "https://cdn.mos.cms.futurecdn.net/WrFTkezfETAALqfzraVdfc-1920-80.png",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T17:23:11+00:00"
+  },
+  {
+   "title": "Zelda: Ocarina of Time Remake es tan exitoso que ya está en la parte alta de esta lista de 10 juegos más vendidos de Switch 2",
+   "link": "https://areajugones.sport.es/videojuegos/zelda-ocarina-of-time-remake-es-tan-exitoso-que-ya-esta-en-la-parte-alta-de-esta-lista-de-10-juegos-mas-vendidos-de-switch-2/",
+   "summary": "Nintendo Switch 2 lleva poco más de un año en el mercado y ya cuenta con un catálogo repleto de grandes éxitos comerciales. Sin embargo, pocos podían imaginar que The Legend of Zelda: Ocarina of Time Remake iba a…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/juegos-mas-vendidos-switch-2-1024x576.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-12T17:20:54+00:00"
+  },
+  {
+   "title": "Xbox CEO’s 25th Anniversary Message Is About AI, Even If She Won’t Say It",
+   "link": "https://www.gamespot.com/articles/xbox-ceos-25th-anniversary-message-is-about-ai-even-if-she-wont-say-it/",
+   "summary": "As Xbox celebrates its 25th anniversary, Xbox CEO Asha Sharma has shared her thoughts on where gaming is going over the next 25 years, and people are saying her message is really more about pushing AI. Sharma said…",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Xboxreset-1.png?w=300",
+   "source": "GameSpot",
+   "lang": "en",
+   "cats": [
+    "xbox"
+   ],
+   "date": "2026-11-12T17:11:42+00:00"
+  },
+  {
+   "title": "Cartoon-styled \"lite-vania\" Lola's Familiars: Prison of Argnoh will have you springing yourself, and your summoned pals, from magic jail",
+   "link": "https://www.rockpapershotgun.com/cartoon-styled-lite-vania-lolas-familiars-prison-of-argnoh-will-have-you-springing-yourself-and-your-summoned-pals-from-magic-jail",
+   "summary": "Since we're already sharing trailers from non-Geoff awards shows , here's another: a first in-motion look at Lola's Familiars: Prison of Argnoh, a 2D side-scroller and \"lite-vania\" that sees its shy witch-in-training…",
+   "image": "https://assetsio.gnwcdn.com/Lola's-Familiars-Prison-of-Argnoh-convo.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc",
+    "releases"
+   ],
+   "date": "2026-11-12T17:08:00+00:00"
+  },
+  {
+   "title": "Nvidia's CEO Jensen Huang Resigns Following Infidelity Scandal",
+   "link": "https://www.nintendolife.com/news/2026/11/nvidias-ceo-jensen-huang-resigns-following-infidelity-scandal",
+   "summary": "Company produces custom processor for Switch 2. Nvidia, one of the largest tech firms in the world and the company responsible for the Switch 2's custom processor, has found itself embroiled in scandal over recent days.…",
+   "image": "https://images.nintendolife.com/4c6081233fb13/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo",
+    "pc"
+   ],
+   "date": "2026-11-12T17:00:00+00:00"
+  },
+  {
+   "title": "These New GTA 6 Clips Look So Real, Fans Can't Believe It's All In-Game Footage",
+   "link": "https://www.pushsquare.com/news/2026/11/these-new-gta-6-clips-look-so-real-fans-cant-believe-its-all-in-game-footage",
+   "summary": "#OnlyinViceCity. If you're at all interested in GTA 6 , you'll probably have seen this doing the rounds already. A video is going viral on social media, because it's fooling people into thinking it's real-life footage —…",
+   "image": "https://images.pushsquare.com/8b3f634e3dcfc/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-12T17:00:00+00:00"
+  },
+  {
+   "title": "Rompiendo el hielo (Temporada 2): fecha, horario y dónde ver el episodio 8",
+   "link": "https://areajugones.sport.es/anime/rompiendo-el-hielo-temporada-2-fecha-horario-y-donde-ver-el-episodio-8/",
+   "summary": "El anime de 'Rompiendo el hielo' (The Ramparts of Ice) sigue reafirmándose semana a semana como una de las mejores series de romance del panorama actual. Lo seguirá haciendo el 19 de noviembre, fecha en la que podremos…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/rompiendo-el-hielo-horario-1-1024x573.png",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [],
+   "date": "2026-11-12T16:55:00+00:00"
+  },
+  {
+   "title": "Who is Colette Kress, Nvidia's new interim CEO?",
+   "link": "https://www.pcgamer.com/hardware/who-is-colette-kress-nvidias-new-interim-ceo/",
+   "summary": "Jensen Huang has resigned , and in his place is a familiar face for anyone that's listened to one of Nvidia's financial calls: it's the company's long-standing CFO, Colette Kress. But you might be excused as a gamer for…",
+   "image": "https://cdn.mos.cms.futurecdn.net/gb46QCcSK6ftDhhV9hG3j9-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T16:52:12+00:00"
+  },
+  {
+   "title": "GTA VI filtra el mapa incluido en su edición coleccionista y esto es todo lo nuevo que revela",
+   "link": "https://areajugones.sport.es/videojuegos/gta-vi-filtra-el-mapa-incluido-en-su-edicion-coleccionista-y-esto-es-todo-lo-nuevo-que-revela/",
+   "summary": "Estamos a tan solo una semana del lanzamiento de GTA VI, y parece que Rockstar todavía tiene unas cuantas sorpresas guardadas bajo la manga. Aunque ya hemos visto numerosos tráileres, imágenes y detalles sobre el mundo…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/08/gta-vi-minimapa-1024x576.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [
+    "releases"
+   ],
+   "date": "2026-11-12T16:42:12+00:00"
+  },
+  {
+   "title": "Xbox Playback Is Now Available, Take A Look Back At Your Xbox History",
+   "link": "https://www.purexbox.com/news/2026/11/xbox-playback-is-now-available-take-a-look-back-at-your-xbox-history",
+   "summary": "\"Your games. Your milestones. Your story.\". One of my favourite things to do is look back at the Xbox games I've been playing, the achievements I've unlocked, and all of my cool unique stats that make me the Xbox gamer…",
+   "image": "https://images.purexbox.com/1f27c522963c2/small.jpg",
+   "source": "Pure Xbox",
+   "lang": "en",
+   "cats": [
+    "xbox"
+   ],
+   "date": "2026-11-12T16:42:00+00:00"
+  },
+  {
+   "title": "The Internet Reacts To Jensen Huang’s Resignation From Nvidia",
+   "link": "https://www.gamespot.com/articles/the-internet-reacts-to-jensen-huang-resignation-from-nvidia/",
+   "summary": "It's the end of an era for Nvidia , as its founder and longtime CEO, Jensen Huang, has resigned effective immediately. The face of one of the largest companies in the US and the growing AI boom, Huang's retirement comes…",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Nvidia-Keynote-Huang.jpg?w=300",
+   "source": "GameSpot",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T16:39:44+00:00"
+  },
+  {
+   "title": "Trump says the only man who should replace ex-Nvidia CEO Jensen Huang is Tim Cook of Apple fame",
+   "link": "https://www.pcgamer.com/hardware/trump-says-the-only-man-who-should-replace-ex-nvidia-ceo-jensen-huang-is-tim-cook-of-apple-fame/",
+   "summary": "With Jensen Huang stepping down from Nvidia amid a second affair allegation coming yesterday, Nvidia will be looking for a new permanent CEO, with Interim CEO Colette Kress taking over for now. There will no doubt be…",
+   "image": "https://cdn.mos.cms.futurecdn.net/B9PhRTmLAUceNg3q3vpUDh-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T16:35:11+00:00"
+  },
+  {
+   "title": "World of Warcraft: Forever players in Australia and New Zealand are struggling to get sunlight, and not for the usual MMO reasons",
+   "link": "https://www.eurogamer.net/world-of-warcraft-forever-oceania-sunlight",
+   "summary": "World of Warcraft: Forever players are having a blast in the new MMO, but not everyone is basking in the rays of its successful launch. Players located in Australia, New Zealand, and other Oceania countries are having a…",
+   "image": "https://assetsio.gnwcdn.com/WoW_Camelot_Announce_Zones_Riverglades_040.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [
+    "releases"
+   ],
+   "date": "2026-11-12T16:30:00+00:00"
+  },
+  {
+   "title": "Nab A Free Shiny Legendary With Pokémon Legends: Z-A's New Limited-Time Mystery Gift Code",
+   "link": "https://www.nintendolife.com/news/2026/11/nab-a-free-shiny-legendary-with-pokemon-legends-z-as-new-limited-time-mystery-gift-code",
+   "summary": "Free Bucks. The Pokémon Company is keeping the 30th Anniversary celebrations coming, as it has today announced a brand new Mystery Gift event for Pokémon Legends: Z-A that will add a shiny Legendary 'mon to your roster.…",
+   "image": "https://images.nintendolife.com/e87ea648b0a57/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-12T16:30:00+00:00"
+  },
+  {
+   "title": "Romancing SaGa 3's Great Looking PS5 Remake Moves Its Release Date Away from Persona 4 Revival",
+   "link": "https://www.pushsquare.com/news/2026/11/romancing-saga-3s-great-looking-ps5-remake-moves-its-release-date-away-from-persona-4-revival",
+   "summary": "A wise move. Romancing SaGa 3: Destinies United will no longer launch just two days before the relative juggernaut that is Persona 4 Revival . Previously set to release on the 16th February, the promising JRPG remake…",
+   "image": "https://images.pushsquare.com/5fb79879f36ad/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation",
+    "releases"
+   ],
+   "date": "2026-11-12T16:30:00+00:00"
+  },
+  {
+   "title": "Asda Is Now Offering The Best Deal on Grand Theft Auto for PS5 in the UK",
+   "link": "https://www.ign.com/articles/grand-theft-auto-6-ps5-best-preorder-deals-uk",
+   "summary": "Asda is offering gamers a discount on Grand Theft Auto 6 for PS5 in a new limited-time preorder deal. Here's how you can claim the promo coupon before launch day and save over £10 on your purchase.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/12/gta-6-ps5-best-deals-uk-1794499682853.png",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [
+    "playstation",
+    "releases"
+   ],
+   "date": "2026-11-12T16:12:50+00:00"
+  },
+  {
+   "title": "As low-effort AI slop continues to flood Steam, yet more developers announce game delays caused by Valve's growing approval backlog",
+   "link": "https://www.eurogamer.net/steam-game-submission-review-backlog-ai-slop-approval-delays",
+   "summary": "More indie developers say they've been forced to delay the impending release of their games as a result of Steam's growing approvals backlog - a relatively recent problem that's believed to stem from an influx of AI…",
+   "image": "https://assetsio.gnwcdn.com/australia-did-it-keyart-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T16:06:20+00:00"
+  },
+  {
+   "title": "Asha Sharma Issues Statement On Xbox's 25th Anniversary And The Future Of Gaming",
+   "link": "https://www.purexbox.com/news/2026/11/asha-sharma-issues-statement-on-xboxs-25th-anniversary-and-the-future-of-gaming",
+   "summary": "\"Our largest studios will be able to pursue ambitions as far beyond today’s games\". We've been waiting all week for Xbox to acknowledge its 25th anniversary in a formal fashion, and Xbox CEO Asha Sharma has now issued a…",
+   "image": "https://images.purexbox.com/b535fae3f5360/small.jpg",
+   "source": "Pure Xbox",
+   "lang": "en",
+   "cats": [
+    "xbox"
+   ],
+   "date": "2026-11-12T16:05:00+00:00"
+  },
+  {
+   "title": "Every nominee for the PC Gaming Show: Most Wanted's top 20 upcoming games",
+   "link": "https://www.pcgamer.com/gaming-industry/events-conferences/every-nominee-for-the-pc-gaming-show-most-wanteds-top-20-upcoming-games/",
+   "summary": "The happiest time of year is just around the corner, folks. The PC Gaming Show: Most Wanted sponsored by Pot Noodle will be airing December 3rd, and we'll be counting down The Council's 20 most anticipated games.…",
+   "image": "https://cdn.mos.cms.futurecdn.net/PdjqDpDpv3yYGPNiyPZPj5-1920-80.png",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T16:00:00+00:00"
+  },
+  {
+   "title": "Award-winning presenter Frankie Ward returns to bring you this year's PC Gaming Show: Most Wanted",
+   "link": "https://www.pcgamer.com/gaming-industry/events-conferences/award-winning-presenter-frankie-ward-returns-to-bring-you-this-years-pc-gaming-show-most-wanted/",
+   "summary": "The PC Gaming Show: Most Wanted sponsored by Pot Noodle is right around the corner, airing December 3. Of course, counting down the 20 Most Wanted games is all fun and, er, games, but what makes it truly special are the…",
+   "image": "https://cdn.mos.cms.futurecdn.net/PdjqDpDpv3yYGPNiyPZPj5-1920-80.png",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T16:00:00+00:00"
+  },
+  {
+   "title": "Talking Point: What's Your Favourite Tiny Tweak In Zelda: Ocarina Of Time?",
+   "link": "https://www.nintendolife.com/features/talking-point-whats-your-favourite-tiny-tweak-in-zelda-ocarina-of-time",
+   "summary": "Tweik. While the Ocarina of Time we see on Switch 2 is undoubtedly the same game we all know from the N64, there are enough tweaks in there that have had the biggest fans amongst us clicking and pointing at the screen…",
+   "image": "https://images.nintendolife.com/814039a56942c/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-12T16:00:00+00:00"
+  },
+  {
+   "title": "AMD, Sony Mark PS5's 100 Million Unit Milestone with Signed Consoles",
+   "link": "https://www.pushsquare.com/news/2026/11/amd-sony-mark-ps5s-100-million-unit-milestone-with-signed-consoles",
+   "summary": "A remarkable feat. PS5 is the fourth Sony system to officially ship over 100 million units during its lifespan, and it may be the manufacturer’s most impressive achievement yet. The firm has nimbly navigated a global…",
+   "image": "https://images.pushsquare.com/5113b873e7ffd/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation",
+    "pc"
+   ],
+   "date": "2026-11-12T16:00:00+00:00"
+  },
+  {
+   "title": "Fear not, Nvidians, the man who wrote the book on Nvidia says the company's success doesn't rely on Jensen Huang",
+   "link": "https://www.pcgamer.com/hardware/fear-not-nvidians-the-man-who-wrote-the-book-on-nvidia-says-the-companys-success-doesnt-rely-on-jensen-huang/",
+   "summary": "There is also one excellent external candidate who has been very successful outside of Nvidia and offers both technical expertise and solid business management experience. Employees loved working for him. Either one…",
+   "image": "https://cdn.mos.cms.futurecdn.net/VE3dBZCG8wUwPxHWNzqwD9-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T15:58:11+00:00"
+  },
+  {
+   "title": "Jensen Huang leaving Nvidia is not a good thing for PC gaming, and I’ll tell you why",
+   "link": "https://www.pcgamer.com/hardware/graphics-cards/jensen-huang-leaving-nvidia-is-not-a-good-thing-for-pc-gaming-and-ill-tell-you-why/",
+   "summary": "Jensen Huang has resigned from his position as Nvidia CEO . That's such an odd sentence to write, as a huge part of my career as a tech journalist has revolved around covering Nvidia, its graphics cards, and…",
+   "image": "https://cdn.mos.cms.futurecdn.net/arypsdXmTz7vUuxPxsFcRZ-1920-80.png",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T15:57:36+00:00"
+  },
+  {
+   "title": "Nintendo Adds More Dates For The Zelda 40th Anniversary Concert Tour",
+   "link": "https://www.nintendolife.com/news/2026/11/nintendo-adds-more-dates-for-the-zelda-40th-anniversary-concert-tour",
+   "summary": "Tickets go on sale this Friday. Following high demand for the Zelda 40th Anniversary concert tour, Nintendo has added fresh dates in Europe with even more coming soon for Spain. Tickets will go on sale this Friday, 13th…",
+   "image": "https://images.nintendolife.com/716dec4598e95/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-12T15:45:00+00:00"
+  },
+  {
+   "title": "Palworld Developer Pocketpair Gives Employees 5 Days Off to Play GTA 6",
+   "link": "https://www.ign.com/articles/pocketpair-gives-employees-five-days-leave-to-play-gta-6",
+   "summary": "Palworld developer Pocketpair is giving its staff five days off to make their way through GTA 6.",
+   "image": "https://assets-prd.ignimgs.com/2026/10/29/gta-6-jason-and-lucia-drive-by-1793234705694.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T15:44:34+00:00"
+  },
+  {
+   "title": "Conor McGregor picked up and flipped a Call of Duty dev during the making of Infinite Warfare: 'I wanted him to do something really physical, to demonstrate how capable he is'",
+   "link": "https://www.pcgamer.com/games/call-of-duty/conor-mcgregor-picked-up-and-flipped-a-call-of-duty-dev-during-the-making-of-infinite-warfare-i-wanted-him-to-do-something-really-physical-to-demonstrate-how-capable-he-is/",
+   "summary": "Call of Duty doesn't have much luck with its stunt casting. Two years after Infinity Ward put Kevin Spacey in Advanced Warfare—before he was accused of sexual assault—it turned MMA fighter Conor McGregor into a future…",
+   "image": "https://cdn.mos.cms.futurecdn.net/7eeissVNyfbgehTuYCLKah-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T15:43:03+00:00"
+  },
+  {
+   "title": "WoW: Forever's new Riverglades zone feels more like The Burning Crusade+ than Classic+, and you know what, I'm absolutely okay with that",
+   "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-new-riverglades-zone-feels-more-like-the-burning-crusade-than-classic-and-you-know-what-im-absolutely-okay-with-that/",
+   "summary": "So I've been utterly consumed by WoW: Forever, which is a relief, because it's my job to write about it—and I've been powering ahead to 40, where a deeply oldschool grind to get my first mount awaits me. Before that,…",
+   "image": "https://cdn.mos.cms.futurecdn.net/ZmWwKGBMZ6WAgctzPJmq5A-1920-80.png",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T15:36:38+00:00"
+  },
+  {
+   "title": "How Nvidia got into this mess: timeline of Jensen Huang scandal and geopolitics leading up to it",
+   "link": "https://www.pcgamer.com/hardware/graphics-cards/how-nvidia-got-into-this-mess-timeline-of-jensen-huang-scandal-and-geopolitics-leading-up-to-it/",
+   "summary": "Nvidia is the talk of the world right now. The company's co-founder Jensen Huang has been ousted from the company , following claims of multiple affairs: one said to be with a suspected Chinese intelligence asset, and…",
+   "image": "https://cdn.mos.cms.futurecdn.net/qAijZ5j8sgKFUvCeMMUUm8-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T15:31:12+00:00"
+  },
+  {
+   "title": "The hills are alive with The Sound of Fury, a fantasy musical hack 'n' slash about weaponising pianos to fight the Devil",
+   "link": "https://www.rockpapershotgun.com/the-hills-are-alive-with-the-sound-of-fury-a-fantasy-musical-hack-n-slash-about-weaponising-pianos-to-fight-the-devil",
+   "summary": "My firstest-ever Golden Joystick Awards, which took place last night in London , was marred somewhat by 1) a gin & tonic costing eleven quid and 2) my view of the stage being directly obscured by its own rigging.…",
+   "image": "https://assetsio.gnwcdn.com/The-Sound-of-Fury-reveal.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T15:31:10+00:00"
+  },
+  {
+   "title": "'Genital Exposure Has Never Appeared This Frequently': GTA 6 Was Almost Refused Release in South Korea",
+   "link": "https://www.pushsquare.com/news/2026/11/genital-exposure-has-never-appeared-this-frequently-gta-6-was-almost-refused-release-in-south-korea",
+   "summary": "Balls to this. GTA 6 was, reportedly, very close to being refused classification in South Korea just a couple of months back. The reason? Too many penises. According to Inven's findings, the country's ratings board —…",
+   "image": "https://images.pushsquare.com/ebb653e2ff4bc/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-12T15:30:00+00:00"
+  },
+  {
+   "title": "Nintendo's Black Friday Sale Will Include $20 Off Switch 2 Games Like Donkey Kong Bananza",
+   "link": "https://www.ign.com/articles/nintendo-black-friday-sale-will-include-switch-2-games-like-donkey-kong-bananza",
+   "summary": "Nintendo has confirmed several Switch 2 exclusive games will be discounted during its upcoming, including $20 off Donkey Kong Bananza.",
+   "image": "https://assets-prd.ignimgs.com/2026/02/21/dk-bananza-deals-1771709264905.png",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-12T15:21:41+00:00"
+  },
+  {
+   "title": "Dónde ver Vengadores Endgame Encore: fecha de estreno oficial, escenas nuevas y conexión con Doomsday",
+   "link": "https://areajugones.sport.es/cine/donde-ver-vengadores-endgame-encore-fecha-de-estreno-oficial-escenas-nuevas-y-conexion-con-doomsday/",
+   "summary": "Siete años después de despedir la Saga del Infinito, Vengadores: Endgame regresa con una versión actualizada: Vengadores: Endgame Encore, que añade nuevas pistas sobre el futuro del Universo Cinematográfico de Marvel.…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/dommportada-1024x576.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [],
+   "date": "2026-11-12T15:21:01+00:00"
+  },
+  {
+   "title": "LEGO Star Wars: Darth Vader Wall Art and More Sets Announced for January 2027",
+   "link": "https://www.ign.com/articles/lego-star-wars-sets-announced-for-january-2027",
+   "summary": "LEGO has announced seven new LEGO Star Wars sets that are hitting shelves in early January, including a 2-in-1 Wall Art set of Darth Vader.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/12/lego-star-wars-january-2027-blogroll-1794496360798.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T15:19:14+00:00"
+  },
+  {
+   "title": "Nintendo Reveals Switch 2 Black Friday Deals (US)",
+   "link": "https://www.nintendolife.com/news/2026/11/nintendo-reveals-switch-2-black-friday-deals-us",
+   "summary": "The dis-countdown begins. Nintendo has revealed a bunch of offers in the US for this year's Black Friday in a hope to boost its sales ahead of the holiday season. The headline here is a Switch 2 hardware bundle, which…",
+   "image": "https://images.nintendolife.com/85418c07ec2b0/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-12T15:15:00+00:00"
+  },
+  {
+   "title": "After days of controversy, Nvidia CEO Jensen Huang has resigned",
+   "link": "https://www.eurogamer.net/nvidia-ceo-jensen-huang-resigns",
+   "summary": "Nvidia's founder and CEO Jensen Huang has resigned from his position as leader of one of the most valuable companies in the world. Read more",
+   "image": "https://assetsio.gnwcdn.com/jensen-huang-speaking.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T15:07:20+00:00"
+  },
+  {
+   "title": "Paper Tiger Review",
+   "link": "https://www.ign.com/articles/paper-tiger-review",
+   "summary": "Director James Gray returns to his crime drama roots with Paper Tiger, which features some of the strongest performances of Adam Driver, Miles Teller and Scarlett Johansson’s careers.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/12/papertiger-blogroll-1794446022526.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T15:00:00+00:00"
+  },
+  {
+   "title": "Sankan, a Co-op Horror Game Set at a Japanese Gas Station in 1999, Announced for PC",
+   "link": "https://www.ign.com/articles/sankan-a-co-op-horror-game-set-at-a-japanese-gas-station-in-1999-announced-for-pc",
+   "summary": "The pitch for Sankan, from solo developer Dany Rexton of YTKA Games, intrigued me. \"You and up to two friends work the night shift at a mountain gas station in Japan, 1999,\" he told me via email. \"The voice in your head…",
+   "image": "https://assets-prd.ignimgs.com/2026/11/11/sankan-preview-blogroll-1794433455324.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T15:00:00+00:00"
+  },
+  {
+   "title": "The Father, the Son, and the Holy Ghost Mine Is a Twisted Western About the American Dream",
+   "link": "https://www.ign.com/articles/the-father-the-son-and-the-holy-ghost-mine-is-a-twisted-western-about-the-american-dream",
+   "summary": "The Father, the Son, and the Holy Ghost Mine is a new Western from Oni Press that asks, \"What if, instead of selling your soul to the Devil, you found a way to sell other people’s souls?”",
+   "image": "https://assets-prd.ignimgs.com/2026/11/11/mixcollage-11-nov-2026-02-53-pm-9197-1794426792372.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T15:00:00+00:00"
+  },
+  {
+   "title": "MMO Horizon Steel Frontiers 'Nearing Completion', NC Discussing Release Timing with Sony",
+   "link": "https://www.pushsquare.com/news/2026/11/mmo-horizon-steel-frontiers-nearing-completion-nc-discussing-release-timing-with-sony",
+   "summary": "Mobile game coming in 2027. While the future may look bleak for series creator Guerrilla’s own Horizon multiplayer game, Korean partner NC has confirmed to investors that its MMO spin-off Horizon Steel Frontiers is…",
+   "image": "https://images.pushsquare.com/f4516012179b5/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation",
+    "mobile"
+   ],
+   "date": "2026-11-12T15:00:00+00:00"
+  },
+  {
+   "title": "Resident Evil Requiem Wins GOTY As Xbox Takes Home Two Awards At The Golden Joysticks 2026",
+   "link": "https://www.purexbox.com/news/2026/11/resident-evil-requiem-wins-goty-as-xbox-takes-home-two-awards-at-the-golden-joysticks-2026",
+   "summary": "Full list of winners revealed. Wednesday night was a celebration of all the best games from the past 12 months, with the Golden Joystick Awards taking place in London's Troxy venue. What a night it was for Capcom, as…",
+   "image": "https://images.purexbox.com/b3e9c8fd3aaf7/small.jpg",
+   "source": "Pure Xbox",
+   "lang": "en",
+   "cats": [
+    "xbox"
+   ],
+   "date": "2026-11-12T15:00:00+00:00"
+  },
+  {
+   "title": "Pokémon Fan Who Spent Thousands of Dollars on AI Tools Upset as Anthropic Finally Begins Crackdown",
+   "link": "https://www.ign.com/articles/pokemon-fan-who-spent-thousands-on-ai-tools-upset-as-anthropic-finally-begins-enforcing-copyright",
+   "summary": "A Pokémon fan who claimed to be spending thousands of dollars each month building a vibe-coded AI project is now complaining after Claude AI maker Anthropic finally introduced copyright limitations.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/12/untitled-1-1794495208363.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-12T14:58:04+00:00"
+  },
+  {
+   "title": "Mario Kart World Switch 2 Bundle Black Friday Deal Brings The Price Back To 2025 Levels",
+   "link": "https://www.gamespot.com/articles/mario-kart-world-switch-2-bundle-black-friday-deal-brings-the-price-back-to-2025-levels/",
+   "summary": "Nintendo has announced its 2026 Black Friday deals, with a Mario Kart World Switch 2 hardware bundle as the centerpiece for $500. The Switch 2 launched in 2025 with a similar bundle for the same price, but it was…",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Switch-2-Mario-Kart-bundle.jpg?w=300",
+   "source": "GameSpot",
+   "lang": "en",
+   "cats": [
+    "nintendo",
+    "releases"
+   ],
+   "date": "2026-11-12T14:55:06+00:00"
+  },
+  {
+   "title": "Nintendo Announces 2026 Black Friday Sale, Including $50 Switch 2 Bundle Discount",
+   "link": "https://www.ign.com/articles/nintendo-announces-2026-black-friday-sale",
+   "summary": "Nintendo has officially confirmed that Switch 2 consoles will be on sale and discounted for Black Friday this year. Here's everything you need to know about Nintendo's upcoming Black Friday 2026 sale, including the…",
+   "image": "https://assets-prd.ignimgs.com/2026/10/19/switch-2-black-friday-best-deal-1792426321073.png",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-12T14:50:00+00:00"
+  },
+  {
+   "title": "Nvidia boss Jensen Huang resigns amid scandal surrounding two alleged affairs, interim CEO appointed as search for sexy leather jacket man's successor begins",
+   "link": "https://www.rockpapershotgun.com/nvidia-boss-jensen-huang-resigns-amid-scandal-surrounding-two-alleged-affairs-interim-ceo-appointed-as-search-for-sexy-leather-jacket-mans-successor-begins",
+   "summary": "Nvidia have ripped off the wax strip and are looking for a new CEO. Jensen Huang, he of the reported extramarital affairs with both a suspected Chinese spy and one of his executive underlings at Nvidia has removed his…",
+   "image": "https://assetsio.gnwcdn.com/Nvidia-Jensen-RTX-4090.png?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T14:49:00+00:00"
+  },
+  {
+   "title": "Japanese Charts: Zelda: Ocarina Of Time Physical Takes The Lion's Share Of Its Japanese Sales",
+   "link": "https://www.nintendolife.com/news/2026/11/japanese-charts-zelda-ocarina-of-time-physical-takes-the-lions-share-of-its-japanese-sales",
+   "summary": "Physical is dead, eh? After Nintendo's reveal this week that The Legend of Zelda: Ocarina of Time had shifted 5.2 million units in its first four days, it will come as no surprise to hear that it's a smash hit in Japan.…",
+   "image": "https://images.nintendolife.com/70c8fc57cca9e/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-12T14:45:00+00:00"
+  },
+  {
+   "title": "GTA’s Strangest Myths: A Full History",
+   "link": "https://www.ign.com/articles/gtas-strangest-myths-a-full-history",
+   "summary": "From bigfoot to the Mount Chilliad mystery, GTA has a long history of urban myths. Before GTA 6 adds more to the list, we investigate the series' most talked-about legends.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/09/gta-myths-1794236071663.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T14:30:00+00:00"
+  },
+  {
+   "title": "For Its Home Console Debut, New PS5 Professor Layton Game Ups the Price to $65",
+   "link": "https://www.pushsquare.com/news/2026/11/for-its-home-console-debut-new-ps5-professor-layton-game-ups-the-price-to-usd65",
+   "summary": "No longer handheld pricing from DS, 3DS. Professor Layton and apprentice Luke aren't playing about with small handheld Nintendo DS and 3DS releases anymore; they're in the big leagues now with a proper PS5 and Switch 2…",
+   "image": "https://images.pushsquare.com/b2ce58623fc32/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation",
+    "nintendo"
+   ],
+   "date": "2026-11-12T14:30:00+00:00"
+  },
+  {
+   "title": "GTA VI sorprende con un vídeo que parece real: la historia de Miami que esconde la eficaz publicación de Rockstar",
+   "link": "https://areajugones.sport.es/videojuegos/gta-vi-sorprende-con-un-video-que-parece-real-la-historia-de-miami-que-esconde-la-eficaz-publicacion-de-rockstar/",
+   "summary": "Un vídeo de apenas unos segundos ha conseguido que los aficionados vuelvan a analizar cada detalle de GTA VI. La grabación muestra una calle con vehículos deportivos y personas paseando con total normalidad. A primera…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/real-1024x576.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [],
+   "date": "2026-11-12T14:29:29+00:00"
+  },
+  {
+   "title": "Jensen Huang resigns, CFO Colette Kress appointed interim CEO at Nvidia",
+   "link": "https://www.pcgamer.com/hardware/graphics-cards/jensen-huang-resigns-cfo-colette-kress-appointed-interim-ceo-at-nvidia/",
+   "summary": "Jensen Huang has resigned from his role as CEO and president of Nvidia. He will be replaced by interim CEO, Colette Kress, who had previously worked as the company's CFO for a long stretch. \"Nvidia Board of Directors…",
+   "image": "https://cdn.mos.cms.futurecdn.net/mBPmwNoStDWChxtHUQPBKH-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T14:27:44+00:00"
+  },
+  {
+   "title": "Marvel Rivals draws a line in the sand when it comes to using mods and configs 'to get an unfair combat advantage' but that doesn't help players looking for a stutter fix",
+   "link": "https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-draws-a-line-in-the-sand-when-it-comes-to-using-mods-and-configs-to-get-an-unfair-combat-advantage-but-that-doesnt-help-players-looking-for-a-stutter-fix/",
+   "summary": "How far would you go to achieve decent frame rates? Well some Marvel Rivals players have been breaking the rules to try and give themselves a better shot of having a sort of salvageable in-game experience . Sure, a lot…",
+   "image": "https://cdn.mos.cms.futurecdn.net/Ntjboe9mjYCJ7PqcNitNF7-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T14:26:32+00:00"
+  },
+  {
+   "title": "The Witcher 3 uses gen-AI to enhance Geralt's Polish voice following actor's stroke - \"I do think this is one of those ways where you can use AI ethically\"",
+   "link": "https://www.eurogamer.net/cd-projekt-red-geralt-gen-ai-voice-polish-jacek-rozenek",
+   "summary": "CD Projekt Red has revealed that it used - and is using - generative AI technology to treat and alter the voice of the Polish actor who portrayed Geralt of Rivia in upcoming Witcher 3 expansion Songs of the Past . Read…",
+   "image": "https://assetsio.gnwcdn.com/witcher-voice-over-jacek-rozenek.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T14:26:10+00:00"
+  },
+  {
+   "title": "After two weeks of multiplayer downtime, Dark Souls 2 & 3's mysterious server \"issue\" has been fixed, so it no longer feels so lonely online",
+   "link": "https://www.eurogamer.net/dark-souls-2-3-servers-back-online",
+   "summary": "Developer FromSoftware has announced that online multiplayer servers for Dark Souls 2 and 3 are back online following a nearly two-week outage. Read more",
+   "image": "https://assetsio.gnwcdn.com/DS2-Scholar_main.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T14:24:50+00:00"
+  },
+  {
+   "title": "Obsession 4K Collector’s Edition Is on Sale for $12.99",
+   "link": "https://www.ign.com/articles/obsession-4k-collectors-edition-is-on-sale-for-1299",
+   "summary": "Obsession, the horror hit of 2026, is already on sale for just $12.99 at Amazon and Walmart.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/12/untitled-design-1-1794492717942.png",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T14:23:01+00:00"
+  },
+  {
+   "title": "GTA 6’s Jason Can Live His Best Life By Drinking A Beer And Eating A Donut Simultaneously",
+   "link": "https://www.gamespot.com/articles/gta-6s-jason-can-live-his-best-life-by-drinking-a-beer-and-eating-a-donut-simultaneously/",
+   "summary": "Rockstar's Grand Theft Auto 6 looks like it will have an impressive attention to detail, and that includes how one of the main characters, Jason, can drink a beer and eat a donut at the same time. Now that's living.…",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_Duval_06.jpg?w=300",
+   "source": "GameSpot",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T14:20:40+00:00"
+  },
+  {
+   "title": "GTA VI está demostrando algo que debería preocupar a los jugadores: su edición más cara arrasa en las reservas",
+   "link": "https://areajugones.sport.es/videojuegos/gta-vi-esta-demostrando-algo-que-deberia-preocupar-a-los-jugadores-su-edicion-mas-cara-arrasa-en-las-reservas/",
+   "summary": "GTA VI está arrasando en sus reservas. De hecho, las estimaciones apuntan a que podríamos estar ante uno de los lanzamientos más exitosos de la historia, incluso antes de que el juego llegue oficialmente a las tiendas.…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/gta-vi-reservas-preocupacion-1-1024x575.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [
+    "releases"
+   ],
+   "date": "2026-11-12T14:20:28+00:00"
+  },
+  {
+   "title": "South Park Season 29, Episode 5 Review: 'We Be Clubbin''",
+   "link": "https://www.ign.com/articles/south-park-season-29-episode-5-review-we-be-clubbin",
+   "summary": "Though South Park finally gives Tweek and Craig a long overdue episode, the execution leaves a lot to be desired in \"We Be Clubbin'.\"",
+   "image": "https://assets-prd.ignimgs.com/2026/11/11/south-park-2905-press-image-1-1794412297436.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T14:14:56+00:00"
+  },
+  {
+   "title": "Jensen Huang has resigned all his positions at Nvidia, effective immediately",
+   "link": "https://www.pcgamer.com/hardware/live/news/nvidia-jen-hsun-scandal/",
+   "summary": "Nvidia's CEO, Jensen Huang, has resigned as President, CEO, and member of the board, effective immediately. That is the message which has just been posted on the Nvidia newsroom . He has been at the centre of a big ol'…",
+   "image": "https://cdn.mos.cms.futurecdn.net/gB5frWmgibL9cdVfTfrLpR-1920-80.png",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T14:05:27+00:00"
+  },
+  {
+   "title": "Cosy Train Sim 'Station To Station' Arrives On Switch 2 Later This Month",
+   "link": "https://www.nintendolife.com/news/2026/11/cosy-train-sim-station-to-station-arrives-on-switch-2-later-this-month",
+   "summary": "Choo choo. Do you like trains? Of course you do, who doesn't like trains. Stupid question. Anyway, you're in luck, dear reader. The cosy train sim Station to Station is making its way to the Switch 2, launching on 26th…",
+   "image": "https://images.nintendolife.com/7e883c064a038/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo",
+    "releases"
+   ],
+   "date": "2026-11-12T14:05:00+00:00"
+  },
+  {
+   "title": "Popeyes Is Riding the GTA 6 Hype With a New 'Spice City' Chicken Sandwich",
+   "link": "https://www.ign.com/articles/popeyes-is-riding-the-gta-6-hype-with-a-new-spice-city-chicken-sandwich",
+   "summary": "Popeyes has unveiled its new \"Spice City\" chicken sandwich, which is the restaurant's attempt to ride the hype wave for GTA 6.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/10/popeyes-sandwich-1794351677687.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T14:00:00+00:00"
+  },
+  {
+   "title": "Review: Harold Halibut (Switch 2) - A Creative Marvel That Suffers In The Back Half",
+   "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/harold-halibut",
+   "summary": "Harold and flawed. This won’t be the first Harold Halibut review to mention being wowed by one of the game’s pre-launch trailers during its release on other platforms back in 2024. Back then, the game’s stop-motion…",
+   "image": "https://images.nintendolife.com/d458df0fc44fa/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo",
+    "releases"
+   ],
+   "date": "2026-11-12T14:00:00+00:00"
+  },
+  {
+   "title": "The Expanse: Osiris Reborn Spotlights Its Female Protagonist in RPG's Promising New Footage",
+   "link": "https://www.pushsquare.com/news/2026/11/the-expanse-osiris-reborn-spotlights-its-female-protagonist-in-rpgs-promising-new-footage",
+   "summary": "Looking good, cap. OwlCat Games has unveiled fresh gameplay from The Expanse: Osiris Reborn , and the sci-fi RPG continues to look really promising. Now that we're past all of the drama with the game's male protagonist…",
+   "image": "https://images.pushsquare.com/7b74cbca1d2ef/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-12T14:00:00+00:00"
+  },
+  {
+   "title": "Xbox Anniversary Weapon Skins For Gears Of War: E-Day Are Now Free To Claim",
+   "link": "https://www.purexbox.com/news/2026/11/xbox-anniversary-weapon-skins-for-gears-of-war-e-day-are-now-free-to-claim",
+   "summary": "Celebrate Xbox's 25 years by chainsawing Locust grubs. Xbox's 25th anniversary is just around the corner, and to celebrate the massive milestone, The Coalition is giving away a free translucent green weapon skin bundle…",
+   "image": "https://images.purexbox.com/aa1829ec3eb97/small.jpg",
+   "source": "Pure Xbox",
+   "lang": "en",
+   "cats": [
+    "xbox"
+   ],
+   "date": "2026-11-12T14:00:00+00:00"
+  },
+  {
+   "title": "Jensen Huang Resigns as Nvidia Boss Amid 'Honeytrap' Scandal, Interim CEO Appointed",
+   "link": "https://www.ign.com/articles/jensen-huang-resigns-as-nvidia-boss-amid-honeytrap-scandal-interim-ceo-appointed",
+   "summary": "Jensen Huang has resigned as CEO of Nvidia, the company he co-founded in 1993. An interim boss has been appointed by Nvidia’s board of directors.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/12/jensen-1794491826750.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T13:57:57+00:00"
+  },
+  {
+   "title": "Intergalactic: The Heretic Prophet Has Some Unexpected Anime Influences",
+   "link": "https://www.gamespot.com/articles/intergalactic-the-heretic-prophet-has-some-unexpected-anime-influences/",
+   "summary": "After years of post-apocalyptic survival stories and archaeological adventures, Intergalactic: The Heretic Prophet looks like a fresh opportunity for Naughty Dog to showcase a new sci-fi universe. Visually, the game…",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Intergalactic-Akira.jpg?w=300",
+   "source": "GameSpot",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T13:55:00+00:00"
+  },
+  {
+   "title": "Los reguladores surcoreanos advierten sobre GTA VI: \"Tiene demasiada exposición de genitales\"",
+   "link": "https://areajugones.sport.es/videojuegos/los-reguladores-surcoreanos-advierten-sobre-gta-vi-tiene-demasiada-exposicion-de-genitales/",
+   "summary": "Está claro que GTA VI va a ser un desmadre en todos los sentidos, y Rockstar no es conocedora de censura. Ya hemos visto escenas de todo tipo en anteriores juegos de la compañía, desde el uso de drogas hasta violencia…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/10/lucia-gta-vi-18-1024x576.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [],
+   "date": "2026-11-12T13:38:45+00:00"
+  },
+  {
+   "title": "Elon Musk Says It 'Would Be an Honor' to Hire Jensen Huang, as the Nvidia CEO's Future Hangs in the Balance",
+   "link": "https://www.ign.com/articles/elon-musk-says-it-would-be-an-honor-to-hire-jensen-huang-as-the-nvidia-ceos-future-hangs-in-the-balance",
+   "summary": "Tech billionaire Elon Musk has said it “would be an honor” to hire Nvidia boss Jensen Huang, who is currently under investigation from his own board of directors and the FBI after admitting having an affair with a woman…",
+   "image": "https://assets-prd.ignimgs.com/2026/11/12/gettyimages-2297261488-1794489835965.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T13:25:36+00:00"
+  },
+  {
+   "title": "Paradox boss Frederik Wester stepping down after several tumultuous years for the Cities Skylines and Stellaris publisher",
+   "link": "https://www.eurogamer.net/paradox-ceo-frederik-wester-stepping-down",
+   "summary": "Paradox Interactive's Frederik Wester has announced he's stepping down from the role of CEO after a combined decade and a half leading the company. The news follows several tumultuous years for the publisher best known…",
+   "image": "https://assetsio.gnwcdn.com/fred_wester_header.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T13:22:00+00:00"
+  },
+  {
+   "title": "Intergalactic: The Heretic Prophet Is Entering Its Final Stage Of Development, With More To Come In 2027",
+   "link": "https://www.gamespot.com/articles/intergalactic-the-heretic-prophet-is-entering-its-final-stage-of-development-with-more-to-come-in-2027/",
+   "summary": "Intergalactic: The Heretic Prophet developer Naughty Dog has been largely radio silent about its upcoming sci-fi game since it was first revealed in 2024, but it looks like 2027 will bring a lot more information.…",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Intergalactic.jpg?w=300",
+   "source": "GameSpot",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T13:21:19+00:00"
+  },
+  {
+   "title": "Being Heumann Review",
+   "link": "https://www.ign.com/articles/being-heumann-review",
+   "summary": "Being Heumann review: A hilarious, mawkish crowd-pleaser about disability advocates, cast with authenticity.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/10/1280being-heumann-photo-0102-copy-1794342349695.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T13:00:00+00:00"
+  },
+  {
+   "title": "Free Play Days: Try These Xbox Games For Free (November 12-15)",
+   "link": "https://www.purexbox.com/news/2026/11/free-play-days-try-these-xbox-games-for-free-november-12-15",
+   "summary": "Download and try these games for free this weekend. It's Thursday, which means it's time for your latest batch of Xbox Free Play Days titles! So far, we know of four games in the lineup, thanks to some digging from…",
+   "image": "https://images.purexbox.com/2bbbbac2bfde2/small.jpg",
+   "source": "Pure Xbox",
+   "lang": "en",
+   "cats": [
+    "xbox"
+   ],
+   "date": "2026-11-12T13:00:00+00:00"
+  },
+  {
+   "title": "Marvel 1943: Rise of Hydra casi se cancela porque podría tener algo intolerable para los juegos de hoy en día: jugabilidad de un botón",
+   "link": "https://areajugones.sport.es/videojuegos/marvel-1943-rise-of-hydra-casi-se-cancela-porque-podria-tener-algo-intolerable-para-los-juegos-de-hoy-en-dia-jugabilidad-de-un-boton/",
+   "summary": "Cuando se presentó Marvel 1943: Rise of Hydra, muchos quedamos impresionados por su espectacular apartado gráfico y la promesa de vivir una gran aventura protagonizada por el Capitán América y Black Panther. Sin…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2025/05/marvel-1943-imagen-1024x576.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [],
+   "date": "2026-11-12T12:49:40+00:00"
+  },
+  {
+   "title": "Intergalactic: The Heretic Prophet in 'Last Stages of Production,' Neil Druckmann calls it a Mash-up of Jak and Daxter, Uncharted and The Last of Us",
+   "link": "https://www.ign.com/articles/intergalactic-the-heretic-prophet-in-last-stages-of-production-neil-druckmann-calls-it-a-mash-up-of-jak-and-daxter-uncharted-and-the-last-of-us",
+   "summary": "Naughty Dog boss Neil Druckmann has given a seemingly promising update on Intergalactic: The Heretic Prophet, and offered a fresh tease of what to expect.",
+   "image": "https://assets-prd.ignimgs.com/2025/11/05/intergalacticthumb-1762367380714.png",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T12:47:30+00:00"
+  },
+  {
+   "title": "GTA 6 Was Almost Refused a Rating in South Korea Due to 'Genital Nudity'",
+   "link": "https://www.ign.com/articles/gta-6-was-almost-refused-rating-in-south-korea",
+   "summary": "GTA 6 was almost too much for South Korean ratings board GCRB, who struggled to agree whether the game should be approved or not. The board cited “out of context genital nudity” as the sticking point.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/12/vintage-vice-city-pack-exclusive-looks-01-1794487245980.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T12:44:19+00:00"
+  },
+  {
+   "title": "Will a Grand Theft Auto game ever be set outside of America? Rockstar offers a small glimmer of hope",
+   "link": "https://www.eurogamer.net/grand-theft-auto-gta-non-american-setting-rockstar",
+   "summary": "The Grand Theft Auto games have always been synonymous with America; Americana is baked into the crime series' very being. Across its history, there's only ever been one GTA game set outside America: the London-based…",
+   "image": "https://assetsio.gnwcdn.com/GTA6_5nov-(2).jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T12:39:20+00:00"
+  },
+  {
+   "title": "Nvidia board reportedly prepare to give CEO Jensen Huang the boot, as second alleged affair thrusts him closer to seriously lusty Crusader Kings playthrough territory",
+   "link": "https://www.rockpapershotgun.com/nvidia-board-reportedly-prepare-to-give-ceo-jensen-huang-the-boot-as-second-alleged-affair-thrusts-him-closer-to-seriously-lusty-crusader-kings-playthrough-territory",
+   "summary": "Update: Annnnnnnddd he's gone . Original story follows: The situation at the highest levels of AI and also some graphics cards if you insist company Nvidia continues to look, well, less than ideal. CEO Jensen Huang, he…",
+   "image": "https://assetsio.gnwcdn.com/Nvidia-RTX-Spark-reveal.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T12:38:40+00:00"
+  },
+  {
+   "title": "Zelda: Ocarina of Time está a punto de conseguir en días lo que el original tardó años en lograr: sus ventas son una locura",
+   "link": "https://areajugones.sport.es/videojuegos/zelda-ocarina-of-time-esta-a-punto-de-conseguir-en-dias-lo-que-el-original-tardo-anos-en-lograr-sus-ventas-son-una-locura/",
+   "summary": "Durante el día de ayer conocimos el primer dato de ventas oficial de Ocarina of Time Remake: el regreso de Zelda a uno de los mayores clásicos de la historia acumulaba ya 5,2 millones de unidades vendidas. Y eso, en…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/ocarina-of-time-remake-ventas-original-1-1024x572.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-12T12:37:30+00:00"
+  },
+  {
+   "title": "Romancing SaGa 3: Destinies United Will Launch Earlier Than Expected On Switch 2",
+   "link": "https://www.nintendolife.com/news/2026/11/romancing-saga-3-destinies-united-will-launch-earlier-than-expected-on-switch-2",
+   "summary": "Result! Square Enix popped up at the September Nintendo Direct to reveal Romancing SaGa 3: Destinies United for Switch and Switch 2. It came with a 16th February 2027 release date, but the studio has changed its plans…",
+   "image": "https://images.nintendolife.com/1e2871705ef9d/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo",
+    "releases"
+   ],
+   "date": "2026-11-12T12:30:00+00:00"
+  },
+  {
+   "title": "Guide: GTA 6 Release Times: When Can You Start Playing?",
+   "link": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
+   "summary": "All the GTA 6 release info you need. Probably the most anticipated game of all time, GTA 6 is now less than one week away! As the launch draws even closer, we're covering absolutely everything you need to know about its…",
+   "image": "https://images.pushsquare.com/43e69a3687e26/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation",
+    "releases"
+   ],
+   "date": "2026-11-12T12:30:00+00:00"
+  },
+  {
+   "title": "Humble Bundle's new redesign inexplicably removes 2-factor authentication, dramatically weakening account security",
+   "link": "https://www.pcgamer.com/software/platforms/humble-bundles-new-redesign-inexplicably-removes-2-factor-authentication-dramatically-weakening-account-security/",
+   "summary": "Users of Humble Bundle —the pay-what-you-want game-bundle storefront that will also sell you books and software—have been alarmed by a new redesign that seems to have axed a foundational piece of login security tech.…",
+   "image": "https://cdn.mos.cms.futurecdn.net/h5FQugqRYn3eeekkWheUzT-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T12:29:45+00:00"
+  },
+  {
+   "title": "Magic: The Gathering’s Marvel Super Heroes Play Booster Box Drops 40% in Early Black Friday Deal",
+   "link": "https://www.ign.com/articles/magic-the-gathering-marvel-super-heroes-play-booster-box-black-friday-deal",
+   "summary": "Amazon’s early Black Friday deal cuts 40% off the Magic: The Gathering Marvel Super Heroes Play Booster Box, dropping 30 packs from $209.70 to $129.99.",
+   "image": "https://assets-prd.ignimgs.com/2026/05/29/marvel-super-heroes-play-booster-box-sale-amazon-best-deal-1780054155676.png",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T12:19:36+00:00"
+  },
+  {
+   "title": "If Jensen Huang goes, who could replace him? Here’s who the board might pick if the Nvidia CEO is ousted in the wake of affair scandals",
+   "link": "https://www.pcgamer.com/hardware/if-jensen-huang-goes-who-could-replace-him-heres-who-the-board-might-pick-if-the-nvidia-ceo-is-ousted-in-the-wake-of-affair-scandals/",
+   "summary": "It was bad enough for Nvidia CEO Jensen Huang that he admitted to having an affair with someone , who people believe to be someone suspected of being a Chinese spy. But it's now come to light he has reportedly had a…",
+   "image": "https://cdn.mos.cms.futurecdn.net/YWVGBwyRpoUTiKwBmnNzt6-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T12:18:35+00:00"
+  },
+  {
+   "title": "Is VisionQuest's Spoiler Character the Key to Doctor Doom's Plan in Avengers: Doomsday?",
+   "link": "https://www.ign.com/articles/visionquest-doctor-doom-plan-avengers-doomsday-childrens-crusade",
+   "summary": "Is VisionQuest's spoiler character the key to Doctor Doom's plan in Avengers: Doomsday?",
+   "image": "https://assets-prd.ignimgs.com/2026/07/25/latverian-witches-thumb-1785004807890.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T12:03:00+00:00"
+  },
+  {
+   "title": "Amid soaring PC hardware prices, gaming monitors are getting cheaper and cheaper. Here's why, and what to buy",
+   "link": "https://www.rockpapershotgun.com/amid-soaring-pc-hardware-prices-gaming-monitors-are-getting-cheaper-and-cheaper-heres-why-and-what-to-buy",
+   "summary": "Hello, good local-time-zone-adjusted afternoon, and let's just say it's been a while . But I come back to you now at the turn of the technological tide. Well, sort of. Sadly I'm not here to predict an end to the…",
+   "image": "https://assetsio.gnwcdn.com/Gigabyte-GO27Q24G-hero.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T12:00:00+00:00"
+  },
+  {
+   "title": "New Witcher 3 DLC Uses AI to Touch Up Geralt's Polish Voice Due to Actor's Health Issues",
+   "link": "https://www.pushsquare.com/news/2026/11/new-witcher-3-dlc-uses-ai-to-touch-up-geralts-polish-voice-due-to-actors-health-issues",
+   "summary": "Has the blessing of Jacek Rozenek. CD Projekt Red has worked with an AI voice generation company on next year's The Witcher 3 expansion, Songs of the Past , so the Polish voiceover for Geralt can match the original…",
+   "image": "https://images.pushsquare.com/3d56988299bd4/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-12T12:00:00+00:00"
+  },
+  {
+   "title": "GTA 6 Gets 20 Seconds Of New Gameplay, And Everyone Can't Believe How Real It Looks",
+   "link": "https://www.purexbox.com/news/2026/11/gta-6-gets-20-seconds-of-new-gameplay-and-everyone-cant-believe-how-real-it-looks",
+   "summary": "Assuming it IS real. Sorry to keep bombarding you with GTA 6 hype, but we're literally one week away from the biggest video game launch of all time, and even 20 seconds' worth of gameplay is getting millions of views…",
+   "image": "https://images.purexbox.com/3798dd5f281c3/small.jpg",
+   "source": "Pure Xbox",
+   "lang": "en",
+   "cats": [
+    "xbox",
+    "releases"
+   ],
+   "date": "2026-11-12T12:00:00+00:00"
+  },
+  {
+   "title": "Nvidia stock price plunges amid second Jensen Huang affair allegation — the AI company could be set to lose hundreds of billions in value",
+   "link": "https://www.pcgamer.com/hardware/nvidia-stock-price-plunges-amid-second-jensen-huang-affair-allegation-the-ai-company-could-be-set-to-lose-hundreds-of-billions-in-value/",
+   "summary": "With a Democratic midterm win, a mini AI crash in China , and Jensen Huang admitted to an affair this Sunday , Nvidia was already in a tight spot. Now, a second affair allegation has come out about Nvidia's CEO, and the…",
+   "image": "https://cdn.mos.cms.futurecdn.net/KzRgxseXSQCKskW6G4CjcN-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T11:46:58+00:00"
+  },
+  {
+   "title": "Resident Evil Requiem Crowned 'Ultimate Game Of The Year' At The Golden Joysticks Awards",
+   "link": "https://www.nintendolife.com/news/2026/11/resident-evil-requiem-crowned-ultimate-game-of-the-year-at-the-golden-joysticks-awards",
+   "summary": "Capcom cleans up. Resident Evil Requiem has been crowned 'Ultimate Game of the Year' at this year's Golden Joystick Awards. In fact, Capcom did remarkably well, scooping a total of six awards, including 'Studio of the…",
+   "image": "https://images.nintendolife.com/7a0d8553bf471/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-12T11:45:00+00:00"
+  },
+  {
+   "title": "Nvidia board considering ousting CEO Jensen Huang, report claims, as news of a second affair comes to light",
+   "link": "https://www.eurogamer.net/nvidia-ceo-jensen-huang-affair-share-price",
+   "summary": "Nvidia's board of directors has reportedly met to decide whether to remove the company's embattled CEO Jensen Huang, as news of a second extramarital affair has come to light. Read more",
+   "image": "https://assetsio.gnwcdn.com/NVIDIA-CEO-Jensen-Huang-Keynote-at-CES-2025-20-19-screenshot.png?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T11:37:30+00:00"
+  },
+  {
+   "title": "Marvel 1943: Rise Of Hydra Isn’t Canceled, But Don’t Get Too Excited",
+   "link": "https://www.gamespot.com/articles/marvel-1943-rise-of-hydra-isnt-canceled-but-dont-get-too-excited/",
+   "summary": "Amid multiple delays and radio silence, a rumor that Marvel 1943: Rise of Hydra had been canceled began circulating this week. Developer Skydance quickly said the game is on track and nearly done—but it might not be…",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Marvel-1943.jpg?w=300",
+   "source": "GameSpot",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T11:35:04+00:00"
+  },
+  {
+   "title": "Amy Hennig's Marvel 1943: Rise of Hydra hasn't been cancelled, Skydance reportedly says, as rumours swirl to the contrary",
+   "link": "https://www.eurogamer.net/marvel-1943-rise-of-hydra-not-cancelled-skydance-says",
+   "summary": "You'd be forgiven for forgetting that Amy Hennig's superhero game Marvel 1943: Rise of Hydra exists, but apparently it's still in development despite its many troubles and rumours to the contrary. Read more",
+   "image": "https://assetsio.gnwcdn.com/Marvel-1943_-Rise-of-Hydra-_-Story-Trailer-0-25-screenshot-(1).png?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-12T11:13:20+00:00"
+  },
+  {
+   "title": "Danganronpa Creator Says Physical Game Production Is Reliant On Day-One Patches",
+   "link": "https://www.nintendolife.com/news/2026/11/danganronpa-creator-says-physical-game-production-is-reliant-on-day-one-patches",
+   "summary": "\"We barely pass platform certification requirements\". Kazutaka Kodaka, creator of Danganronpa and The Hundred Line , has made a pretty incredible admission regarding the production of physical games. His comments were…",
+   "image": "https://images.nintendolife.com/9f928764de56e/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-12T11:00:00+00:00"
+  },
+  {
+   "title": "10+ Xbox Games Are Releasing Today, Including A Visceral Zombie FPS On Xbox Game Pass (November 12)",
+   "link": "https://www.purexbox.com/news/2026/11/10plus-xbox-games-are-releasing-today-including-a-visceral-zombie-fps-on-xbox-game-pass-november-12",
+   "summary": "Puff puff pass the gun. Welcome back to your latest roundup of all the new games launching on Xbox today. Ultimate, Premium, and PC Game Pass subscribers are in for a treat with the arrival of John Carpenter's Toxic…",
+   "image": "https://images.purexbox.com/21e668f4dcae9/small.jpg",
+   "source": "Pure Xbox",
+   "lang": "en",
+   "cats": [
+    "xbox",
+    "pc",
+    "releases"
+   ],
+   "date": "2026-11-12T11:00:00+00:00"
+  },
+  {
+   "title": "'This would be an Apple firing Steve Jobs level of idiocy' says Tim Sweeney at the idea of ousting Jensen Huang - while Elon Musk says 'it would be an honor' to hire the Nvidia chief",
+   "link": "https://www.pcgamer.com/hardware/this-would-be-an-apple-firing-steve-jobs-level-of-idiocy-says-tim-sweeney-at-the-idea-of-ousting-jensen-huang-while-elon-musk-says-it-would-be-an-honor-to-hire-the-nvidia-chief/",
+   "summary": "While the Nvidia board reportedly mulls over the idea of ousting CEO Jensen Huang , after his admission of an affair and suspicions of another have come to light, some powerful figures in the tech industry have taken to…",
+   "image": "https://cdn.mos.cms.futurecdn.net/x6qT5Gqen36G7WpiNyNmKo-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T10:47:58+00:00"
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang Resigns, Effective Immediately",
+   "link": "https://www.gamespot.com/articles/nvidias-board-is-weighing-jensen-huangs-future-after-second-affair-revelation/",
+   "summary": "Nvidia has announced that Jensen Huang has resigned as president and CEO of the company, effective immediately. Nvidia's current Chief Financial Officer, Colette Kress, will serve as interim CEO while keeping her CFO…",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Jensen-Huang-CTC-2026.jpg?w=300",
+   "source": "GameSpot",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T10:43:30+00:00"
+  },
+  {
+   "title": "El lugar donde nacieron Dragon Ball y Goku ya no existe: el histórico Bird Studio ya ha sido demolido",
+   "link": "https://areajugones.sport.es/anime/el-lugar-donde-nacieron-dragon-ball-y-goku-ya-no-existe-el-historico-bird-studio-ya-ha-sido-demolido/",
+   "summary": "Hace unos días, saltó la noticia de que Bird Studio iba a ser demolido. Esto suponía el fin del lugar en el que Akira Toriyama creó 'Dragon Ball', el sitio que podemos considerar la cuna de Goku. Hoy, las noticias que…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/dragon-ball-akira-toriyama-bird-studio-demolido-1024x576.png",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [],
+   "date": "2026-11-12T10:42:41+00:00"
+  },
+  {
+   "title": "\"One of those ways where you can use AI ethically\": CDPR have modified Geralt's Polish voice in The Witcher 3: Songs of the Past with genAI, due to actor's stroke",
+   "link": "https://www.rockpapershotgun.com/one-of-those-ways-where-you-can-use-ai-ethically-cdpr-have-modified-geralts-polish-voice-in-the-witcher-3-songs-of-the-past-with-genai-due-to-actors-stroke",
+   "summary": "CD Projekt Red have reportedly enlisted Ukrainian AI firm Respeecher to modify voice lines recorded for the Polish version of Geralt of Rivia in The Witcher 3 's upcoming Songs of the Past expansion . The move's been…",
+   "image": "https://assetsio.gnwcdn.com/the-witcher-3-songs-of-the-past-polish-geralt-voice-ai-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-12T10:40:10+00:00"
+  },
+  {
+   "title": "Phantom Blade Zero es un juego excepcional, pero podría haber sido histórico con una de las mejores ideas de NieR: Automata",
+   "link": "https://areajugones.sport.es/videojuegos/phantom-blade-zero-es-un-juego-excepcional-pero-podria-haber-sido-historico-con-una-de-las-mejores-ideas-de-nier-automata/",
+   "summary": "Phantom Blade Zero es uno de los mejores juegos de acción de la historia. No me tiembla el pulso al decir eso, es genuinamente lo que pienso después de haberlo completado; sus decenas de jefes, la enorme variedad de…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/phantom-blade-nier-automata-1-1024x575.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [],
+   "date": "2026-11-12T10:35:03+00:00"
+  },
+  {
+   "title": "Intergalactic PS5 in the 'Last Stage of Production', Gameplay Coming Next Year",
+   "link": "https://www.pushsquare.com/news/2026/11/intergalactic-ps5-in-the-last-stage-of-production-gameplay-coming-next-year",
+   "summary": "Neil Druckmann thinks the game will \"surprise people\". Since the announcement of Naughty Dog's next big game, Intergalactic: The Heretic Prophet , we really haven't seen or heard much about it. In 2027, though, that's…",
+   "image": "https://images.pushsquare.com/d0015eae8cf3b/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-12T10:30:00+00:00"
+  },
+  {
+   "title": "Prepara tu PS5 para GTA VI: el mando y los auriculares Razer con los que vivir los grandes lanzamientos de fin de año",
+   "link": "https://areajugones.sport.es/videojuegos/prepara-tu-ps5-para-gta-vi-el-mando-y-los-auriculares-razer-con-los-que-vivir-los-grandes-lanzamientos-de-fin-de-ano/",
+   "summary": "La recta final de 2026 trae a PS5 algunos de los lanzamientos más importantes de la generación, y lo hace con géneros que no se parecen en nada entre sí. En apenas unas semanas llegan el shooter del año con Call of…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/razer-gta-1024x560.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [
+    "playstation",
+    "releases"
+   ],
+   "date": "2026-11-12T10:17:54+00:00"
+  },
+  {
+   "title": "New Limited-Time Pokémon Champions Distribution Is Now Available",
+   "link": "https://www.nintendolife.com/news/2026/11/new-limited-time-pokemon-champions-distribution-is-now-available",
+   "summary": "Get training. Just in time for the Latin America International Championships, The Pokémon Company has released a new limited-time distribution event for Pokémon Champions (thanks, Serebii ). The code for this one is…",
+   "image": "https://images.nintendolife.com/d187f71a1fd35/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-12T10:15:00+00:00"
+  },
+  {
+   "title": "CD Projekt RED confirma que la nueva expansión de The Witcher 3 hará uso de la IA para ajustar la voz de Geralt, pero el motivo tiene mucho sentido",
+   "link": "https://areajugones.sport.es/videojuegos/cd-projekt-red-confirma-que-la-nueva-expansion-de-the-witcher-3-hara-uso-de-la-ia-para-ajustar-la-voz-de-geralt-pero-el-motivo-tiene-mucho-sentido/",
+   "summary": "Hace ya más de 10 años, CD Projekt Red lanzó uno de los juegos más relevantes de todos los tiempos, The Witcher 3. Protagonizado por Geralt de Rivia y basada en las novelas de Andrzej Sapkowski, esta es una entrega con…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/the-witcher-ia-1024x576.png",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [],
+   "date": "2026-11-12T10:10:13+00:00"
+  },
+  {
+   "title": "Posible candidato a GOTY 2026 y solo cuesta 14,24 € después de que la PS Store haya tumbado su precio",
+   "link": "https://areajugones.sport.es/videojuegos/posible-candidato-a-goty-2026-y-solo-cuesta-1424-e-despues-de-que-la-ps-store-haya-tumbado-su-precio/",
+   "summary": "La promoción del Black Friday ya está en marcha en PS Store, y entre los cientos de juegos rebajados podemos encontrar auténticas joyas a precios muy interesantes. Algunas son grandes producciones AAA, pero también hay…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2024/01/oferta-ps-store-4-1024x576.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [],
+   "date": "2026-11-12T10:00:11+00:00"
+  },
+  {
+   "title": "Kimetsu no Yaiba podría durar 100 años: Sony tiene planes muy ambiciosos para la franquicia",
+   "link": "https://areajugones.sport.es/anime/kimetsu-no-yaiba-podria-durar-100-anos-sony-tiene-planes-muy-ambiciosos-para-la-franquicia/",
+   "summary": "'Kimetsu no Yaiba' parecía estar a dos películas de terminar definitivamente, pero, según recoge Anime Tokki de una entrevista con Bloomberg, parece que aún le queda cuerda para largo. Y es que desde Aniplex, productora…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/kimetsu-no-yaiba-100-anos-1024x576.png",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [],
+   "date": "2026-11-12T09:41:30+00:00"
+  },
+  {
+   "title": "PS Plus Extra y Premium noviembre 2026: esta es la fecha y hora a la que estarán disponibles los nuevos juegos gratis",
+   "link": "https://areajugones.sport.es/videojuegos/ps-plus-extra-y-premium-noviembre-2026-esta-es-la-fecha-y-hora-a-la-que-estaran-disponibles-los-nuevos-juegos-gratis/",
+   "summary": "PS Plus Extra y Premium vienen pisando fuerte este mes de noviembre de 2026. Sony ha sorprendido a los suscriptores con una selección de juegos especialmente potente, encabezada por Death Stranding 2: On the Beach, uno…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2024/06/fecha-de-anuncio-de-juegos-de-ps-plus-1024x576.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [],
+   "date": "2026-11-12T09:33:23+00:00"
+  },
+  {
+   "title": "Guide: PlayStation Studios: All Sony First-Party Developers and What They're Working On",
+   "link": "https://www.pushsquare.com/guides/playstation-studios-all-sony-first-party-developers-and-what-theyre-working-on",
+   "summary": "Every game coming from PS Studios. Sony's first-party developers are known collectively as PlayStation Studios , and it's these teams that make all the games published by the company. Whether it's PS5, PC, or beyond,…",
+   "image": "https://images.pushsquare.com/0bdbbbb8328a3/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation",
+    "pc"
+   ],
+   "date": "2026-11-12T09:00:00+00:00"
+  },
   {
    "title": "¿Un GTA ambientado en España? Rockstar Games abre la puerta a llevar la saga fuera de Estados Unidos: \"Nunca digas nunca\"",
    "link": "https://areajugones.sport.es/videojuegos/un-gta-ambientado-en-espana-rockstar-games-abre-la-puerta-a-llevar-la-saga-fuera-de-estados-unidos-nunca-digas-nunca/",
@@ -415,7 +1747,7 @@
    "title": "Resident Evil Requiem Wins the First 2026 Game of the Year Award",
    "link": "https://www.pushsquare.com/news/2026/11/resident-evil-requiem-wins-the-first-2026-game-of-the-year-award",
    "summary": "Top accolade at the Golden Joystick Awards. Resident Evil Requiem has been crowned the Ultimate Game of the Year at the Golden Joystick Awards, the first major games award ceremony of 2026. Alongside the biggest award,…",
-   "image": "https://images.pushsquare.com/583f9fd38a314/small.jpg",
+   "image": "https://images.pushsquare.com/c713f0ab0609f/small.jpg",
    "source": "Push Square",
    "lang": "en",
    "cats": [
@@ -956,1355 +2288,6 @@
     "pc"
    ],
    "date": "2026-11-11T15:41:38+00:00"
-  },
-  {
-   "title": "Overwatch is adding 6v6 role queue to its Competitive play: 'We've realised that there doesn't have to be a winner between 5v5 and 6v6'",
-   "link": "https://www.pcgamer.com/games/fps/overwatch-is-adding-6v6-role-queue-to-its-competitive-play-weve-realised-that-there-doesnt-have-to-be-a-winner-between-5v5-and-6v6/",
-   "summary": "If you had told me back in 2019 that I'd actually prefer a 5v5 version of Overwatch instead of the traditional 6v6 in the big old year of 2026 I'd have replied: \"I'm still playing Overwatch in 2026?\" Regardless, it's a…",
-   "image": "https://cdn.mos.cms.futurecdn.net/iRQu3XQsfD9ZZQhW2k88gC-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-11T15:31:58+00:00"
-  },
-  {
-   "title": "How Skyrim Found a Second Life As Cozy Game",
-   "link": "https://www.ign.com/articles/how-skyrim-found-a-second-life-as-cozy-game",
-   "summary": "15 years after release, Skyrim's icy, dangerous world feels warm and cozy. But why has this dark fantasy become such a comfort play? We spoke to experts and developers to find out.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/11/cozyskyrim-blogroll-1794397242244.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-11T15:30:00+00:00"
-  },
-  {
-   "title": "Square Enix Sees Huge Increase in Digital Game Sales, Upping Its Financial Forecast",
-   "link": "https://www.pushsquare.com/news/2026/11/square-enix-sees-huge-increase-in-digital-game-sales-upping-its-financial-forecast",
-   "summary": "While physical sales decline. Much like Capcom , Square Enix is seeing a significant surge in digital game sales, as opposed to physical, with the latter now in steady decline. In fact, Square Enix's latest financial…",
-   "image": "https://images.pushsquare.com/8bbdc8e372c88/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-11T15:30:00+00:00"
-  },
-  {
-   "title": "Shrek 2 Remastered Has No Official Reviews Yet, But The User Reviews Are Quite Bizarre",
-   "link": "https://www.purexbox.com/news/2026/11/shrek-2-remastered-has-no-official-reviews-yet-but-the-user-reviews-are-quite-bizarre",
-   "summary": "It has a high score on Xbox right now, but a Mixed one on Steam. Yesterday marked the launch of Shrek 2 Remastered on Xbox Series X and Xbox Series S (along with other platforms), and if you're wondering why nobody…",
-   "image": "https://images.purexbox.com/d67ed4f1da7c3/small.jpg",
-   "source": "Pure Xbox",
-   "lang": "en",
-   "cats": [
-    "xbox",
-    "pc",
-    "releases"
-   ],
-   "date": "2026-11-11T15:30:00+00:00"
-  },
-  {
-   "title": "De 69,99€ a 19,59€: PS Store tumba el precio de dos de los mejores juegos de terror de PS5 hasta su mínimo histórico",
-   "link": "https://areajugones.sport.es/videojuegos/de-6999e-a-1959e-ps-store-tumba-el-precio-de-dos-de-los-mejores-juegos-de-terror-de-ps5-hasta-su-minimo-historico/",
-   "summary": "Mira que hay buenas ofertas de Black Friday en la tienda digital de PS4 y PS5, pero hay un par que son absolutamente imposibles de perder de vista para cualquier buen aficionado a los survival horror. Y es que PS Store…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/ps-store-silent-hill-1-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-11T15:20:59+00:00"
-  },
-  {
-   "title": "\"Some of the best games of the last decade came from teams of fifty\": Destroy All Humans! remake devs Black Forest Games split from THQ Nordic to launch new indie studio group",
-   "link": "https://www.rockpapershotgun.com/some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-destroy-all-humans-remake-devs-black-forest-games-split-from-thq-nordic-to-launch-new-indie-studio-group",
-   "summary": "Black Forest Games, developers of the Destroy All Humans! remakes, have spun out of Embracer Group-owned publishers THQ Nordic via a management buyout and announced plans to form a new \"developer-driven group\" of…",
-   "image": "https://assetsio.gnwcdn.com/destroy-all-humans-remake-devs-spin-out-thq-nordic-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc",
-    "releases"
-   ],
-   "date": "2026-11-11T15:19:30+00:00"
-  },
-  {
-   "title": "Tekken Legend Katsuhiro Harada Says He Wishes 'Hardware Like the Xbox Series S Wouldn't Be Released'",
-   "link": "https://www.ign.com/articles/tekken-legend-katsuhiro-harada-says-he-wishes-hardware-like-the-xbox-series-s-wouldnt-be-released",
-   "summary": "Tekken development legend Katsuhiro Harada had some strong comments for Microsoft's lower-powered Xbox Series S console, dubbing it a \"weaker child\" with \"awkwardly lower performance.\"",
-   "image": "https://assets-prd.ignimgs.com/2022/11/30/seriess-1624390081463-1669817083526.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "xbox"
-   ],
-   "date": "2026-11-11T15:14:21+00:00"
-  },
-  {
-   "title": "Sabrina the Teenage Witch #5 Kicks Off a Brand-New Adventure for Sabrina Spellman",
-   "link": "https://www.ign.com/articles/sabrina-the-teenage-witch-5-kicks-off-a-brand-new-adventure-for-sabrina-spellman",
-   "summary": "Oni Press' Sabrina the Teenage Witch reboot is one of our favorite new comics of 2026, and we've got an exclusive first look at the series' next major storyline.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/mixcollage-10-nov-2026-11-55-am-3348-1794329721246.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-11T15:00:00+00:00"
-  },
-  {
-   "title": "Square Enix's Big Reset Is Working As It Increases Its Full-Year Forecast",
-   "link": "https://www.nintendolife.com/news/2026/11/square-enixs-big-reset-is-working-as-it-increases-its-full-year-forecast",
-   "summary": "Publisher reports \"solid performance\" for FF7 Rebirth. Square Enix has released its latest financial data for the six-month period ending 30th September 2026. In short, it looks like the company's efforts to reset its…",
-   "image": "https://images.nintendolife.com/9d3e8cb526d33/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-11T14:45:00+00:00"
-  },
-  {
-   "title": "Glorious GMMK Eternal review",
-   "link": "https://www.pcgamer.com/hardware/gaming-keyboards/glorious-gmmk-eternal-review/",
-   "summary": "It seems Glorious is intent on converting you out of that old Amazon Basics keyboard you might have sat on your desk and into something with a little more of, well, everything. The new GMMK Eternal is the second product…",
-   "image": "https://cdn.mos.cms.futurecdn.net/5BwSv6aAQMJbpxBpkNmKT7-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-11T14:43:47+00:00"
-  },
-  {
-   "title": "AMD's Zen 6 gaming CPUs might be absolute monsters by the looks of the server chips—and there's a 3D V-Cache variant to keep an eye on",
-   "link": "https://www.pcgamer.com/hardware/processors/amds-zen-6-gaming-cpus-might-be-absolute-monsters-by-the-looks-of-the-server-chips-and-theres-a-3d-v-cache-variant-to-keep-an-eye-on/",
-   "summary": "AMD has revealed a substantial amount of detail on its next-gen Zen 6 CPU architecture, in the form of a technical deep dive on its newly-unveiled EPYC \"Venice\" range of server chips. These models will find themselves…",
-   "image": "https://cdn.mos.cms.futurecdn.net/rzParbRmcG9d7cPPxniue9-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-11T14:36:40+00:00"
-  },
-  {
-   "title": "PS Plus es una mina de oro para los fans de Assassin's Creed: 16 juegos disponibles con una sola suscripción",
-   "link": "https://areajugones.sport.es/videojuegos/ps-plus-es-una-mina-de-oro-para-los-fans-de-assassins-creed-16-juegos-disponibles-con-una-sola-suscripcion/",
-   "summary": "Assassin's Creed es una franquicia de la que solo un fan extremo va a ser capaz de decirte de carrerilla todas las entregas que se han lanzado hasta la fecha. Ubisoft dio en su momento con su gallina particular de los…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/assassins-creed-en-ps-plus-1-1024x575.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-11T14:13:27+00:00"
-  },
-  {
-   "title": "\"I wish hardware like the Xbox Series S wouldn't be released\" - former Tekken director Katsuhiro Harada trashes Microsoft's console in front of senior Xbox staff",
-   "link": "https://www.eurogamer.net/katsuhiro-harada-xbox-series-s-wish-it-wouldnt-release",
-   "summary": "Katsuhiro Harada, formerly director on the Tekken series, is known for not pulling his punches. This truth was reinforced recently, as he said he wished the Xbox Series S \"wouldn't be released\" at a developer panel. All…",
-   "image": "https://assetsio.gnwcdn.com/Harada-Series-S.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [
-    "xbox"
-   ],
-   "date": "2026-11-11T14:09:30+00:00"
-  },
-  {
-   "title": "Mini Review: Barbie Rewind (PS5) - Fab Outer Layer Brings This Retro Ensemble Together",
-   "link": "https://www.pushsquare.com/reviews/ps5/barbie-rewind",
-   "summary": "Life in plastic, it's fantastic. The only Barbie title I've played, prior to Barbie Rewind , is a PC game named Fashion Designer, in which you choose clothes based on particular themes, then apply patterns, accessories,…",
-   "image": "https://images.pushsquare.com/fe3dbbe1cef40/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation",
-    "pc"
-   ],
-   "date": "2026-11-11T14:00:00+00:00"
-  },
-  {
-   "title": "Xbox Brings Halo's Iconic Pelican To Microsoft Flight Sim 2024 As Limited-Time Freebie",
-   "link": "https://www.purexbox.com/news/2026/11/xbox-brings-halos-iconic-pelican-to-microsoft-flight-sim-2024-as-limited-time-freebie",
-   "summary": "Act fast and claim the combat dropship for free! Asobo Studios is commemorating the 25th anniversary of Halo by introducing the iconic UNSC Pelican into Microsoft Flight Simulator 2024 . Over the years, the combat…",
-   "image": "https://images.purexbox.com/4a03ab95aa824/small.jpg",
-   "source": "Pure Xbox",
-   "lang": "en",
-   "cats": [
-    "xbox"
-   ],
-   "date": "2026-11-11T14:00:00+00:00"
-  },
-  {
-   "title": "Colin Farrell Says 'There's a Conversation to Be Had' About The Penguin Season 2, Having Filmed Just 2 Scenes for The Batman Part II",
-   "link": "https://www.ign.com/articles/colin-farrell-says-theres-a-conversation-to-be-had-about-the-penguin-season-2-having-filmed-just-2-scenes-for-the-batman-part-ii",
-   "summary": "Colin Farrell has confirmed he only appears in two scenes as the Penguin in The Batman Part II, but would love to play the character again in a potential Season 2 of the HBO show, insisting \"there's a conversation to be…",
-   "image": "https://assets-prd.ignimgs.com/2023/04/12/penguin-1681321284658.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-11T13:58:41+00:00"
-  },
-  {
-   "title": "Lootboxes, pay-to-win, virtual currencies and other blights unto gaming face heavy regulation as the EU tables new Digital Fairness Act",
-   "link": "https://www.rockpapershotgun.com/lootboxes-pay-to-win-virtual-currencies-and-other-blights-unto-gaming-face-heavy-regulation-as-the-eu-tables-new-digital-fairness-act",
-   "summary": "Loot boxes, dark patterns, virtual currencies, subscription services, pay-to-win systems, and many other trappings of diabolical digital serfdom all face extensive regulation under the European Commission's proposed…",
-   "image": "https://assetsio.gnwcdn.com/Overwatch-loot-box.png?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-11T13:30:00+00:00"
-  },
-  {
-   "title": "Try Hellraiser: Revival in This New PS5 Demo, Out Now",
-   "link": "https://www.pushsquare.com/news/2026/11/try-hellraiser-revival-in-this-new-ps5-demo-out-now",
-   "summary": "Play the prologue and chapter one. Saber Interactive is letting you sample the opening moments of Hellraiser: Revival via a new PS5 demo that's been put on the PS Store today. This isn't one that's tied to PS Plus…",
-   "image": "https://images.pushsquare.com/d913c827045c2/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation",
-    "releases"
-   ],
-   "date": "2026-11-11T13:30:00+00:00"
-  },
-  {
-   "title": "Apparently now we *won’t* see a 24 GB RTX 5080, which is probably actually good for our wallets",
-   "link": "https://www.pcgamer.com/hardware/graphics-cards/apparently-now-we-wont-see-a-24-gb-rtx-5080-which-is-probably-actually-good-for-our-wallets/",
-   "summary": "So, uhhh, apparently the long-rumoured 24 GB version of the RTX 5080 will not be coming to fruition, contrary to the previous rumour we reported on , which itself was contrary to previous rumours, which were contrary to…",
-   "image": "https://cdn.mos.cms.futurecdn.net/PAyH44t76kADMXqtedRwtk-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-11T13:09:01+00:00"
-  },
-  {
-   "title": "Mass Effect Could Still Be Saved, Ex-BioWare Developer Suggests, With Clair Obscur: Expedition 33 Holding the Key",
-   "link": "https://www.ign.com/articles/mass-effect-could-still-be-saved-ex-bioware-developer-suggests-with-clair-obscur-expedition-33-holding-the-key",
-   "summary": "The future of Mass Effect could be secured with a key learning from the beloved Clair Obscur: Expedition 33, a former BioWare veteran has suggested.",
-   "image": "https://assets-prd.ignimgs.com/2026/08/17/me1-blogroll-1786972844387.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-11T13:00:21+00:00"
-  },
-  {
-   "title": "This Is Where the Rings Are in Rings of Power Season 3",
-   "link": "https://www.ign.com/articles/this-is-where-the-rings-are-in-rings-of-power-season-3",
-   "summary": "Where in Middle-earth are the Rings of Power as Season 3 begins, what does Sauron want with them, and what do they have to do with the One Ring?",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/rings-of-power-where-are-the-rings-season-3-thumb-1794348716941.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-11T13:00:00+00:00"
-  },
-  {
-   "title": "What New DC Studios Boss Jeremy Latcham’s Past Comments and Films Suggest About the Future of the DCU",
-   "link": "https://www.ign.com/articles/what-new-dc-studios-boss-jeremy-latchams-past-comments-and-films-suggest-about-the-future-of-the-dcu",
-   "summary": "Outgoing DC Studios boss James Gunn and incoming boss Jeremy Latcham worked together on Guardians of the Galaxy. In fact, Latcham was the creative exec who hired Gunn to write and direct his first MCU film.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/11/gettyimages-469662012-1794360069268.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-11T13:00:00+00:00"
-  },
-  {
-   "title": "Opinion: A Pokémon Rave Just Might Have Been The Strangest Night Of My Life",
-   "link": "https://www.nintendolife.com/features/opinion-a-pokemon-rave-just-might-have-been-the-strangest-night-of-my-life",
-   "summary": "Drum and Feebas. It's a strange feeling, finding yourself in a dark room with thousands of Pokémon fans while a DJ blasts EDM so loud you can feel it in your chest. Yet that's how I found myself yesterday evening,…",
-   "image": "https://images.nintendolife.com/14ad3ca2238df/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-11T13:00:00+00:00"
-  },
-  {
-   "title": "Trails beyond the Horizon Sequel Confirmed for 2027 as Falcom Steps Back from Remakes",
-   "link": "https://www.pushsquare.com/news/2026/11/trails-beyond-the-horizon-sequel-confirmed-for-2027-as-falcom-steps-back-from-remakes",
-   "summary": "The big one. The next game in Falcom's long running Trails series will be a sequel to Trails beyond the Horizon . The developer confirmed this in its annual financial report, putting to rest mass speculation from fans…",
-   "image": "https://images.pushsquare.com/bdf0fc8c6ce71/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-11T13:00:00+00:00"
-  },
-  {
-   "title": "GTA 6 Gets Its First Unboxing Video As Shipping Begins For Xbox & PS5",
-   "link": "https://www.purexbox.com/news/2026/11/gta-6-gets-its-first-unboxing-video-as-shipping-begins-for-xbox-and-ps5",
-   "summary": "Here's a look at what's inside the physical edition. While Rockstar Games mentioned a date of November 12th for shipping the physical edition of GTA 6 for Xbox and PS5 the other day, we noticed other retailers stating…",
-   "image": "https://images.purexbox.com/f7c13b44cd992/small.jpg",
-   "source": "Pure Xbox",
-   "lang": "en",
-   "cats": [
-    "xbox",
-    "playstation"
-   ],
-   "date": "2026-11-11T13:00:00+00:00"
-  },
-  {
-   "title": "As of this week, PlayStation 5 has surpassed 100 million consoles sold",
-   "link": "https://www.eurogamer.net/playstation-5-100-million-sales-november-2026",
-   "summary": "PlayStation 5 has officially surpassed 100m consoles sold, Sony's updated sales data revealed. The milestone was reached on 10th November, almost exactly six years on from the console's launch. Read more",
-   "image": "https://assetsio.gnwcdn.com/where-to-preorder-ps5-pro-eurogamer.png?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [
-    "playstation",
-    "releases"
-   ],
-   "date": "2026-11-11T12:49:10+00:00"
-  },
-  {
-   "title": "Por qué los 30 FPS de GTA VI no tienen que ser un problema: 5 videojuegos históricos que triunfaron sin llegar a 60 FPS",
-   "link": "https://areajugones.sport.es/videojuegos/por-que-los-30-fps-de-gta-vi-no-tienen-que-ser-un-problema-5-videojuegos-historicos-que-triunfaron-sin-llegar-a-60-fps/",
-   "summary": "GTA VI funcionará a 30 FPS en todas sus plataformas y eso, para muchos usuarios, está siendo relativamente dramático. Aunque ya se anticipaba que hacer funcionar a 60 FPS la bestia técnica que ha preparado Rockstar iba…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/gta-vi-30-fps-2-1024x574.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-11T12:41:04+00:00"
-  },
-  {
-   "title": "The Outer Worlds 2's first story expansion could well be the opening to the series' last hurrah and will have you hunting for a cure to \"explosive cell death\" in December",
-   "link": "https://www.rockpapershotgun.com/the-outer-worlds-2s-first-story-expansion-could-well-be-the-opening-to-the-series-last-hurrah-and-will-have-you-hunting-for-a-cure-to-explosive-cell-death-in-december",
-   "summary": "Since they released The Outer Worlds 2 around this time last year, the world has rather turned upside down for Obsidian. The studio lost a chunk of staff to Microsoft's mass layoffs and have pivoted to making a new…",
-   "image": "https://assetsio.gnwcdn.com/the-outer-worlds-2-first-dlc-side-effects-guaranteed-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-11T12:29:50+00:00"
-  },
-  {
-   "title": "World of Warcraft: Forever secret hunters have found the MMO's first hidden treasure",
-   "link": "https://www.eurogamer.net/world-of-warcraft-forever-secret-dawn-walker-sword",
-   "summary": "World of Warcraft secret hunters are a noble breed, known for scouring the MMO for years for hidden trinkets and treasures. With World of Warcraft: Forever's launch, they've uncovered a quest chain for an especially…",
-   "image": "https://assetsio.gnwcdn.com/WoW_Forever_SCENIC_Announce_Skyborne_Customization_061.png?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [
-    "releases"
-   ],
-   "date": "2026-11-11T12:15:50+00:00"
-  },
-  {
-   "title": "What Happens When Two Games Have The Same Title? Indie Publisher Reveals Heartwarming Answer",
-   "link": "https://www.nintendolife.com/news/2026/11/what-happens-when-two-games-have-the-same-title-indie-publisher-reveals-heartwarming-answer",
-   "summary": "\"I signed their game and now we're launching both\". With so many games releasing these days, it must be so difficult to come up with a completely unique title without encroaching on another developer's work. Case in…",
-   "image": "https://images.nintendolife.com/e6145c72d7fba/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo",
-    "releases"
-   ],
-   "date": "2026-11-11T12:15:00+00:00"
-  },
-  {
-   "title": "Microsoft’s own upscaler and alternative to FSR just landed on Xbox Ally X handhelds - actually uses an NPU for something useful",
-   "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/microsofts-own-upscaler-and-alternative-to-fsr-just-landed-on-xbox-ally-x-handhelds-actually-uses-an-npu-for-something-useful/",
-   "summary": "A few months ago, Microsoft opened up Auto SR support for the Asus ROG Xbox Ally X , allowing it to use the AI-aided upscaling tech to improve frame rates in games. But that was only for people using a Preview version…",
-   "image": "https://cdn.mos.cms.futurecdn.net/YP43KX8Ttr8qaaXDtVVoU8-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc",
-    "xbox"
-   ],
-   "date": "2026-11-11T12:11:36+00:00"
-  },
-  {
-   "title": "Microsoft Announces Last-Minute Restock Of The Xbox Series X25 Console",
-   "link": "https://www.purexbox.com/news/2026/11/microsoft-announces-last-minute-restock-of-the-xbox-series-x25-console",
-   "summary": "Available at launch through the Microsoft Store and participating retailers. Ever since the Xbox Series X25 console first became available for pre-order in August, it's become hard to get your hands on one. The \"Limited…",
-   "image": "https://images.purexbox.com/639d70ff27d7a/small.jpg",
-   "source": "Pure Xbox",
-   "lang": "en",
-   "cats": [
-    "xbox",
-    "releases"
-   ],
-   "date": "2026-11-11T12:00:00+00:00"
-  },
-  {
-   "title": "Avengers Endgame: Encore Finally Gets a Disney+ Release Date, And It's Real Soon",
-   "link": "https://www.ign.com/articles/avengers-endgame-encore-finally-gets-a-disney-release-date-and-its-real-soon",
-   "summary": "Avengers Endgame: Encore will get an imminent Disney+ launch, it's been confirmed.",
-   "image": "https://assets-prd.ignimgs.com/2026/04/19/avengers-endgame-re-release-1776625157270.png",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "releases"
-   ],
-   "date": "2026-11-11T11:52:42+00:00"
-  },
-  {
-   "title": "WoW: Forever to add extra gold to high-level quests, since it turns out you don't get extra cash at 60",
-   "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-to-add-extra-gold-to-high-level-quests-since-it-turns-out-you-dont-get-extra-cash-at-60/",
-   "summary": "Best MMOs : Most massive Best strategy games : Number crunching Best open world games : Unlimited exploration Best survival games : Live craft love Best horror games : Fight or flight",
-   "image": "https://cdn.mos.cms.futurecdn.net/8aFJkNpnCky3pWYeEqNyH8-1920-80.png",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-11T11:41:45+00:00"
-  },
-  {
-   "title": "Rompiendo el hielo (Temporada 2): Guía de episodios y número de capítulos del anime",
-   "link": "https://areajugones.sport.es/anime/rompiendo-el-hielo-temporada-2-guia-de-episodios-y-numero-de-capitulos-del-anime/",
-   "summary": "'Rompiendo el hielo' ('The Ramparts of Ice' en inglés) estrenó sus primeros episodios en Netflix siendo una serie muy poco conocida, y ha llegado a esta segunda temporada convertido en un anime de romance…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/rompiendo-el-hielo-temporada-2-guia-de-episodios-1024x576.png",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-11T11:35:22+00:00"
-  },
-  {
-   "title": "God of War: Ragnarok ya es el juego de PlayStation que más dinero ha generado, pero Kratos no reina en solitario",
-   "link": "https://areajugones.sport.es/videojuegos/god-of-war-ragnarok-ya-es-el-juego-de-playstation-que-mas-dinero-ha-generado-pero-kratos-no-reina-en-solitario/",
-   "summary": "Uno de los momentos más memorables del ya desaparecido E3 fue cuando, en la ceremonia de 2016, Santa Monica Studio presentó un nuevo God of War que lo cambiaría todo para la saga. Este soft-reboot de la franquicia fue…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/god-of-war-ventas-1024x576.png",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-11T11:31:16+00:00"
-  },
-  {
-   "title": "'We're kind of friendslop': CEO of Jackbox Games sees the link between party games and this new trend but doesn't think it's necessarily 'a negative moniker'",
-   "link": "https://www.pcgamer.com/games/were-kind-of-friendslop-ceo-of-jackbox-games-sees-the-link-between-party-games-and-this-new-trend-but-doesnt-think-its-necessarily-a-negative-moniker/",
-   "summary": "What was the first instance of a friendslop game? Was it REPO ? Human: Fall Flat ? Or perhaps it was the first time a group of people tried to guess what someone was saying in what we would now call a game of charades?…",
-   "image": "https://cdn.mos.cms.futurecdn.net/CfPExkt5CSM4jRfS6smJnW-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-11T11:22:49+00:00"
-  },
-  {
-   "title": "Monster Hunter Wilds' upcoming Ascendance expansion may be getting a beta, some curious Steam backend updates suggest",
-   "link": "https://www.eurogamer.net/monster-hunter-wilds-ascendance-beta-steam-backend",
-   "summary": "Monster Hunter Wilds 's first expansion, Ascendance, is set for release sometime next year . But, judging by some very suspect recent changes to the Wilds beta app on Steam, we may be playing some of the new stuff…",
-   "image": "https://assetsio.gnwcdn.com/monster-hunter-wilds-lagiacrus-monster-screen-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-11T11:16:50+00:00"
-  },
-  {
-   "title": "World of Warcraft: Forever's magical opening week reminds us all about the power of the MMO, and the threat it poses to your free time",
-   "link": "https://www.eurogamer.net/world-of-warcraft-forever-now-playing",
-   "summary": "World of Warcraft: Forever is a time vampire. Since its release last Wednesday, I have spent 78 hours in Azeroth. Some of that I was AFK, sure. But for many of those hours, I was lost, happily, in the rolling hills and…",
-   "image": "https://assetsio.gnwcdn.com/WoW_Forever_Cinematic_Still_7.jpeg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-11T11:08:30+00:00"
-  },
-  {
-   "title": "Best New Books to Read in November 2026: 9 Must-Read Sci-Fi, Fantasy and Romance Releases",
-   "link": "https://www.ign.com/articles/best-new-books-november-2026",
-   "summary": "Discover the best new books releasing in November 2026, featuring anticipated releases from Rebecca Yarros, John Scalzi, Jason Pargin and Nick Harkaway.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/11/best-books-november-2026-ign-2-1794394814979.png",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-11T11:00:38+00:00"
-  },
-  {
-   "title": "As The Elder Scrolls 5 turns 15, massive mod Beyond Skyrim: Bruma gets a 2.0 update delivering a new quest, extra dungeons and an \"expanded worldspace\"",
-   "link": "https://www.rockpapershotgun.com/as-the-elder-scrolls-5-turns-15-massive-mod-beyond-skyrim-bruma-gets-a-20-update-delivering-a-new-quest-extra-dungeons-and-an-expanded-worldspace",
-   "summary": "Warning: I'm probably about to make you feel old. Today, November 11th 2026, is the 15th anniversary of Skyrim 's release. The first one, before it was re-released on every other platform under the sun. Fittingly, one…",
-   "image": "https://assetsio.gnwcdn.com/beyond-skyrim-bruma-mod-update-minotaur-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-11T11:00:00+00:00"
-  },
-  {
-   "title": "Two Games Are Available Today With Xbox Game Pass (November 11)",
-   "link": "https://www.purexbox.com/news/2026/11/two-games-are-available-today-with-xbox-game-pass-november-11",
-   "summary": "A charming pair of day one releases. Welcome to your latest Xbox Game Pass update! Today, we've got two day one releases joining the Ultimate and PC tiers of the service. As per the usual, we'll summarise your two new…",
-   "image": "https://images.purexbox.com/074bb02bc1e21/small.jpg",
-   "source": "Pure Xbox",
-   "lang": "en",
-   "cats": [
-    "xbox",
-    "pc"
-   ],
-   "date": "2026-11-11T11:00:00+00:00"
-  },
-  {
-   "title": "El histórico batacazo de PlayStation con sus juegos como servicio: todos sus proyectos cancelados, estudios cerrados y su único gran éxito",
-   "link": "https://areajugones.sport.es/videojuegos/el-historico-batacazo-de-playstation-con-sus-juegos-como-servicio-todos-sus-proyectos-cancelados-estudios-cerrados-y-su-unico-gran-exito/",
-   "summary": "En 2022, PlayStation decidió apostar por los juegos como servicio. El motivo, probablemente, vino derivado del éxito de propuestas como Fortnite, Roblox y GTA Online, ocupando los primeros puestos de ingresos en la…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/playstation-fracaso-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-11T10:55:07+00:00"
-  },
-  {
-   "title": "Nintendo Defends Decision to Cut Mario and Yoshi Easter Eggs From The Legend of Zelda: Ocarina of Time Remake",
-   "link": "https://www.ign.com/articles/nintendo-defends-decision-to-cut-mario-and-yoshi-easter-eggs-from-the-legend-of-zelda-ocarina-of-time-remake",
-   "summary": "Nintendo has defended its decision to scrub the secret appearance of Mario characters from its The Legend of Zelda: Ocarina of Time remake.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/11/untitled-1-1794393973423.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-11T10:51:26+00:00"
-  },
-  {
-   "title": "El actor de Goku lo confirma: Dragon Ball Super: Beerus tiene nuevo doblaje, aunque se reutiliza parte del anterior",
-   "link": "https://areajugones.sport.es/anime/el-actor-de-goku-lo-confirma-dragon-ball-super-beerus-tiene-nuevo-doblaje-aunque-se-reutiliza-parte-del-anterior/",
-   "summary": "'Dragon Ball Super: Beerus' es un remake de una parte de la historia que ya conocemos. Visualmente la serie ha recibido una actualización importante, pero... ¿y las voces? Una de las cosas que más está llamando la…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/dragon-ball-super-beerus-doblaje-nuevo-1024x576.png",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-11T10:46:43+00:00"
-  },
-  {
-   "title": "The Legend of Zelda: Ocarina of Time Remake Players Use In-Game Ocarina to Play Everything From Linkin Park, Titanic, and Japanese Supermarket Themes",
-   "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-players-use-in-game-ocarina-to-play-everything-from-linkin-park-titanic-and-japanese-supermarket-themes",
-   "summary": "The much anticipated remake of The Legend of Zelda: Ocarina of Time launched on November 5, and one feature has fast become a big hit: the fact that you can now play any tune you like on Link’s ocarina. Now, social…",
-   "image": "https://assets-prd.ignimgs.com/2026/11/11/thelegendofzeldaocarinaoftime-46-1794393387768.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "nintendo",
-    "releases"
-   ],
-   "date": "2026-11-11T10:37:33+00:00"
-  },
-  {
-   "title": "Casualties: Unknown is a total pain simulator that makes other survival games seem like massive cowards",
-   "link": "https://www.rockpapershotgun.com/casualties-unknown-is-a-total-pain-simulator-that-makes-other-survival-games-seem-like-massive-cowards",
-   "summary": "Content warning for discussion of extreme violence and self-harm. Read more",
-   "image": "https://assetsio.gnwcdn.com/20261110144234_1.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-11T10:28:40+00:00"
-  },
-  {
-   "title": "Nintendo Switch 2 Drops to All-Time Low Price of £309 in Early Black Friday Deal",
-   "link": "https://www.ign.com/articles/nintendo-switch-2-drops-to-all-time-low-price-of-309-in-early-black-friday-deal",
-   "summary": "Save over £100 on the Nintendo Switch 2 in the UK ahead of Black Friday. A limited-time AliExpress voucher code drops the console to a record-low £309 with local delivery.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/09/switch2ocarina-1794245852166.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-11T10:16:45+00:00"
-  },
-  {
-   "title": "First November 2026 PS Plus Extra Game Available to Download Now",
-   "link": "https://www.pushsquare.com/news/2026/11/first-november-2026-ps-plus-extra-game-available-to-download-now",
-   "summary": "For all UK and USA members. One of the very few benefits to Sony's new experiment of delaying the release of PS Plus Extra games in select regions is that you do get one new game the day after the reveal. Rather than…",
-   "image": "https://images.pushsquare.com/bb38ce017060d/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-11T10:00:00+00:00"
-  },
-  {
-   "title": "The Legend of Zelda: Ocarina of Time remake sells in huge numbers, becoming the fastest-selling Switch 2 game",
-   "link": "https://www.eurogamer.net/zelda-ocarina-of-time-switch-2-sales-nintendo",
-   "summary": "The Legend of Zelda: Ocarina of Time remake has been a huge success for Nintendo, becoming the fastest-selling Switch 2 game ever, shifting more than 5.2 million copies in four days. Read more",
-   "image": "https://assetsio.gnwcdn.com/Zelda_Ocarina_Of_Time_Songs_Header.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-11T09:56:10+00:00"
-  },
-  {
-   "title": "Keeping hold of Company of Heroes was essential for Relic to leave Sega, Relic CEO says – \"Without it we would have been a dead studio\"",
-   "link": "https://www.rockpapershotgun.com/keeping-hold-of-company-of-heroes-was-essential-for-relic-to-leave-sega-relic-ceo-says-without-it-we-would-have-been-a-dead-studio",
-   "summary": "In the nearly 30 years since they opened their doors, Relic have been an enormously influential studio. Responsible for lauded RTS series Homeworld, Dawn of War, and Company of Heroes , they also dabbled in other genres…",
-   "image": "https://assetsio.gnwcdn.com/_0003_Company-of-Heroes-3-tank-fire.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-11T09:30:00+00:00"
-  },
-  {
-   "title": "It's Official, Zelda: Ocarina Of Time Has Sold Over 5 Million Copies In 4 Days",
-   "link": "https://www.nintendolife.com/news/2026/11/its-official-zelda-ocarina-of-time-has-sold-over-5-million-copies-in-4-days",
-   "summary": "It's the fastest-selling Switch 2 game. Nintendo has announced that The Legend of Zelda: Ocarina of Time has sold a total of 5.2 million units in just four days. This number includes 810,000 copies sold in Japan alone,…",
-   "image": "https://images.nintendolife.com/d2aa03abe0c1f/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-11T09:30:00+00:00"
-  },
-  {
-   "title": "PS5 Has Officially Crossed 100 Million Sales, Sony Confirms",
-   "link": "https://www.pushsquare.com/news/2026/11/ps5-has-officially-crossed-100-million-sales-sony-confirms",
-   "summary": "PS5 joins the 100 mil club. The PS5 has now officially surpassed the 100 million sales milestone. This news comes via Sony itself, which has just released newly updated figures for the current-gen console. Read the full…",
-   "image": "https://images.pushsquare.com/6078c2ee2a64f/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-11T09:30:00+00:00"
-  },
-  {
-   "title": "PlayStation's embattled shooter Fairgames has finally been cancelled, a new report says, as live service push withers away",
-   "link": "https://www.eurogamer.net/fairgames-playstation-heist-shooter-live-service-cancelled-haven",
-   "summary": "After years of silence, we finally know the fate of PlayStation's embattled live service game Fairgames. The Haven-developed co-op heist shooter has been cancelled, with the silver lining that the studio is not closing…",
-   "image": "https://assetsio.gnwcdn.com/Fairgame%24---CGI-Reveal-Trailer-_-PS5-%26-PC-Games-1-31-screenshot.png?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-11T09:29:00+00:00"
-  },
-  {
-   "title": "Phantom Blade Zero ya tiene cientos de mods en PC, y el de 2B de NieR: Automata es la estrella",
-   "link": "https://areajugones.sport.es/videojuegos/phantom-blade-zero-ya-tiene-cientos-de-mods-en-pc-y-el-de-2b-de-nier-automata-es-la-estrella/",
-   "summary": "Phantom Blade Zero, uno de los lanzamientos más celebrados de las últimas semanas, no solo ha conquistado a la crítica: también ha encendido a la comunidad modder de PC. A las pocas semanas de ponerse a la venta, la…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/phantom-nier-zero-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "pc",
-    "releases"
-   ],
-   "date": "2026-11-11T09:26:25+00:00"
-  },
-  {
-   "title": "¿No tienes pareja ni trabajo y te tomas la vida con calma? Netflix estrena el anime perfecto para ti en 2027",
-   "link": "https://areajugones.sport.es/anime/no-tienes-pareja-ni-trabajo-y-te-tomas-la-vida-con-calma-netflix-estrena-el-anime-perfecto-para-ti-en-2027/",
-   "summary": "Netflix no deja de incrementar su catálogo de anime. A la buena temporada de otoño que está haciendo hay que sumar el estreno de una nueva serie llamada 'Hirayasumi: Hiroto's Carefree Life' (que podría traducirse como…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/hirayasumi-anime-netflix-1024x576.png",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-11T09:17:02+00:00"
-  },
-  {
-   "title": "Magic: The Gathering’s Star Trek Booster Box Got Another Price Drop Right Before Black Friday… and Launch",
-   "link": "https://www.ign.com/articles/magic-the-gathering-star-trek-booster-box-early-black-friday-deal",
-   "summary": "Amazon dropped the price of the upcoming Magic: The Gathering Star Trek Play Booster Box by 40% just days before launch, bringing packs down to effectively $4.17 each ahead of release and the Black Friday sales.",
-   "image": "https://assets-prd.ignimgs.com/2026/10/20/star-trek-boosters-on-sale-1787234785687-1792511640034.webp",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "releases"
-   ],
-   "date": "2026-11-11T09:06:36+00:00"
-  },
-  {
-   "title": "Nintendo Switch 2 por solo 300€: AliExpress la deja a precio mínimo si aprovechas estos códigos",
-   "link": "https://areajugones.sport.es/videojuegos/nintendo-switch-2-por-solo-300e-aliexpress-la-deja-a-precio-minimo-codigos/",
-   "summary": "AliExpress permite hacerse con una Nintendo Switch 2 completamente nueva por tan solo 300 euros, 200 euros menos que su precio oficial en la actualidad. Se trata de una promoción enmarcada en su llamado 11.11, que ha…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/switch-aliexpress-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-11T09:00:13+00:00"
-  },
-  {
-   "title": "Parecía imposible, pero GTA VI se podrá jugar en Xbox One desde su lanzamiento: así lo ha hecho posible Microsoft",
-   "link": "https://areajugones.sport.es/videojuegos/parecia-imposible-pero-gta-vi-se-podra-jugar-en-xbox-one-desde-su-lanzamiento-asi-lo-ha-hecho-posible-microsoft/",
-   "summary": "Xbox One fue una de las consolas más polémicas de la historia de Microsoft. Su desastrosa presentación y las malas decisiones que acompañaron a sus primeros años marcaron una generación que Xbox nunca consiguió…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/gta-vi-xbox-one-1024x577.png",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "xbox",
-    "releases"
-   ],
-   "date": "2026-11-11T08:46:54+00:00"
-  },
-  {
-   "title": "¿Es este el futuro de los videojuegos? El primer unboxing de GTA VI deja una imagen desoladora",
-   "link": "https://areajugones.sport.es/videojuegos/es-este-el-futuro-de-los-videojuegos-el-primer-unboxing-de-gta-vi-deja-una-imagen-desoladora/",
-   "summary": "GTA VI no tendrá disco en su lanzamiento. Eso es algo que sabemos desde hace meses y que ha sido motivo de discusión constante, sobre todo a sabiendas de que PlayStation tiene planificado dejar de producir discos para…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/gta-vi-unboxing-desolador-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "playstation",
-    "releases"
-   ],
-   "date": "2026-11-11T08:39:48+00:00"
-  },
-  {
-   "title": "PS5 supera los 100 millones de consolas vendidas: así se compara con PS1, PS2, PS3 y PS4 tras seis años en el mercado",
-   "link": "https://areajugones.sport.es/videojuegos/ps5-supera-los-100-millones-de-consolas-vendidas-asi-se-compara-con-ps1-ps2-ps3-y-ps4-tras-seis-anos-en-el-mercado/",
-   "summary": "PS5 ha superado oficialmente los 100 millones de consolas vendidas. Es un dato muy llamativo, sobre todo considerando que estamos a solo 8 días del lanzamiento de GTA VI, un título que se espera que impulse todavía más…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/ps5-ventas-1024x576.png",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "playstation",
-    "releases"
-   ],
-   "date": "2026-11-11T08:01:16+00:00"
-  },
-  {
-   "title": "The Lord of the Rings: The Rings of Power Season 3, Episodes 1-4 Review and Recap",
-   "link": "https://www.ign.com/articles/rings-of-power-season-3-episodes-1-4-review-recap",
-   "summary": "The Rings of Power Season 3 Episodes 1-4 prove a welcome return to Middle-earth, allowing the series to get back on track after two seasons of wandering.",
-   "image": "https://assets-prd.ignimgs.com/2026/10/28/theringsofpower-gandalf-blogroll-1793231043425.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-11T08:01:00+00:00"
-  },
-  {
-   "title": "Baldur’s Gate 3 da otra razón para volver: PS5 y Xbox reciben a uno de los personajes más míticos de Dungeons & Dragons y muchas más novedades",
-   "link": "https://areajugones.sport.es/videojuegos/baldurs-gate-3-da-otra-razon-para-volver-ps5-y-xbox-reciben-a-uno-de-los-personajes-mas-miticos-de-dungeons-dragons-y-muchas-mas-novedades/",
-   "summary": "Por si no había suficientes motivos para echar una partida más a Baldur's Gate 3, ahora Larian Studios lo han puesto todavía más fácil en PS5 y Xbox Series X/S, al aprobar una nueva oleada de 14 mods desarrollados por…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/baldurs-gate-3-1-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "playstation",
-    "xbox"
-   ],
-   "date": "2026-11-11T07:59:15+00:00"
-  },
-  {
-   "title": "Deltarune Chapter 6 Sneak Peek Video Vote Announced, Pick A Candidate",
-   "link": "https://www.nintendolife.com/news/2026/11/deltarune-chapter-6-sneak-peek-video-vote-announced-pick-a-candidate",
-   "summary": "\"It's time to vote\". It's been a while since we got an update about Deltarune , but the creator Toby Fox has stepped away from development for a brief moment to announce a Chapter 6 sneak peek video vote. Read the full…",
-   "image": "https://images.nintendolife.com/22f66718a6a10/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-11T07:30:00+00:00"
-  },
-  {
-   "title": "‘El cuerpo’ llega a Netflix con una novatada y acaba en pesadilla ¿Será esta serie la nueva ‘Carrie’?",
-   "link": "https://areajugones.sport.es/series/el-cuerpo-llega-a-netflix-con-una-novatada-y-acaba-en-pesadilla-sera-esta-serie-la-nueva-carrie/",
-   "summary": "Hay bromas de instituto que dejan de tener gracia mucho antes de que aparezca algo sobrenatural. ‘El cuerpo’, la nueva serie de Netflix, parte de una iniciación que sale mal para mezclar secretos, culpa religiosa y…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/the-body-netflix-1.webp",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-11T07:23:32+00:00"
-  },
-  {
-   "title": "Solo Mario Kart World vende más que los cinco millones de Ocarina of Time en Switch 2, y eso que iba con la consola",
-   "link": "https://areajugones.sport.es/videojuegos/solo-mario-kart-world-vende-mas-que-los-cinco-millones-de-ocarina-of-time-en-switch-2-y-eso-que-iba-con-la-consola/",
-   "summary": "Nintendo ha anunciado que The Legend of Zelda: Ocarina of Time para Nintendo Switch 2 ha superado los 5,2 millones de unidades en todo el mundo —810.000 de ellas en Japón— durante sus primeros cuatro días a la venta,…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/zelda-1024x576.png",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-11T07:14:00+00:00"
-  },
-  {
-   "title": "Falcom ya prepara el gran final de la historia de Trails beyond the Horizon, el final de Sky tendrá que esperar",
-   "link": "https://areajugones.sport.es/videojuegos/falcom-ya-prepara-el-gran-final-de-la-historia-de-trails-beyond-the-horizon-el-final-de-sky-tendra-que-esperar/",
-   "summary": "Nihon Falcom prepara la conclusión de The Legend of Heroes: Trails beyond the Horizon, su JRPG más reciente, con lanzamiento en Japón antes de que termine septiembre de 2027. Así lo ha confirmado la compañía en su…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/image-1-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "releases"
-   ],
-   "date": "2026-11-11T06:58:23+00:00"
-  },
-  {
-   "title": "\"It's Terrific\" - Take-Two Boss Acknowledges Zelda Remake's High Score Ahead Of GTA VI Launch",
-   "link": "https://www.nintendolife.com/news/2026/11/its-terrific-take-two-boss-acknowledges-zelda-remakes-high-score-ahead-of-gta-vi-launch",
-   "summary": "\"They should be very proud\". There's been a lot of conversation online about the Zelda remake and Grand Theft Auto going head-to-head this month. GamesBeat has now asked the Take-Two Interactive boss Strauss Zelnick…",
-   "image": "https://images.nintendolife.com/72ab98a2164f3/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo",
-    "releases"
-   ],
-   "date": "2026-11-11T06:45:00+00:00"
-  },
-  {
-   "title": "¿Le gustaría a mi abuela? Jeremy Latcham, el nuevo jefe de DC, defiende que los superhéroes sean para todo el mundo",
-   "link": "https://areajugones.sport.es/cine/le-gustaria-a-mi-abuela-jeremy-latcham-el-nuevo-jefe-de-dc-defiende-que-los-superheroes-sean-para-todo-el-mundo/",
-   "summary": "Puedes conocer cada versión de Superman o no haber abierto un cómic en tu vida. Si una película consigue que te importe lo que le ocurre al protagonista, ya tiene buena parte del trabajo hecho. Jeremy Latcham utiliza…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/jeremy-latcham-1024x631.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-11T06:20:51+00:00"
-  },
-  {
-   "title": "Round Up: The Reviews Are In For Pikmin 4 - Switch 2 Edition + Dandori Academy",
-   "link": "https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-pikmin-4-switch-2-edition-plus-dandori-academy",
-   "summary": "Here's what the critics had to say. Following the anticipated return of Zelda: Ocarina of Time last week, Nintendo has now released Pikmin 4 - Switch 2 Edition + Dandori Academy . The critic reviews have now gone live.…",
-   "image": "https://images.nintendolife.com/2f51ac2b3a96e/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-11T04:45:00+00:00"
-  },
-  {
-   "title": "VisionQuest Post-Credits Scene Just Confirmed A Major Marvel Character Is Coming Back in Upcoming Avengers Films",
-   "link": "https://www.ign.com/articles/visionquest-post-credits-scene-just-confirmed-a-major-marvel-character-is-coming-back-in-upcoming-avengers-films",
-   "summary": "The finale of VisionQuest confirmed that one of the most beloved characters from the MCU will be returning in the upcoming Avengers films, seemingly under the control of Doctor Doom.",
-   "image": "https://assets-prd.ignimgs.com/2026/08/03/doomsday-doom-1785773171623.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-11T03:12:24+00:00"
-  },
-  {
-   "title": "Unknown 'Mega Man Legends' Project Surfaces Online",
-   "link": "https://www.nintendolife.com/news/2026/11/unknown-mega-man-legends-project-surfaces-online",
-   "summary": "What could it be for? As Capcom gears up for Mega Man 's 40th anniversary next year, more findings related to the long-running IP are surfacing online. Read the full article on nintendolife.com",
-   "image": "https://images.nintendolife.com/25df7a5723fbe/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-11T02:55:00+00:00"
-  },
-  {
-   "title": "Marvel's VisionQuest Series Finale Review: 'Forever'",
-   "link": "https://www.ign.com/articles/marvels-visionquest-series-finale-review-forever",
-   "summary": "The last-minute addition of a new villain derails the finale of VisionQuest somewhat, but the series still succeeds where Vision and Ultron are concerned.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/visionquest-finale-review-blogroll-1794329245995.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-11T02:00:00+00:00"
-  },
-  {
-   "title": "Steam's age verification in Australia now takes your account's age into consideration",
-   "link": "https://www.pcgamer.com/software/platforms/steams-age-verification-in-australia-now-takes-your-accounts-age-into-consideration/",
-   "summary": "In compliance with local laws, Steam rolled out age verification in Australia two months ago. Controversially, it was based on whether you owned a credit card, which many Australians do not. Overnight, Australians…",
-   "image": "https://cdn.mos.cms.futurecdn.net/UoEzWoavREo9zwpFLKCqC-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-11T01:34:31+00:00"
-  },
-  {
-   "title": "PSA: Nintendo Ending Google And Apple Sign-Ins On Nintendo Accounts In 2027",
-   "link": "https://www.nintendolife.com/news/2026/11/psa-nintendo-ending-google-and-apple-sign-ins-on-nintendo-accounts-in-2027",
-   "summary": "You'll need a Nintendo Account from here on out. If you currently use a Google or Apple account to sign in to your Nintendo Account, Nintendo has got some news. In an official notice, it's announced the discontinuation…",
-   "image": "https://images.nintendolife.com/70b095c96e4ad/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-11T01:30:00+00:00"
-  },
-  {
-   "title": "Fortis Games Closes With Over 400 Jobs Impacted",
-   "link": "https://www.ign.com/articles/fortis-games-closes-with-over-400-jobs-impacted",
-   "summary": "Fortis Games, a studio behind mobile titles like Twilight Towers and Bloom & Breakfast, has closed its doors, impacting around 440 jobs.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/11/fortis-games-closes-400-jobs-impacted-1794359249871.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "mobile"
-   ],
-   "date": "2026-11-11T01:09:39+00:00"
-  },
-  {
-   "title": "'It Felt Like a PowerPoint Deck of Executive Ideas': Beta Testers Share Thoughts on PS5's Cancelled Fairgames",
-   "link": "https://www.pushsquare.com/news/2026/11/it-felt-like-a-powerpoint-deck-of-executive-ideas-beta-testers-share-thoughts-on-ps5s-cancelled-fairgames",
-   "summary": "\"It's 100% the right move\". Haven’s heist shooter Fairgames – first announced more than three years ago – has been cancelled , rounding out a rough generation for Sony’s live service ambitions. While we saw very little…",
-   "image": "https://images.pushsquare.com/80db0b6e4e382/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-11T01:00:00+00:00"
-  },
-  {
-   "title": "The DCU Regime Change Threatens to Turn Man of Tomorrow Into 2027’s Answer to The Flash",
-   "link": "https://www.ign.com/articles/dcu-man-of-tomorrow-leadership-flash-comparison",
-   "summary": "It’s been four years since James Gunn and Peter Safran were announced as the co-bosses of DC Studios, and just a day since their ouster was revealed, and we're having a serious case of déjà vu.",
-   "image": "https://assets-prd.ignimgs.com/2025/06/11/supermanthumbn-1749658728784.png",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-11T00:55:02+00:00"
-  },
-  {
-   "title": "Lanterns Not Renewed for Season 2, Says DC Studios Insider",
-   "link": "https://www.ign.com/articles/lanterns-not-renewed-for-season-2-says-dc-studios-insider",
-   "summary": "An insider at DC Studios claims that HBO’s Lanterns was not renewed for a second season in spite of rave reviews and audience interest, as told in a report from Variety.",
-   "image": "https://assets-prd.ignimgs.com/2026/03/04/lanterns-blogroll-1740701126885-1772654361603.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-11T00:18:08+00:00"
-  },
-  {
-   "title": "Lanterns Season 2 in Doubt, Says DC Studios Insider",
-   "link": "https://www.ign.com/articles/lanterns-season-2-in-doubt-says-dc-studios-insider",
-   "summary": "An insider at DC Studios suggests that HBO’s Lanterns is unlikely renewed for a second season in spite of rave reviews and audience interest, as told in a report from Variety.",
-   "image": "https://assets-prd.ignimgs.com/2026/03/04/lanterns-blogroll-1740701126885-1772654361603.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-11T00:18:08+00:00"
-  },
-  {
-   "title": "One Elder Scrolls fan is reviving and upgrading (with AI) a lost spin-off for the Nokia N-Gage and porting it to PC",
-   "link": "https://www.pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc/",
-   "summary": "I spend way too much time on wikis reading about spin-off games made for handheld and mobile devices I will probably never play (there was a whole trilogy of Silent Hill: Orphan games that have lived up to their name by…",
-   "image": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc",
-    "mobile"
-   ],
-   "date": "2026-11-11T00:00:19+00:00"
-  },
-  {
-   "title": "Sony's 10 Most Profitable PS5 Games Reported in New Estimates",
-   "link": "https://www.pushsquare.com/news/2026/11/sonys-10-most-profitable-ps5-games-reported-in-new-estimates",
-   "summary": "It's a strong list. Sony's received a lot of criticism for its first party output this console generation. It's no secret that the company has chased live service trends at the cost of single player experiences — the…",
-   "image": "https://images.pushsquare.com/4b8757406a161/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-11T00:00:00+00:00"
-  },
-  {
-   "title": "Mouse Work, The Switch 2 Game Using Joy-Con Mouse Controls, Arrives This December",
-   "link": "https://www.nintendolife.com/news/2026/11/mouse-work-the-switch-2-game-using-joy-con-mouse-controls-arrives-this-december",
-   "summary": "Prepare for your shift by pre-ordering today. Remember Mouse Work ? It was announced by developer Nitrome for the Switch 2 just a few months before the system's launch and requires you to use mouse controls to complete…",
-   "image": "https://images.nintendolife.com/1ba1d7f577b4d/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo",
-    "releases"
-   ],
-   "date": "2026-11-10T23:35:00+00:00"
-  },
-  {
-   "title": "¿Habrá temporada 2 de 'Grande de España' en Netflix? Sus creadores ya han hablado de su futuro",
-   "link": "https://areajugones.sport.es/series/habra-temporada-2-de-grande-de-espana-en-netflix-sus-creadores-ya-han-hablado-de-su-futuro/",
-   "summary": "Resuena Berlanga en la cabeza mientras Antonio de la Torre y Alexandra Jiménez generan una química extraña en pantalla que engancha y se abre a temática social (más o menos). 'Grande de España' llegó el pasado 23 de…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/grande-de-espana.mp4",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-10T23:27:08+00:00"
-  },
-  {
-   "title": "Shaquille O'Neal is Starring in a Game Show Where Players Have to Hide Him in Plain Sight",
-   "link": "https://www.ign.com/articles/shaquille-oneal-is-starring-in-a-game-show-where-players-have-to-hide-him-in-plain-sight",
-   "summary": "In one of the more amusing sidequests that Shaquille O’Neal has undertaken in his life, the former NBA All-Star is set to appear in a game show where players try to conceal him from view in a hilarious twist on…",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/can-you-hide-shaq-game-show-1794352958670.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-10T23:26:41+00:00"
-  },
-  {
-   "title": "Sony cancels another live service game ahead of release, but at least there won't be any layoffs this time",
-   "link": "https://www.pcgamer.com/gaming-industry/sony-cancels-another-live-service-game-ahead-of-release-but-at-least-there-wont-be-any-layoffs-this-time/",
-   "summary": "A Bloomberg report says Fairgames, a PvP heist shooter announced by Haven Studios and Sony in 2023 , has been cancelled. In something of a surprising twist, a PlayStation rep told the site there will be no layoffs as a…",
-   "image": "https://cdn.mos.cms.futurecdn.net/SBHGE8LS4dVjoP4g8qVmdS-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc",
-    "playstation"
-   ],
-   "date": "2026-11-10T23:15:38+00:00"
-  },
-  {
-   "title": "I Tried the Pokémon Happy Meal — Here’s What I Learned (and What I Pulled)",
-   "link": "https://www.ign.com/articles/i-tried-the-pokemon-happy-meal-heres-what-i-learned-and-what-i-pulled",
-   "summary": "",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/pokemonhappymeal-2-1794349637448.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-10T23:05:40+00:00"
-  },
-  {
-   "title": "¿La audiencia de Dragon Ball Super: Beerus está en caída libre? Estos son los datos de Crunchyroll que alarman a los fans",
-   "link": "https://areajugones.sport.es/anime/la-audiencia-de-dragon-ball-super-beerus-esta-en-caida-libre-estos-son-los-datos-de-crunchyroll-que-alarman-a-los-fans/",
-   "summary": "Aunque 'Dragon Ball Super: Beerus' sea un remake/remasterización de uno de los arcos menos populares de toda la serie (que además ya tuvo su propia película), los fans estaban bastante hypeados por su estreno. A día de…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/dragon-ball-super-beerus-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-10T23:04:53+00:00"
-  },
-  {
-   "title": "Get a 20,000mAh 45W Power Bank With Integrated USB Cable for Under $20 Ahead of Black Friday",
-   "link": "https://www.ign.com/articles/cuktech-power-bank-deal-november-2026",
-   "summary": "Fast charges your Nintendo Switch 2 or Steam Deck multiple times over.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/cuktechpowerbank-1794348540571.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "pc",
-    "nintendo"
-   ],
-   "date": "2026-11-10T23:00:00+00:00"
-  },
-  {
-   "title": "Sick BMX flips, colourful characters, a whole lot of mail and a charming raccoon dog await you in Tanuki: Pon's Summer, which you can pick up now",
-   "link": "https://www.rockpapershotgun.com/sick-bmx-flips-colourful-characters-a-whole-lot-of-mail-and-a-charming-raccoon-dog-await-you-in-tanuki-pons-summer-which-you-can-pick-up-now",
-   "summary": "Right, today's been miserable thanks to the now hourly discourse we have to all take part in lest we be seen as approving of the current bad thing, how about something that looks simply pleasant? Today's the launch day…",
-   "image": "https://assetsio.gnwcdn.com/tanuki-pons-summer.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc",
-    "releases"
-   ],
-   "date": "2026-11-10T22:49:20+00:00"
-  },
-  {
-   "title": "Capcom quietly updates the Monster Hunter Wilds beta listing on Steam, indicating a possible expansion playtest",
-   "link": "https://www.pcgamer.com/games/action/capcom-quietly-updates-the-monster-hunter-wilds-beta-listing-on-steam-indicating-a-possible-expansion-playtest/",
-   "summary": "Capcom still hasn't announced a release date for Monster Hunter Wilds: Ascendance, the Sunbreak-scale DLC that was revealed in February , but it seems like we might be getting a chance to sample the expansion before too…",
-   "image": "https://cdn.mos.cms.futurecdn.net/SjXLPquNhBisCmqpHuepoj-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc",
-    "releases"
-   ],
-   "date": "2026-11-10T22:22:30+00:00"
-  },
-  {
-   "title": "Amazon's Black Friday Audible Deal Is Now Live: Pay $0.99 Per Month Plus Get $20 Credit",
-   "link": "https://www.ign.com/articles/amazon-early-black-friday-audible-deal-2026",
-   "summary": "Both Amazon Prime and non-Prime members, new and previous subscribers are eligible.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/03/amazonaudible-1793740919087.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-10T22:15:00+00:00"
-  },
-  {
-   "title": "We Asked Nintendo of America's Nate Bihldorff About Localizing Ocarina of Time's Most Obscure Secrets",
-   "link": "https://www.ign.com/articles/we-asked-nintendo-of-americas-nate-bihldorff-about-localizing-ocarina-of-times-most-obscure-secrets",
-   "summary": "\"The localization team, absolutely, puts the most importance on those single lines that are really, really hard to find.\"",
-   "image": "https://assets-prd.ignimgs.com/2026/11/03/zelda-how-long-1793730658114.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-10T22:11:50+00:00"
-  },
-  {
-   "title": "Nintendo Opens New Job Role to Preserve and Organize its Old Games",
-   "link": "https://www.ign.com/articles/nintendo-opens-new-job-role-to-preserve-and-organize-its-old-games",
-   "summary": "Nintendo of America has opened up a new job position to help preserve and archive the older games in its vast library of titles.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/nintendo-hiring-archivist-to-organize-old-games-1794347962870.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-10T22:10:22+00:00"
-  },
-  {
-   "title": "PlayStation cancela Fairgames: qué ha pasado con el juego de Haven Studios y cómo encaja en los problemas de Sony con los juegos como servicio",
-   "link": "https://areajugones.sport.es/videojuegos/playstation-cancela-fairgames-que-ha-pasado-con-el-juego-de-haven-studios-y-como-encaja-en-los-problemas-de-sony-con-los-juegos-como-servicio/",
-   "summary": "La apuesta de PlayStation por los juegos como sertvicio vuelve a sufrir un duro golpe. Según una nueva información publicada por Bloomberg este 10 de noviembre de 2026, Sony habría cancelado Fairgames, el shooter…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/faigamesportada-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-10T22:05:21+00:00"
-  },
-  {
-   "title": "Pokémon TCG’s Delta Reign Elite Trainer Box Is Already Down to Almost Market Price Across Walmart & Amazon",
-   "link": "https://www.ign.com/articles/pokemon-tcgs-delta-reign-elite-trainer-box-almost-market-price",
-   "summary": "Pokémon TCG Delta Reign Elite Trainer Box drops to $89.95 at Walmart, beating Amazon's new record-low $98.49 price and almost matching market value.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/pokemon-tcgs-delta-reign-elite-trainer-box-almost-market-price-cover-1794329998641.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-10T22:00:00+00:00"
-  },
-  {
-   "title": "The Sabrent 8-Port USB Desktop Charging Station with 252W of Total Power Output Is on Sale for Black Friday",
-   "link": "https://www.ign.com/articles/sabrent-voltik-8-port-252w-usb-desktop-charging-station-deal-november-2026",
-   "summary": "Never run out of USB charging ports again.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/sabrentchargingstation2-1794347527325.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-10T22:00:00+00:00"
-  },
-  {
-   "title": "Sony have cancelled Fairgame$, once again reminding us that chasing live service big bucks basically never works",
-   "link": "https://www.rockpapershotgun.com/sony-have-cancelled-fairgame-once-again-reminding-us-that-chasing-live-service-big-bucks-basically-never-works",
-   "summary": "You know, I'm sure that Sony had every intention of following through on their intention to release 10 live service games by 2026, as they mentioned way back in 2022 . Well, as far as an intention that's designed to…",
-   "image": "https://assetsio.gnwcdn.com/fairgames_gqqTAs3.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T21:28:00+00:00"
-  },
-  {
-   "title": "Bungie drops gameplay trailer for Marathon's 'co-op PvE roguelite' mode and swanky new social space",
-   "link": "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
-   "summary": "Bungie has served up our first proper look at Marathon's big Symbiosis update , which is set to go live on December 8 with a permanent PvE mode, plus an all-new Team Deathmatch mode and a social space called Limbo.…",
-   "image": "https://cdn.mos.cms.futurecdn.net/qsoUEKZJuZjDSsWKVnbSzh-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc",
-    "releases"
-   ],
-   "date": "2026-11-10T21:16:59+00:00"
-  },
-  {
-   "title": "DC's New Leader Will Reportedly Prioritize More Well-Known Characters Like Batman and Wonder Woman, Reboot Has Yet to Be Decided",
-   "link": "https://www.ign.com/articles/dcs-new-leader-will-reportedly-prioritize-more-well-known-characters-like-batman-and-wonder-woman-reboot-has-yet-to-be-decided",
-   "summary": "DC Studios' new boss is reportedly planning to prioritize more mainstream characters like Batman and Wonder Woman going forward.",
-   "image": "https://assets-prd.ignimgs.com/2025/04/24/wonder-woman-whatever-happened-thumb-1745538711578.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-10T21:15:35+00:00"
-  },
-  {
-   "title": "World of Warcraft Forever Hotfix Will Thin Out Overcrowded Zones and Help Faction Balance",
-   "link": "https://www.ign.com/articles/world-of-warcraft-forever-hotfix-will-thin-out-overcrowded-zones-and-help-faction-balance",
-   "summary": "World of Warcraft Forever has been incredibly popular, and has gone down as the biggest WoW launch in history. It's little wonder then, that some zones are absolutely packed with players. And, Blizzard has implemented a…",
-   "image": "https://assets-prd.ignimgs.com/2026/11/03/wowthumb-1793742518107.png",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "releases"
-   ],
-   "date": "2026-11-10T21:08:36+00:00"
-  },
-  {
-   "title": "PlayStation Cancels Live-Service Heist Shooter, Fairgames",
-   "link": "https://www.ign.com/articles/playstation-cancels-live-service-heist-shooter-fairgames",
-   "summary": "Fairgames, a live-service heist game from PlayStation's Haven Studios, has been canceled by Sony.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/fairgames-1794344318033.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-10T21:00:21+00:00"
-  },
-  {
-   "title": "Sony Cancels Fairgames After Years of Work on PS5 Live Service Shooter",
-   "link": "https://www.pushsquare.com/news/2026/11/sony-cancels-fairgames-after-years-of-work-on-ps5-live-service-shooter",
-   "summary": "Haven Studio becomes a support team. PlayStation has officially cancelled Fairgames , the PS5 and PC live service shooter it had in production at Haven Studio. The news comes from Bloomberg journalist Jason Schreier,…",
-   "image": "https://images.pushsquare.com/814b2a916eba8/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation",
-    "pc"
-   ],
-   "date": "2026-11-10T21:00:00+00:00"
-  },
-  {
-   "title": "GTA 6: What Will Review Scores Be? You Can Win A $500 Gift Card For Getting It Right",
-   "link": "https://www.gamespot.com/articles/gta-6-what-will-review-scores-be-you-can-win-a-500-gift-card-for-getting-it-right/",
-   "summary": "Rockstar's long-awaited open-world action game Grand Theft Auto 6 finally releases on November 19, and among the many things people are excited to find out is how the game will score with reviewers. Nintendo's The…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_13_84120d.jpg?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-10T20:55:32+00:00"
-  },
-  {
-   "title": "Sony Cancels Live-Service PS5 Game Fairgames, But No Layoffs",
-   "link": "https://www.gamespot.com/articles/sony-cancels-live-service-ps5-game-fairgames-but-no-layoffs/",
-   "summary": "Sony has canceled the upcoming live-service shooter Fairgame$, but there will be no job cuts connected to the game's closure. This is according to a report from Bloomberg today. The game was in the works at Haven…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/fairgames.png?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-10T20:43:00+00:00"
-  },
-  {
-   "title": "The Outer Worlds 2 PS5 DLC Split into Two Parts, First in December",
-   "link": "https://www.pushsquare.com/news/2026/11/the-outer-worlds-2-ps5-dlc-split-into-two-parts-first-in-december",
-   "summary": "Ask your doctor about DLC. Obsidian still wants to carry out its post-launch DLC plans for The Outer Worlds 2 , having lost 25% of its workforce in a recent round of layoffs. It's today announced an expansion called…",
-   "image": "https://images.pushsquare.com/9f7b892844d8b/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation",
-    "releases"
-   ],
-   "date": "2026-11-10T20:30:00+00:00"
-  },
-  {
-   "title": "GTA 6 Backflips Look Good Now, But There Could Be More To The Story",
-   "link": "https://www.gamespot.com/articles/gta-6-backflips-look-good-now-but-there-could-be-more-to-the-story/",
-   "summary": "A new Grand Theft Auto 6 trailer debuted today, November 10, and the video showed off a race car driver doing a backflip. The animation looks smoooth . That's notable because the Extended Look trailer that debuted back…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/backflip.png?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [
-    "releases"
-   ],
-   "date": "2026-11-10T20:26:18+00:00"
-  },
-  {
-   "title": "Amid Higher Gas And Grocery Prices, GTA 6 Is A “Bargain” At $80, Take-Two CEO Says",
-   "link": "https://www.gamespot.com/articles/amid-higher-gas-and-grocery-prices-gta-6-is-a-bargain-at-80-take-two-ceo-says/",
-   "summary": "It's no secret that life is expensive. Gas and grocery prices are up, in particular, and against that backdrop, Take-Two CEO Strauss Zelnick believes GTA 6 at $80 is a \"bargain\" due to how many hours people can play it.…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_07.jpg?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-10T20:14:55+00:00"
-  },
-  {
-   "title": "Save Over 50% Off One of the Coolest Desktop Charging Stations for Black Friday",
-   "link": "https://www.ign.com/articles/save-over-50-off-one-of-the-coolest-desktop-charging-stations-for-black-friday",
-   "summary": "Features three AC outlets and four USB ports.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/talixfluxo-1794339247921.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-10T20:10:00+00:00"
-  },
-  {
-   "title": "We Build LEGO Downton Abbey, a Stately Set That's Worthy of the Crawley Name",
-   "link": "https://www.ign.com/articles/lego-downton-abbey-review-21373",
-   "summary": "We build LEGO Ideas Downton Abbey, a big, heavy, stately set that comes with 13 minifigures.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/lego-downton-abbey-blogroll-1794337223830.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-10T20:08:45+00:00"
-  },
-  {
-   "title": "Poll: Is GTA 6 Being Stuck at 30fps on PS5 a Dealbreaker?",
-   "link": "https://www.pushsquare.com/features/poll-is-gta-6-being-stuck-at-30fps-on-ps5-a-dealbreaker",
-   "summary": "Doubled trouble. Your (potential) nightmare has become a reality: GTA 6 runs at just 30 frames-per-second on PS5 and PS5 Pro. The target frame rate was confirmed earlier today by Rockstar Games itself , prompting an…",
-   "image": "https://images.pushsquare.com/7503b796c69e2/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-10T20:00:00+00:00"
-  },
-  {
-   "title": "Ahead of GTA 6 and as concerns over genAI PC ports grow, Take-Two's CEO says they're revving up their \"technical defences\" and \"legal activites\" over piracy",
-   "link": "https://www.rockpapershotgun.com/ahead-of-gta-6-and-as-concerns-over-genai-pc-ports-grow-take-twos-ceo-says-theyre-revving-up-their-technical-defences-and-legal-activites-over-piracy",
-   "summary": "It's a bit of a time for AI and games at the moment, 'ey? A bad time, obviously, as it's infecting everything from game development , to the modding community , to native PC ports of a remake of a very popular game that…",
-   "image": "https://assetsio.gnwcdn.com/gta-6-grand-theft-auto-6-main-characters-hot-4.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T19:59:40+00:00"
-  },
-  {
-   "title": "PlayStation suma otro enorme fracaso en PC: Sony cierra un servicio de PS Plus que utilizaba menos del 0,4% de sus suscriptores",
-   "link": "https://areajugones.sport.es/videojuegos/playstation-suma-otro-enorme-fracaso-en-pc-sony-cierra-un-servicio-de-ps-plus-que-utilizaba-menos-del-04-de-sus-suscriptores/",
-   "summary": "PlayStation ha fracasado en PC. Creo que en este punto esta es una afirmación que se puede hacer sin demasiado temor a caer en el error. Ya se olía algo así cuando hace medio año se dieron a conocer varios pasos atrás…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/ps-plus-en-pc-cagadon-1-1024x577.png",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "pc",
-    "playstation"
-   ],
-   "date": "2026-11-10T19:58:35+00:00"
-  },
-  {
-   "title": "2 years after Unknown 9: Awakening bombed, Bandai Namco is closing the studio that made it",
-   "link": "https://www.pcgamer.com/gaming-industry/2-years-after-unknown-9-awakening-bombed-bandai-namco-is-closing-the-studio-that-made-it/",
-   "summary": "Two years after the release of Unknown 9: Awakening , its one and only game, Bandai Namco's Reflector Entertainment is closing. The shutdown was revealed in a notice posted by Banda Namco (via Game Informer ) saying the…",
-   "image": "https://cdn.mos.cms.futurecdn.net/WTrJjDChn3v8ozas2KjHmf-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-10T19:55:36+00:00"
-  },
-  {
-   "title": "Someone Got Halo 1 Running on a Sega Dreamcast",
-   "link": "https://www.ign.com/articles/someone-got-halo-1-running-on-a-sega-dreamcast",
-   "summary": "A developer has successfully gotten the original Halo: Combat Evolved, a day-one launch title for the original Xbox in 2001, ported and running on the Sega Dreamcast – in both campaign and multiplayer. And they've…",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/h1-1794340308833.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "xbox",
-    "releases"
-   ],
-   "date": "2026-11-10T19:47:58+00:00"
   }
  ]
 }
