@@ -1,6 +1,948 @@
 {
- "updated": "2026-11-26T13:27:12.577334+00:00",
+ "updated": "2026-11-26T22:44:13.852128+00:00",
  "items": [
+  {
+   "title": "Dawn of War 4's campaigns differ based on your choices: 'which character you choose and what decisions you make with them lead down different experiences of an overlapping story'",
+   "link": "https://www.pcgamer.com/games/rts/dawn-of-war-4s-campaigns-differ-based-on-your-choices-which-character-you-choose-and-what-decisions-you-make-with-them-lead-down-different-experiences-of-an-overlapping-story/",
+   "summary": "The original Dawn of War's Winter Assault expansion added campaigns that let you play two factions at once, with different final missions based on which one you triumphed with. Dawn of War 2's campaign was even more…",
+   "image": "https://cdn.mos.cms.futurecdn.net/7S4FeArt6VyoGLPMzxWzD9-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-26T22:30:59+00:00"
+  },
+  {
+   "title": "Microsoft's Github posts message celebrating efforts to port PlayStation 5 version of Grand Theft Auto 6 to PC, then quickly deletes it",
+   "link": "https://www.pcgamer.com/games/microsofts-github-posts-message-celebrating-efforts-to-port-playstation-5-version-of-grand-theft-auto-6-to-pc-then-quickly-deletes-it/",
+   "summary": "Microsoft-owned developer platform Github stepped in it earlier today when it posted a message on X celebrating the success of AnyPS5, an open source project that aims to let users port PS5 executables to PC, and then…",
+   "image": "https://cdn.mos.cms.futurecdn.net/fcoJMA24BgZGj8SXahRBLF-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc",
+    "playstation"
+   ],
+   "date": "2026-11-26T22:29:06+00:00"
+  },
+  {
+   "title": "WoW: Forever min-maxers are upset that its 40-player PvP mode now actually requires PvP to win",
+   "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-min-maxers-are-upset-that-its-40-player-pvp-mode-now-actually-requires-pvp-to-win/",
+   "summary": "Despite being set in the past, WoW: Forever is an attempt to capture the spirit of the old game by injecting it with new quirks that challenge new and returning players alike to approach it differently than any other…",
+   "image": "https://cdn.mos.cms.futurecdn.net/DRAvip4buV4DMD7biWSmJ6-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-26T22:05:00+00:00"
+  },
+  {
+   "title": "Your mothership is a giant pinball machine and your ball is its defence system in Appulse, a top-down roguelite shooter that's out now",
+   "link": "https://www.rockpapershotgun.com/your-mothership-is-a-giant-pinball-machine-and-your-ball-is-its-defence-system-in-appulse-a-top-down-roguelite-shooter-thats-out-now",
+   "summary": "Pinball remains such an intoxicating game because it's one where you have to constantly be on your toes. As the tiny metal sphere bats about the place, it's down to you to hit it at just the right time so as to keep…",
+   "image": "https://assetsio.gnwcdn.com/appulse.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc",
+    "releases"
+   ],
+   "date": "2026-11-26T21:31:10+00:00"
+  },
+  {
+   "title": "Lucia Actress Manni L. Perez Issues First Statement Since GTA 6 Launch",
+   "link": "https://www.ign.com/articles/lucia-actress-manni-l-perez-issues-first-statement-since-gta-6-launch",
+   "summary": "Manni L. Perez, the actress who plays Lucia in GTA 6, has issued her first statement since the game came out.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-38-1795726955205.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [
+    "releases"
+   ],
+   "date": "2026-11-26T21:02:21+00:00"
+  },
+  {
+   "title": "EA removes some live service fluff from Skate and ends seasonal structure \"in favour of regular, agile content updates\"",
+   "link": "https://www.eurogamer.net/ea-removes-live-service-skate-seasons",
+   "summary": "EA is ditching seasonal updates and shaving some of the live service fluff off Skate (for some reason stylised as skate.) going forward. Normally, such news would be cause for concern. Here, the publisher assured…",
+   "image": "https://assetsio.gnwcdn.com/skate-header_g4XD29A.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T20:35:20+00:00"
+  },
+  {
+   "title": "GTA 6 Fashion in the IGN Community",
+   "link": "https://www.ign.com/articles/gta-6-fashion-in-the-ign-community",
+   "summary": "",
+   "image": "https://assets-prd.ignimgs.com/2026/11/23/gta-6-jason-and-lucia-cigar-1795473956655.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T20:23:37+00:00"
+  },
+  {
+   "title": "Steam isn't doing 'an official Black Friday fest,' but it does have a page with hundreds of discounts and 'Black Friday' splashed across the top so you might want to check it out anyway",
+   "link": "https://www.pcgamer.com/games/steam-isnt-doing-an-official-black-friday-fest-but-it-does-have-a-page-with-hundreds-of-discounts-and-black-friday-splashed-across-the-top-so-you-might-want-to-check-it-out-anyway/",
+   "summary": "Steam isn't running an official Black Friday fest—it says so right here in this update , \"Steam isn't running an official Black Friday fest\"—but plenty of game developers have marked their stuff down to take advantage…",
+   "image": "https://cdn.mos.cms.futurecdn.net/WXCauYx5iuX7NSjYhqLCE4-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-26T20:20:02+00:00"
+  },
+  {
+   "title": "El Rolex que en la vida real cuesta medio millón está gratis en GTA VI: dónde encontrarlo",
+   "link": "https://areajugones.sport.es/videojuegos/el-rolex-que-en-la-vida-real-cuesta-medio-millon-esta-gratis-en-gta-vi-donde-encontrarlo/",
+   "summary": "Grand Theft Auto VI está lleno de parodias de marcas reales, y la de relojes se llama Crowex: la versión del juego de Rolex. Casi todos sus modelos son guiños reconocibles, pero hay uno que es el guiño definitivo. El…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/guia-gtavi-rolex-1024x576.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [],
+   "date": "2026-11-26T20:12:51+00:00"
+  },
+  {
+   "title": "Eureka Ergonomic Has Black Friday Deals to Give Your Space the Upgrade It Needs",
+   "link": "https://www.ign.com/articles/eureka-ergonomic-has-black-friday-deals-to-give-your-space-the-upgrade-it-needs",
+   "summary": "Professional office or gamer vibes? The choice is yours.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/20/eurekaergonomic-1795207927744.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T19:30:00+00:00"
+  },
+  {
+   "title": "The Witcher 3's new patch adds 40 cross-platform mods, fixes plenty of game-breaking bugs and \"various lighting issues\"",
+   "link": "https://www.eurogamer.net/the-witcher-3-patch-40-mods-bugs",
+   "summary": "Developer CD Projekt Red has rolled out a new patch for The Witcher 3: Wild Hunt - Remastered on all platforms, which squashes dozens of bugs and adds 40 cross-platform mods with \"more on the way.\" Read more",
+   "image": "https://assetsio.gnwcdn.com/geralt-witcher-3-remastered.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T19:20:50+00:00"
+  },
+  {
+   "title": "The Beats Studio Pro Noise Canceling Headphones Drops Below $100 For the First Time for Black Friday",
+   "link": "https://www.ign.com/articles/beats-studio-pro-noise-canceling-headphones-deal-black-friday-sale-2026",
+   "summary": "The best noise canceling headphone deal you can get right now.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/23/beatsstudioproblackwhite-1795472270319.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T19:05:00+00:00"
+  },
+  {
+   "title": "Ubisoft Wants Rayman To Become A Huge, Transmedia Star",
+   "link": "https://www.nintendolife.com/news/2026/11/ubisoft-wants-rayman-to-become-a-huge-transmedia-star",
+   "summary": "Legends Retold is just the beginning. Ubisoft is gearing up to launch Rayman Legends Retold , a reimagined remake of the 2013 original . While many have questioned the decision to remake a game that arguably still looks…",
+   "image": "https://images.nintendolife.com/2176eb7643445/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo",
+    "releases"
+   ],
+   "date": "2026-11-26T19:00:00+00:00"
+  },
+  {
+   "title": "'The Results Are Very, Very Impressive' - Digital Foundry Praises GTA 6 On Xbox One",
+   "link": "https://www.purexbox.com/news/2026/11/the-results-are-very-very-impressive-digital-foundry-praises-gta-6-on-xbox-one",
+   "summary": "\"﻿Latency is also exceptional - at least in context.\". The smartypants over at Digital Foundry are still putting in the work, this time going deep into the nitty gritty of how well GTA 6 performs when streamed through…",
+   "image": "https://images.purexbox.com/29d839fd208da/small.jpg",
+   "source": "Pure Xbox",
+   "lang": "en",
+   "cats": [
+    "xbox"
+   ],
+   "date": "2026-11-26T19:00:00+00:00"
+  },
+  {
+   "title": "HARK THE GHOUL is a Victorian gothic dungeon crawler RPG that features a trench-coat-wearing rat man who wants to sell you rats a la counterfeit watches",
+   "link": "https://www.rockpapershotgun.com/hark-the-ghoul-is-a-victorian-gothic-dungeon-crawler-rpg-that-features-a-trench-coat-wearing-rat-man-who-wants-to-sell-you-rats-a-la-counterfeit-watches",
+   "summary": "I'm a simple person. I see an anthropomorphic rat man who opens up his trench coat that is filled with regular rats in the same manner as one would with counterfeit watches in a trailer for a video game, I add it to my…",
+   "image": "https://assetsio.gnwcdn.com/hark-the-ghoul.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc",
+    "releases"
+   ],
+   "date": "2026-11-26T18:53:30+00:00"
+  },
+  {
+   "title": "OtterBox’s Black Friday Sale Takes 30% Off More Than Just Phone Cases",
+   "link": "https://www.ign.com/articles/otterbox-black-friday-sale-2026",
+   "summary": "Give their favorite tech a little extra love this holiday season.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/20/untitled-design-23-1795133298500.png",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T18:45:00+00:00"
+  },
+  {
+   "title": "Alienware Makes Some of the Best OLED Gaming Monitors Around and They're All on Sale for Black Friday",
+   "link": "https://www.ign.com/articles/alienware-gaming-monitor-deals-black-friday-sale-2026",
+   "summary": "Backed by a 3 year warranty that covers OLED burn-in.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/alienwareaw3926qw-1795717304020.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T18:40:00+00:00"
+  },
+  {
+   "title": "Dev team who delayed their game a year to avoid Silksong says they won't do it again for whatever Team Cherry announces tomorrow: 'This time we're staying put'",
+   "link": "https://www.pcgamer.com/games/action/dev-team-who-delayed-their-game-a-year-to-avoid-silksong-says-they-wont-do-it-again-for-whatever-team-cherry-announces-tomorrow-this-time-were-staying-put/",
+   "summary": "In August 2025, Aeternum Game Studios announced that Aeterna Lucis , the sequel to the well-liked 2021 metroidvania Aeterna Noctis, would be delayed from its planned launch in September of that year to sometime in 2026,…",
+   "image": "https://cdn.mos.cms.futurecdn.net/SK9qm2fZ6UsQLxkoi24YSG-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc",
+    "releases"
+   ],
+   "date": "2026-11-26T18:31:22+00:00"
+  },
+  {
+   "title": "Gallery: Get A Closer Look At Nintendo's Playable Ocarina Of Time",
+   "link": "https://www.nintendolife.com/news/2026/11/gallery-get-a-closer-look-at-nintendos-playable-ocarina-of-time",
+   "summary": "Give us a tune. Just last week, Nintendo announced that the upcoming playable and electric ocarinas, launching in conjunction with Ocarina of Time , will initially be sold on an invite-only basis in Europe. We still…",
+   "image": "https://images.nintendolife.com/e0787ab453cfb/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo",
+    "releases"
+   ],
+   "date": "2026-11-26T18:30:00+00:00"
+  },
+  {
+   "title": "The Deluxe Pokémon Guide Book Is a Super-Effective Gift — Now on Sale for Black Friday",
+   "link": "https://www.ign.com/articles/pokemon-deluxe-character-guide-book-deal-black-friday-2026-gift-idea",
+   "summary": "We’re in the thick of Black Friday season, a great time to get ahead on gifts for the holidays. We have a recommendation for the Pokémon fan in your life, and won't judge if that's yourself.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/pokemonbook-1795715170891.png",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-26T18:28:47+00:00"
+  },
+  {
+   "title": "Nioh and Ninja Gaiden studio is using AI for QA, but argues \"that a game becomes fun when crafted by human hands\"",
+   "link": "https://www.eurogamer.net/nioh-ai-qa-game-human-hands",
+   "summary": "Team Ninja (Nioh, Ninja Gaiden) is the latest game development studio to implement AI into some of its workflow, but producer Kohei Shibata still believes that fun games need to be \"crafted by human hands.\" Read more",
+   "image": "https://assetsio.gnwcdn.com/nioh-3-gameplay-screen-6.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T18:14:30+00:00"
+  },
+  {
+   "title": "GTA VI bate el récord de lanzamiento físico en España, pero solo supera a GTA V por 14.550 copias",
+   "link": "https://areajugones.sport.es/videojuegos/gta-vi-bate-el-record-de-lanzamiento-fisico-en-espana-pero-solo-supera-a-gta-v-por-14-550-copias/",
+   "summary": "GTA VI se ha convertido en el mayor lanzamiento en tiendas de la historia de España. El juego de Rockstar vendió 322.650 unidades físicas en su estreno en nuestro país, una cifra que deja atrás el récord que ostentaba…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/06/gta-vi-formato-fisico-1024x576.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [
+    "releases"
+   ],
+   "date": "2026-11-26T18:04:22+00:00"
+  },
+  {
+   "title": "T-Mobile Is Offering a $1,200 Off Discount on the New Apple iPhone 18 Pro Smartphone for Black Friday",
+   "link": "https://www.ign.com/articles/t-mobiles-apple-iphone-18-pro-on-us-black-friday-deal-2026",
+   "summary": "When you sign up for T-Mobile's new T-Mix Loaded plan.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/appleiphone18pro2-1795714141504.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [
+    "mobile"
+   ],
+   "date": "2026-11-26T18:00:00+00:00"
+  },
+  {
+   "title": "Review: Gamesir Nova Vision Controller For Switch 1 & 2 - Unique Features Elevate This Mid-Range Pad",
+   "link": "https://www.nintendolife.com/reviews/gamesir-nova-vision-controller-for-switch-1-and-2-unique-features-elevate-this-mid-range-pad",
+   "summary": "What a vision. Accessory developer Gamesir doesn’t often make controllers with the Switch 1 and 2 in mind, instead focusing primarily on Xbox and PC. So when it announced the new Nova Vision , my Spider-Sense tingled.…",
+   "image": "https://images.nintendolife.com/637448a224e55/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo",
+    "pc",
+    "xbox"
+   ],
+   "date": "2026-11-26T18:00:00+00:00"
+  },
+  {
+   "title": "Despite No Disc, GTA 6 Recorded the UK's Biggest Physical Launch Since 2019",
+   "link": "https://www.pushsquare.com/news/2026/11/despite-no-disc-gta-6-recorded-the-uks-biggest-physical-launch-since-2019",
+   "summary": "People love plastic boxes. GTA 6 has been breaking records all over the place, so it doesn't come as much of a surprise to learn that its performance at physical retail has been mighty impressive. As reported by The…",
+   "image": "https://images.pushsquare.com/1f0b2869d39fd/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation",
+    "releases"
+   ],
+   "date": "2026-11-26T18:00:00+00:00"
+  },
+  {
+   "title": "Xbox CSO Responds To Criticism Around Game Branding, Promises To Fix In 2027",
+   "link": "https://www.purexbox.com/news/2026/11/xbox-cso-responds-to-criticism-around-game-branding-promises-to-fix-in-2027",
+   "summary": "\"We are fixing this. Will roll out in 2027.\". Every now and again, we hear grumbles from some parts of the Xbox community that they're frustrated when games are announced and Xbox doesn't make a big deal about how those…",
+   "image": "https://images.purexbox.com/cba27fff19ea8/small.jpg",
+   "source": "Pure Xbox",
+   "lang": "en",
+   "cats": [
+    "xbox"
+   ],
+   "date": "2026-11-26T18:00:00+00:00"
+  },
+  {
+   "title": "PS Plus te permite jugar gratis a uno de los mejores juegos de 2026: Star Wars: Galactic Racer tiene una nueva promoción",
+   "link": "https://areajugones.sport.es/videojuegos/ps-plus-te-permite-jugar-gratis-a-uno-de-los-mejores-juegos-de-2026-star-wars-galactic-racer-tiene-una-nueva-promocion/",
+   "summary": "Star Wars: Galactic Racer llegó durante el pasado 6 de octubre y rápidamente hizo a miles de jugadores coincidir en una misma opinión: era un fantástico juego de Star Wars y un título de carreras todavía mejor. La…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/ps-plus-prueba-star-wars-galactic-racer-1-1024x571.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [],
+   "date": "2026-11-26T17:58:30+00:00"
+  },
+  {
+   "title": "Warhammer 40,000: Space Marine 2's latest updates introduces a Weekly Clash mode that shakes up PvP with some constricting modifiers",
+   "link": "https://www.rockpapershotgun.com/warhammer-40000-space-marine-2s-latest-updates-introduces-a-weekly-clash-mode-that-shakes-up-pvp-with-some-constricting-modifiers",
+   "summary": "In as booming a monster truck rally commentator voice as you can imagine: ARE YOU READY TO GET DECIMATED??? Yes? Yippee! Because I've got some good news for you. The latest update for Warhammer 40,000: Space Marine 2 is…",
+   "image": "https://assetsio.gnwcdn.com/warhammer-40k-space-marine-2-decimation.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-26T17:58:30+00:00"
+  },
+  {
+   "title": "Black Friday SSD deals 2026",
+   "link": "https://www.pcgamer.com/black-friday-ssd-deals/",
+   "summary": "Black Friday is more or less here already, bringing with it some much-needed discounts on solid state storage. The official date is technically tomorrow, but the deals have already come out in force. It's still a weird…",
+   "image": "https://cdn.mos.cms.futurecdn.net/ErfRaHudQKVY5vahuUL7H3-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-26T17:33:16+00:00"
+  },
+  {
+   "title": "GTA 6 causes surge in UK physical game sales, despite there being no disc in the box",
+   "link": "https://www.eurogamer.net/gta-6-boxed-physical-sales-uk",
+   "summary": "Grand Theft Auto 6 has had a huge effect on physical game sales in the UK, despite not actually containing a disc in the box. Read more",
+   "image": "https://assetsio.gnwcdn.com/cal-gta-6-artwork.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T17:30:30+00:00"
+  },
+  {
+   "title": "Here Are All The Games Coming To Switch eShop This Week (November 26)",
+   "link": "https://www.nintendolife.com/news/2026/11/here-are-all-the-games-coming-to-switch-eshop-this-week-november-26",
+   "summary": "Wilds, Withered Worlds, Wind Monsters. It's time for North America's Nintendo Download Thanksgiving update and our Switch eShop round-up for November 26th . Monster Hunter Wilds may not have been the best-received game…",
+   "image": "https://images.nintendolife.com/e175229a4c0ab/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-26T17:30:00+00:00"
+  },
+  {
+   "title": "New Phantom Blade Zero PS5 Update Brings Features, Upgrades, and Fixes",
+   "link": "https://www.pushsquare.com/news/2026/11/new-phantom-blade-zero-ps5-update-brings-features-upgrades-and-fixes",
+   "summary": "Out on Saturday, 28th November. Phantom Blade Zero studio S-Game has announced the game's next PS5 patch will arrive this Saturday, 28th November 2026, weighing in at around 7GB. It's already posted the patch notes…",
+   "image": "https://images.pushsquare.com/2486cdb4e52af/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-26T17:30:00+00:00"
+  },
+  {
+   "title": "Amazon Has an Asus ROG Flow Z13 Ultra-Portable Gaming Laptop for (Way) Below $2,000 for Black Friday",
+   "link": "https://www.ign.com/articles/asus-rog-flow-z13-ultra-portable-gaming-laptop-deal-black-friday-sale-2026",
+   "summary": "2.56 pound convertible with impressive gaming chops.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/asusz13flow2-1795713151611.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T17:10:00+00:00"
+  },
+  {
+   "title": "\"Where's the ding?!!\" - I asked the PowerWash Simulator 2 team what they thought of Jason's nozzle work in GTA 6",
+   "link": "https://www.eurogamer.net/gta-6-powerwashing-powerwash-simultor-futurlab",
+   "summary": "Among the many, many side activities you can do in GTA 6 , there's powerwashing. Relatively early on, as part of Chapter 1's Down to Earth mission , Jason whips out his nozzle and blasts Brian's boat to a gleaming…",
+   "image": "https://assetsio.gnwcdn.com/gta-powerwash-header-2.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T17:07:50+00:00"
+  },
+  {
+   "title": "Rockstar Games Has A GTA 6 Hit On Its Hands, But Its Union Vote Is A Loss",
+   "link": "https://www.gamespot.com/articles/rockstar-games-has-a-gta-6-hit-on-its-hands-but-its-union-vote-is-a-loss/",
+   "summary": "Roughly 75% of Rockstar Games staff in the UK have voted against a formal recognition agreement with the Independent Workers' Union of Great Britain (IWGB). The news came in the wake of GTA 6 's record-breaking launch ,…",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-7-4.jpg?w=300",
+   "source": "GameSpot",
+   "lang": "en",
+   "cats": [
+    "releases"
+   ],
+   "date": "2026-11-26T17:05:21+00:00"
+  },
+  {
+   "title": "Rompiendo el hielo (Temporada 2): fecha, horario y dónde ver el episodio 10",
+   "link": "https://areajugones.sport.es/anime/rompiendo-el-hielo-temporada-2-fecha-horario-y-donde-ver-el-episodio-10/",
+   "summary": "La temporada 2 de 'Rompiendo el hielo' (The Ramparts of Ice) no para. El anime de romance de moda de Netflix nos permitirá disfrutar de un nuevo episodio el 3 de diciembre. Como es habitual, la tendremos disponible…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/rompiendo-el-hielo-horario-3-1024x576.png",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [],
+   "date": "2026-11-26T17:00:00+00:00"
+  },
+  {
+   "title": "The Witcher 3 Remastered's latest patch takes aim at mods nicking all of Geralt's possessions, disappearing buildings and an outbreak of \"overly bright red\" NPC leg areas",
+   "link": "https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-takes-aim-at-mods-nicking-all-of-geralts-possessions-disappearing-buildings-and-an-outbreak-of-overly-bright-red-npc-leg-areas",
+   "summary": "The Witcher 3 Remastered continues to recieve tweaks ahead of the Songs of the Past expansion arriving next year to whisk Gerry from the River off on a fresh adventure. Following some bloomin' improvements in October ,…",
+   "image": "https://assetsio.gnwcdn.com/wiedzmin-3-remastered-headline-steam2.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-26T17:00:00+00:00"
+  },
+  {
+   "title": "Japanese Charts: No Prizes For Guessing What Has Overtaken Zelda & Switch 2 This Week",
+   "link": "https://www.nintendolife.com/news/2026/11/japanese-charts-no-prizes-for-guessing-what-has-overtaken-zelda-and-switch-2-this-week",
+   "summary": "Saria, not sorry. The latest Japanese charts are in from Famitsu , and in perhaps the least surprising debut in recent memory, Grand Theft Auto VI is a hit. Rockstar's code-in-a-box release had a staggering debut week…",
+   "image": "https://images.nintendolife.com/5131158a1ac51/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-26T17:00:00+00:00"
+  },
+  {
+   "title": "Feature: Everything You Need to Know Ahead of the Delta Force Invitationals Grand Final",
+   "link": "https://www.pushsquare.com/features/everything-you-need-to-know-ahead-of-the-delta-force-invitationals-grand-final",
+   "summary": "The tactical shooter’s 3-day LAN championship kicks off in Sweden this weekend - with huge in-game rewards for tuning in. After last year’s inaugural event in Hangzhou, this weekend sees the Delta Force Invitational…",
+   "image": "https://images.pushsquare.com/e111528be052f/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-26T17:00:00+00:00"
+  },
+  {
+   "title": "Analyst Suggests Console Prices Won't Drop Until At Least 2028",
+   "link": "https://www.purexbox.com/news/2026/11/analyst-suggests-console-prices-wont-drop-until-at-least-2028",
+   "summary": "\"If data centre demand grows, then it could quickly eat into the extra supply\". We've grumbled about the rising cost of Xbox consoles in recent months, as I'm sure you have too. But if you were hoping 2027 would be the…",
+   "image": "https://images.purexbox.com/034a2c41f5fb2/small.jpg",
+   "source": "Pure Xbox",
+   "lang": "en",
+   "cats": [
+    "xbox"
+   ],
+   "date": "2026-11-26T17:00:00+00:00"
+  },
+  {
+   "title": "Microsoft-Owned GitHub Stuns Followers as It Celebrates AnyPS5 Repo in Now-Deleted Tweet",
+   "link": "https://www.ign.com/articles/github-tweet-gta-6-anyps5-repo-microsoft",
+   "summary": "In a post that’s since been deleted, Microsoft-owned code and software collaboration site GitHub celebrated the AnyPS5 repo “passing 58k stars” from users on the platform as a result of the launch of GTA 6. GitHub even…",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-21-1795712312400.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [
+    "releases"
+   ],
+   "date": "2026-11-26T16:59:16+00:00"
+  },
+  {
+   "title": "I would die for this Razer Hello Kitty & Friends wired gaming keyboard, but now I don't have to thanks to this Black Friday deal",
+   "link": "https://www.pcgamer.com/hardware/gaming-keyboards/i-would-die-for-this-razer-hello-kitty-and-friends-wired-gaming-keyboard-but-now-i-dont-have-to-thanks-to-this-black-friday-deal/",
+   "summary": "Razer Ornata V3 gaming keyboard, Hello Kitty & Friends: was $119 now $98.11 A ridiculously adorable keyboard with an equally amazing matching wrist rest. You can enjoy a great discount on this keyboard as well as the…",
+   "image": "https://cdn.mos.cms.futurecdn.net/WAKQKizKUoEeCKMdBYEveV-1920-80.png",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-26T16:58:45+00:00"
+  },
+  {
+   "title": "Save Up to $1,100 Off the 2026 65\" Hisense UR8 RGB Mini-LED Ultimate Gaming TVs for Black Friday",
+   "link": "https://www.ign.com/articles/hisense-ur8-rgb-mini-led-tv-deal-black-friday-sale-2026",
+   "summary": "RGB Mini-LED tech boasts richer colors, a brighter picture, and wider viewing angles than ever before.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/23/hisenseur8-1795478035035.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T16:45:00+00:00"
+  },
+  {
+   "title": "reMarkable’s Super Digital Reader Bundle Lets You Get More Than Double the Savings",
+   "link": "https://www.ign.com/articles/remarkables-super-digital-reader-bundle-lets-you-get-more-than-double-the-savings",
+   "summary": "Grab two bundles and get even more savings.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/remarkablepaperpromove-1795656837887.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T16:40:00+00:00"
+  },
+  {
+   "title": "\"This isn't a sign to retreat\": Rockstar's historic union vote has failed, with 75% voting against, but the organisers are going to \"keep fighting\"",
+   "link": "https://www.rockpapershotgun.com/this-isnt-a-sign-to-retreat-rockstars-historic-union-vote-has-failed-with-75-voting-against-but-the-organisers-are-going-to-keep-fighting",
+   "summary": "The potentially historic vote at GTA 6 creators Rockstar Games on whether to seek formal union recognition has failed, the International Workers of Great Britain have announced. Around 1600 studio members cast ballots…",
+   "image": "https://assetsio.gnwcdn.com/gta-6-art.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-26T16:39:40+00:00"
+  },
+  {
+   "title": "An apology from RPS",
+   "link": "https://www.rockpapershotgun.com/an-apology-from-rps",
+   "summary": "Yesterday I made a significant error in judgement. In writing an apology to our readers, I made a target of one of our writers and I won't be able to undo that. What I can try to do is apologise to that writer, who I'm…",
+   "image": "https://assetsio.gnwcdn.com/rps_welcomepost_2_JcYD937.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-26T16:38:10+00:00"
+  },
+  {
+   "title": "Final explicado: ‘Blade Runner 2099’, la última prueba de Cora nos deja una pregunta inquietante",
+   "link": "https://areajugones.sport.es/series/final-explicado-blade-runner-2099-la-ultima-prueba-de-cora-nos-deja-una-pregunta-inquietante/",
+   "summary": "Nos hemos dado un buen maratón con ‘Blade Runner 2099’. Sus ocho episodios llegaron de golpe a Prime Video y nos hemos metido de lleno en Los Ángeles para descubrir cómo terminaba la historia de Cora y Olwen. Entre los…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/blade-runner-2099-final-explicado-destacado-1024x576.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [],
+   "date": "2026-11-26T16:36:30+00:00"
+  },
+  {
+   "title": "The Best Black Friday Deals Worth Browsing on Thanksgiving Day",
+   "link": "https://www.ign.com/articles/black-friday-sales-2026-best-deals-live",
+   "summary": "",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/megapost-1795684972620.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T16:30:00+00:00"
+  },
+  {
+   "title": "GTA 6's Physical Launch Has Been An Astronomical Success, Despite No Discs",
+   "link": "https://www.nintendolife.com/news/2026/11/gta-6s-physical-launch-has-been-an-astronomical-success-despite-no-discs",
+   "summary": "The biggest physical launch since 2019. All eyes have been on the launch of GTA 6 this month, with the game's so-called physical launch being a particularly interesting litmus test for the future of the industry. It…",
+   "image": "https://images.nintendolife.com/38a239861875b/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo",
+    "releases"
+   ],
+   "date": "2026-11-26T16:30:00+00:00"
+  },
+  {
+   "title": "PS Plus Premium Members Can Try One of This Year's Best Games in a 2-Hour Trial",
+   "link": "https://www.pushsquare.com/news/2026/11/ps-plus-premium-members-can-try-one-of-this-years-best-games-in-a-2-hour-trial",
+   "summary": "Take Star Wars: Galactic Racer for a spin. Everyone is (understandably) going gaga over GTA 6 right now, but real ones will know that 2026 has also brought us one of the best racing games of the PS5 generation — Star…",
+   "image": "https://images.pushsquare.com/cfa0126fb2c3c/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-26T16:30:00+00:00"
+  },
+  {
+   "title": "Aspects of GTA 6 are inspired by Red Dead Redemption 2's honor system because its player agency 'was a hard thing to ignore and walk away from'",
+   "link": "https://www.pcgamer.com/games/grand-theft-auto/aspects-of-gta-6-are-inspired-by-red-dead-redemption-2s-honor-system-because-its-player-agency-was-a-hard-thing-to-ignore-and-walk-away-from/",
+   "summary": "Grand Theft Auto 6 doesn't just mark a huge, and at times unbelievable, step forward for graphics; it's also at the forefront of what an open world game can be, just look at the existential crisis it's given Cyberpunk…",
+   "image": "https://cdn.mos.cms.futurecdn.net/pgTwJvucXFLqqu5Xn4TNQV-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-26T16:28:37+00:00"
+  },
+  {
+   "title": "Where to find GTA 6's UFO and alien",
+   "link": "https://www.pcgamer.com/games/grand-theft-auto-6/gta-6-alien-ufo-location/",
+   "summary": "Grand Theft Auto 6 might feel more grounded compared to its predecessors, but that doesn't mean Leonida isn't full of weird and supernatural ongoings. One such paranormal activity is GTA 6's aliens—if you know where to…",
+   "image": "https://cdn.mos.cms.futurecdn.net/F6NfiFhTdSZ9LHZd57UqmV-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-26T16:28:36+00:00"
+  },
+  {
+   "title": "Rockstar workers vote overwhelmingly against union recognition",
+   "link": "https://www.pcgamer.com/gaming-industry/rockstar-workers-vote-overwhelmingly-against-union-recognition/",
+   "summary": "After two weeks of voting that bracketed the launch of Grand Theft Auto 6, Rockstar Games employees have voted overwhelmingly against a recognition agreement with the IWGB Game Workers Union. 25% of Rockstar employees…",
+   "image": "https://cdn.mos.cms.futurecdn.net/8bWzD2svqkkDRbjEc2FpZc-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc",
+    "releases"
+   ],
+   "date": "2026-11-26T16:13:54+00:00"
+  },
+  {
+   "title": "Chainsaws 'Would Have Been Too Much' Even for GTA 6, as Rockstar Explains Why Some Extra Violent Weapons Are Missing",
+   "link": "https://www.ign.com/articles/chainsaws-would-have-been-too-much-even-for-gta-6-as-rockstar-explains-why-some-extra-violent-weapons-are-missing",
+   "summary": "Rockstar has explained why some extra violent weapons like chainsaws and katanas are missing from GTA 6.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-15-1795709349508.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T16:09:17+00:00"
+  },
+  {
+   "title": "How to steal the Bravado Banshee in GTA 6",
+   "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bravado-banshee-location/",
+   "summary": "The Bravado Banshee is another one of the cars you'll need to track down for Randy in GTA 6 , but unlike the Pegassi Infernus , this one doesn't involve anything as dodgy as robbing a police lockup. You can find this…",
+   "image": "https://cdn.mos.cms.futurecdn.net/oPRrJ8oDBSPTpwsNqTZvrj-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-26T16:02:38+00:00"
+  },
+  {
+   "title": "Talking Point: Ocarina Of Time Revolutionised The 3D Swordfight, But How Does The Remake Hold Up In A Vintage Year For Clashing Blades?",
+   "link": "https://www.nintendolife.com/features/talking-point-ocarina-of-time-revolutionised-the-3d-swordfight-but-how-does-the-remake-hold-up-in-a-vintage-year-for-clashing-blades",
+   "summary": "Finding the cutting edge of sword combat. Forget the hubbub around Grand Theft Auto . Big Walk ? Big deal. It’s all noise designed to distract us from 2026’s real legacy: that it’s been one of the best years on record…",
+   "image": "https://images.nintendolife.com/54756797ecfc9/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-26T16:00:00+00:00"
+  },
+  {
+   "title": "Hitman, 007 First Light PS5 Crossover Makes Lenny Kravitz Your New Ally",
+   "link": "https://www.pushsquare.com/news/2026/11/hitman-007-first-light-ps5-crossover-makes-lenny-kravitz-your-new-ally",
+   "summary": "Available now for free on PS5. It's a bit surprising this crossover hasn't already happened, to be honest, given IO Interactive is the studio behind both of the games, but it's now been confirmed a Hitman and 007 First…",
+   "image": "https://images.pushsquare.com/70f5cf392b140/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-26T16:00:00+00:00"
+  },
+  {
+   "title": "Digital Nintendo Switch and Switch 2 Games Are $30 for Black Friday",
+   "link": "https://www.ign.com/articles/digital-nintendo-switch-and-switch-2-games-are-30-for-black-friday",
+   "summary": "",
+   "image": "https://assets-prd.ignimgs.com/2026/02/21/dk-bananza-deals-1771709264905.png",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-26T15:49:15+00:00"
+  },
+  {
+   "title": "Score Palworld, V Rising, Subnautica: Below Zero, and More with This Humble Survival of the Fittest Bundle",
+   "link": "https://www.ign.com/articles/score-palworld-v-rising-subnautica-below-zero-and-more-with-this-humble-survival-of-the-fittest-bundle",
+   "summary": "",
+   "image": "https://assets-prd.ignimgs.com/2023/06/08/palwordreleasedateannouncementtrailer-ign-blogroll-1686257398374.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T15:49:00+00:00"
+  },
+  {
+   "title": "Spider-Man: Brand New Day Rerelease Includes a Scene Cut From Avengers: Doomsday",
+   "link": "https://www.ign.com/articles/spider-man-brand-new-day-rerelease-includes-a-scene-cut-from-avengers-doomsday",
+   "summary": "Spider-Man: Brand New Day rerelease includes a scene cut from Avengers: Doomsday, according to a new report.",
+   "image": "https://assets-prd.ignimgs.com/2026/08/03/peter-spidey-deck-blogroll-1785792270027.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T15:44:17+00:00"
+  },
+  {
+   "title": "GTA 6 reportedly sets massive livestreaming record, watched more in its first week than Elden Ring, Diablo 4, Valorant, and Lost Ark combined",
+   "link": "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record",
+   "summary": "Grand Theft Auto 6 has broken another livestreaming record. After attracting more viewers across livestreaming platforms than any game ever on its launch day, Rockstar's open-world crime sim has reportedly continued to…",
+   "image": "https://assetsio.gnwcdn.com/gta-6-vice-city-characters-gold-ak-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [
+    "esports",
+    "releases"
+   ],
+   "date": "2026-11-26T15:32:20+00:00"
+  },
+  {
+   "title": "Guide: 43 Switch 1 & 2 Games You Should Check Out In Nintendo's 'Adventure Awaits' eShop Sale (US)",
+   "link": "https://www.nintendolife.com/guides/43-switch-1-and-2-games-you-should-check-out-in-nintendos-adventure-awaits-eshop-sale-us",
+   "summary": "Every game we scored 9/10 or higher, plus a personal pick. Just a reminder that this sale runs until December 2nd, so you've still got plenty of time if you're after a bargain but can't bear the thought of the Black…",
+   "image": "https://images.nintendolife.com/5de74a44a4847/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-26T15:30:00+00:00"
+  },
+  {
+   "title": "GTA 6 Gives PS5 a Very Rare Win Over Switch 2 in Japan",
+   "link": "https://www.pushsquare.com/news/2026/11/gta-6-gives-ps5-a-very-rare-win-over-switch-2-in-japan",
+   "summary": "Score. At this point, it’s well known that Switch 2 is by far the market leader in Japan. While the PS5 still commands some marketshare, it gets dominated by the Nintendo machine on a weekly basis. Read the full article…",
+   "image": "https://images.pushsquare.com/9d5530aadf314/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation",
+    "nintendo"
+   ],
+   "date": "2026-11-26T15:30:00+00:00"
+  },
+  {
+   "title": "Xbox Console Sales Get A Huge Boost In The UK, While GTA 6 Breaks Records For Physical Games",
+   "link": "https://www.purexbox.com/news/2026/11/xbox-console-sales-get-a-huge-boost-in-the-uk-while-gta-6-breaks-records-for-physical-games",
+   "summary": "Series X and S sales received their biggest jump since 2024. We've got some new data coming out about the UK games market in November 2026 today, and unsurprisingly, it's a market that's been absolutely dominated by the…",
+   "image": "https://images.purexbox.com/b9f46e643ff43/small.jpg",
+   "source": "Pure Xbox",
+   "lang": "en",
+   "cats": [
+    "xbox"
+   ],
+   "date": "2026-11-26T15:30:00+00:00"
+  },
+  {
+   "title": "Rockstar Games employees vote against union recognition",
+   "link": "https://www.eurogamer.net/rockstar-games-employees-vote-against-union-recognition",
+   "summary": "Rockstar Games employees have voted against official recognition of the Rockstar Game Workers Union, with 93.2 percent of staff participating in the vote. Read more",
+   "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-character-4k-wallpaper-uhdpaper.com-269%401%40n.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T15:29:00+00:00"
+  },
+  {
+   "title": "Rockstar Games Issues Statement as Union Vote Fails",
+   "link": "https://www.ign.com/articles/rockstar-games-issues-statement-as-union-vote-fails",
+   "summary": "The Rockstar Games union vote has failed, with 75% voting against a recognition agreement with the IWGB Game Workers Union.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/rockstar-1795706483075.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T15:22:12+00:00"
+  },
+  {
+   "title": "The Witcher 3 Remastered Ver. 5.02 Update Is Now Live, Here Are The Full Patch Notes",
+   "link": "https://www.nintendolife.com/news/2026/11/the-witcher-3-remastered-ver-5-02-update-is-now-live-here-are-the-full-patch-notes",
+   "summary": "Toss a patch to your Witcher. CD Projekt Red is still sending out the patches for The Witcher III: Wild Hunt - Remastered , and the latest has gone live today. The ver. 5.02 update is now available, fixing all manner of…",
+   "image": "https://images.nintendolife.com/68e0a50601c2b/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-26T15:00:00+00:00"
+  },
+  {
+   "title": "The Witcher 3 Remastered Patch 5.02 Fixes Annoying PS5 Stutters, Improves Performance, and Much More",
+   "link": "https://www.pushsquare.com/news/2026/11/the-witcher-3-remastered-patch-5-02-fixes-annoying-ps5-stutters-improves-performance-and-much-more",
+   "summary": "A Witcher's work is never done. The Witcher 3 Remastered has a new update on PS5, and it's available to download right now, weighing in at a reasonable 1.6GB. Patch 5.02 is the one many have been waiting for, as it…",
+   "image": "https://images.pushsquare.com/21a5485cc1b7e/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-26T15:00:00+00:00"
+  },
+  {
+   "title": "Ubisoft now require their devs to explain why they aren't using genAI in game pitches, claims report, though the Assassin's Creed publishers deny they're mandating it",
+   "link": "https://www.rockpapershotgun.com/ubisoft-now-require-their-devs-to-explain-why-they-arent-using-genai-in-game-pitches-claims-report-though-the-assassins-creed-publishers-deny-theyre-mandating-it",
+   "summary": "Ubisoft, they of the recently revealed generative AI-focused game studio Motherbrain , have denied they're forcing new games being pitched by their developers to integrate use of genAI as a rule. The publishers'…",
+   "image": "https://assetsio.gnwcdn.com/farcry-tv-series-fx-rob-mac-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Rock Paper Shotgun",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-26T14:57:30+00:00"
+  },
+  {
+   "title": "Everything You Need To Know Ahead of The Delta Force Invitationals Grand Final",
+   "link": "https://www.ign.com/articles/everything-you-need-to-know-ahead-of-the-delta-force-invitationals-grand-final",
+   "summary": "",
+   "image": "https://assets-prd.ignimgs.com/2025/12/11/event-modes-1765453407381.png",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T14:54:03+00:00"
+  },
+  {
+   "title": "The 1933 King Kong Is Getting a 4K Steelbook and Collector’s Edition, Here’s Where You Can Preorder It",
+   "link": "https://www.ign.com/articles/king-kong-1933-4k-steelbook-where-to-buy",
+   "summary": "The original King Kong, from 1933, is officially getting a 4K release as a steelbook and collector's edition. Here's where it's available to preorder right now, and what comes with the collector's edition.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/king-kong-4k-steelbook-1795698794476.jpg",
+   "source": "IGN",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T14:50:19+00:00"
+  },
+  {
+   "title": "Por solo 6,24 euros y con un 88 en Metacritic: PS Store barre el precio de uno de los roguelikes más adictivos de la historia",
+   "link": "https://areajugones.sport.es/videojuegos/por-solo-624-euros-y-con-un-88-en-metacritic-ps-store-barre-el-precio-de-uno-de-los-roguelikes-mas-adictivos-de-la-historia/",
+   "summary": "Han pasado siete años desde el lanzamiento del que en su momento se convirtiera en uno de los juegos indies más rompedores de la historia: Slay the Spire. El roguelike de cartas dio con una fórmula jugable…",
+   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/slay-the-spire-oferta-ps-store-1-1024x577.jpg",
+   "source": "Areajugones",
+   "lang": "es",
+   "cats": [
+    "releases"
+   ],
+   "date": "2026-11-26T14:41:23+00:00"
+  },
+  {
+   "title": "GTA 6 Truffade Thrax: How to get Andrew Node's supercharged version",
+   "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-truffade-thrax-andrew-node-no-flusher/",
+   "summary": "Grabbing a Truffade Thrax in GTA 6 isn't too hard, but if you want Andrew Node's supercharged version, the true fastest car around, you'll need to complete a little collectible hunt. Before you start, it's worth noting…",
+   "image": "https://cdn.mos.cms.futurecdn.net/3DrBjzAVG2ardmUJ5SjaQn-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-26T14:37:19+00:00"
+  },
+  {
+   "title": "One Of 2025's Best Roguelikes Will Soon Be Free For Switch Online Members",
+   "link": "https://www.nintendolife.com/news/2026/11/one-of-2025s-best-roguelikes-will-soon-be-free-for-switch-online-members",
+   "summary": "Rogue 'em up until 3rd December. Nintendo is back with another Free Game Trial for all of its NSO members in Europe, and it's a real good'un this time. Last year's wonderful roguelike, Absolum , is the next game in the…",
+   "image": "https://images.nintendolife.com/b5fcb7992a479/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-26T14:30:00+00:00"
+  },
+  {
+   "title": "PS Plus Essential's Next Update Looks a Bit Better in Japan Than the Rest of the World",
+   "link": "https://www.pushsquare.com/news/2026/11/ps-plus-essentials-next-update-looks-a-bit-better-in-japan-than-the-rest-of-the-world",
+   "summary": "A different lineup overseas. It’s all subjective, of course, but Japan’s PS Plus Essential update for December 2026 looks a little bit better than what we’re getting in the west. While all regions will receive Tony…",
+   "image": "https://images.pushsquare.com/a5298dee7dd7f/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-26T14:30:00+00:00"
+  },
+  {
+   "title": "These budget-friendly pads are the cheapest, quickest way to instantly upgrade your setup for under $25",
+   "link": "https://www.pcgamer.com/hardware/game-pads/these-budget-friendly-pads-are-the-cheapest-quickest-way-to-instantly-upgrade-your-setup-for-under-usd25/",
+   "summary": "I've lost count of how many times I've settled down to play a brand-new game on Steam, only to be smacked in the face with a giant popup telling me to \"Grab a controller and kick back!\" instead of using my humble mouse…",
+   "image": "https://cdn.mos.cms.futurecdn.net/HnGQPuJEk2xU29aLtyyTSG-1920-80.jpg",
+   "source": "PC Gamer",
+   "lang": "en",
+   "cats": [
+    "pc"
+   ],
+   "date": "2026-11-26T14:20:36+00:00"
+  },
+  {
+   "title": "We are already in a world where people think about promoting games as human-made, Citizen Sleeper creator says",
+   "link": "https://www.eurogamer.net/citizen-sleeper-creator-gen-ai-human-made-games-signet-city",
+   "summary": "Citizen Sleeper creator Gareth Damian Martin - also known by their studio name Jump Over the Age - believes we're reaching a point of gen-AI saturation whereby game-makers are starting to counter-promote games as being…",
+   "image": "https://assetsio.gnwcdn.com/citizensleeper2_cropped.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T14:18:20+00:00"
+  },
+  {
+   "title": "After playing the game, 30% of polled GTA 6 players want to buy flowers for a loved one, 9% accidentally punched cats",
+   "link": "https://www.eurogamer.net/gta-6-30-percent-buy-flowers-punch-cats",
+   "summary": "A new survey of Grand Theft Auto 6 players has found some particularly interesting results. 30 percent came away from the game with the desire to buy someone special flowers. Nine percent punched cats. Read more",
+   "image": "https://assetsio.gnwcdn.com/cat-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T14:09:10+00:00"
+  },
+  {
+   "title": "Nintendo Promises To Fix The Long Load Times On Pikmin 4 - Switch 2 Edition",
+   "link": "https://www.nintendolife.com/news/2026/11/nintendo-promises-to-fix-the-long-load-times-on-pikmin-4-switch-2-edition",
+   "summary": "\"We apologise for the inconvenience\". Nintendo has issued a statement acknowledging load time issues on Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy on Switch 2. The company has promised to released a patch…",
+   "image": "https://images.nintendolife.com/226eca7fe50a1/small.jpg",
+   "source": "Nintendo Life",
+   "lang": "en",
+   "cats": [
+    "nintendo"
+   ],
+   "date": "2026-11-26T14:00:00+00:00"
+  },
+  {
+   "title": "Feature: 80+ PS5, PS4 Games to Buy in PS Store's Updated Black Friday Sale (North America/Europe)",
+   "link": "https://www.pushsquare.com/features/80plus-ps5-ps4-games-to-buy-in-ps-stores-updated-black-friday-sale-north-americaeurope",
+   "summary": "PS5 and PS4 games going cheap we recommend. The PS Store's Black Friday sale is on now, running until 30th November, 2026. As with nearly every offer in Sony's digital store, there are literally thousands of PS5 and PS4…",
+   "image": "https://images.pushsquare.com/6a7a113f0bf1a/small.jpg",
+   "source": "Push Square",
+   "lang": "en",
+   "cats": [
+    "playstation"
+   ],
+   "date": "2026-11-26T14:00:00+00:00"
+  },
+  {
+   "title": "Witcher 3 Remastered Gets Its Next Update On Xbox & PC, Full Patch Notes Revealed",
+   "link": "https://www.purexbox.com/news/2026/11/witcher-3-remastered-gets-its-next-update-on-xbox-and-pc-full-patch-notes-revealed",
+   "summary": "\"Two things are certain in a witcher's life: the Path never sleeps, and the work is never done.\". Here comes another new patch for The Witcher 3: Wild Hunt - Remastered . The latest update arrived today (November 26)…",
+   "image": "https://images.purexbox.com/a5644608273bd/small.jpg",
+   "source": "Pure Xbox",
+   "lang": "en",
+   "cats": [
+    "xbox",
+    "pc"
+   ],
+   "date": "2026-11-26T14:00:00+00:00"
+  },
+  {
+   "title": "\"I'm betting on the sickos\" - Signet City plans to 'expand the scope of RPGs' by drawing on the success of Citizen Sleeper",
+   "link": "https://www.eurogamer.net/citizen-sleeper-signet-city-fungalpunk-1980s-rpg",
+   "summary": "When I last spoke to Citizen Sleeper creator Gareth Damian Martin, it was on the eve of Citizen Sleeper 2's release . Like its predecessor, the game was a critical hit, cementing Damian Martin's reputation as one of the…",
+   "image": "https://assetsio.gnwcdn.com/signet-city-no-logo.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "lang": "en",
+   "cats": [],
+   "date": "2026-11-26T13:54:50+00:00"
+  },
   {
    "title": "Fans report Umamusume: Pretty Derby AI clone brimming with ads, Cygames gets it taken offline",
    "link": "https://www.eurogamer.net/umamusame-pretty-derby-ai-clone-taken-off-mobile-after-reports",
@@ -361,16 +1303,6 @@
    "date": "2026-11-26T10:11:09+00:00"
   },
   {
-   "title": "The Best Black Friday Deals Worth Browsing on Thanksgiving Day",
-   "link": "https://www.ign.com/articles/black-friday-sales-2026-best-deals-live",
-   "summary": "",
-   "image": "https://assets-prd.ignimgs.com/2026/11/26/megapost-1795684972620.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-26T10:00:00+00:00"
-  },
-  {
    "title": "GTA 6 reinvigorates PlayStation 5 and Xbox Series S/X console sales in the US, even at their inflated prices",
    "link": "https://www.eurogamer.net/playstation-5-xbox-series-s-x-console-hardware-sales-gta-6",
    "summary": "Despite the far higher prices of PlayStation and Xbox consoles today compared to their launch, or even the same period last year, both brands of console saw a significant boost in US sales leading up to the launch of…",
@@ -569,16 +1501,6 @@
    "lang": "en",
    "cats": [],
    "date": "2026-11-26T02:53:27+00:00"
-  },
-  {
-   "title": "reMarkable’s Super Digital Reader Bundle Lets You Get More Than Double the Savings",
-   "link": "https://www.ign.com/articles/remarkables-super-digital-reader-bundle-lets-you-get-more-than-double-the-savings",
-   "summary": "Grab two bundles and get even more savings.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/26/remarkablepaperpromove-1795656837887.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-26T02:30:00+00:00"
   },
   {
    "title": "Nex Playground Hits Lowest Price This Year for Black Friday",
@@ -862,16 +1784,6 @@
    "date": "2026-11-25T21:08:54+00:00"
   },
   {
-   "title": "Eureka Ergonomic Has Black Friday Deals to Give Your Space the Upgrade It Needs",
-   "link": "https://www.ign.com/articles/eureka-ergonomic-has-black-friday-deals-to-give-your-space-the-upgrade-it-needs",
-   "summary": "Professional office or gamer vibes? The choice is yours.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/20/eurekaergonomic-1795207927744.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-25T21:05:00+00:00"
-  },
-  {
    "title": "Guía de capítulos de 'Blade Runner 2099': número de episodios y fechas de estreno en Amazon Prime Video",
    "link": "https://areajugones.sport.es/series/guia-de-capitulos-de-blade-runner-2099-numero-de-episodios-y-fechas-de-estreno-en-amazon-prime-video/",
    "summary": "Los seguidores de la ciencia ficción están de enhorabuena. Esta semana se estrena una nueva serie sobre una de las franquicias más famosas del género. Hablamos de 'Blade Runner 2099', la primera serie de acción real…",
@@ -1014,16 +1926,6 @@
    "lang": "en",
    "cats": [],
    "date": "2026-11-25T19:25:26+00:00"
-  },
-  {
-   "title": "The Beats Studio Pro Noise Canceling Headphones Drops Below $100 For the First Time for Black Friday",
-   "link": "https://www.ign.com/articles/beats-studio-pro-noise-canceling-headphones-deal-black-friday-sale-2026",
-   "summary": "The best noise canceling headphone deal you can get right now.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/23/beatsstudioproblackwhite-1795472270319.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-25T19:20:00+00:00"
   },
   {
    "title": "Controles ocultos de GTA VI: los 69 trucos del mando que el juego nunca te explica",
@@ -1358,898 +2260,6 @@
     "pc"
    ],
    "date": "2026-11-25T17:00:50+00:00"
-  },
-  {
-   "title": "Another Gaming Console Price Hike Could Be Coming, Thanks To New Tariffs",
-   "link": "https://www.gamespot.com/articles/another-gaming-console-price-hike-could-be-coming-thanks-to-new-tariffs/",
-   "summary": "The US government has announced a new round of tariffs targeting several major countries, including China, Japan, Vietnam, and European Union trading partners. Under the proposed tariffs, import taxes will rise…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/08/4540889-9441912227-ps5-p.webp?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-25T17:00:26+00:00"
-  },
-  {
-   "title": "The Newest Apple Watch SE 3 Just Dropped to a New Price Low for Black Friday",
-   "link": "https://www.ign.com/articles/apple-watch-se-3-deal-november-2026",
-   "summary": "The least expensive Apple Watch is now even cheaper.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/23/applewatchse3-1795392136877.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-25T17:00:00+00:00"
-  },
-  {
-   "title": "Xbox Controllers Are Back to Their Lowest Price for the Year on Amazon — Perfect Time To Grab a Spare for GTA 6",
-   "link": "https://www.ign.com/articles/xbox-controller-black-friday-deals",
-   "summary": "Amazon has dropped Xbox controllers to just £39.99 for Black Friday, matching their lowest price of 2026 across several colours",
-   "image": "https://assets-prd.ignimgs.com/2026/11/21/xbox-controller-black-friday-deals-gta-6-lucia-cover-1795270562178.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "xbox"
-   ],
-   "date": "2026-11-25T17:00:00+00:00"
-  },
-  {
-   "title": "Alienware's OLED Gaming Monitors Drop to New Price Lows for Black Friday, Starting From Just $280",
-   "link": "https://www.ign.com/articles/alienware-black-friday-sale-gaming-monitor-deals-2026",
-   "summary": "What good is a powerful gaming PC without a monitor capable of showcasing its glory?",
-   "image": "https://assets-prd.ignimgs.com/2026/11/19/alienwareaw3926qw-1795131254562.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-25T16:50:00+00:00"
-  },
-  {
-   "title": "The Alienware Aurora RTX 5070 Gaming PC Drops to $1,899 at Amazon for Black Friday",
-   "link": "https://www.ign.com/articles/alienware-aurora-rtx-5070-gaming-pc-deal-november-2026",
-   "summary": "The same configuration is \"on sale\" for $2,660 at Dell/Alienware direct.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/22/alienwareaurorar162-1795388084075.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-25T16:50:00+00:00"
-  },
-  {
-   "title": "The Best Black Friday Prebuilt Gaming PC Deals Are Already Going Live Now",
-   "link": "https://www.ign.com/articles/best-black-friday-gaming-pc-deals-black-friday-sale-2026",
-   "summary": "From RTX 5060 to RTX 5080, the sales are coming in, but also selling out quickly.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/23/cyberpowerpc7-1795457313622.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-25T16:50:00+00:00"
-  },
-  {
-   "title": "PS Plus Essential Games for December 2026 Announced",
-   "link": "https://www.pushsquare.com/news/2026/11/ps-plus-essential-games-for-december-2026-announced",
-   "summary": "Skateboards, spiky hair, and scares. Sony’s announced the December 2026 lineup for PS Plus Essential , with three games available for all base subscribers to download from Tuesday, 1st December, 2026. They are: Read the…",
-   "image": "https://images.pushsquare.com/77d92d244a597/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-25T16:45:00+00:00"
-  },
-  {
-   "title": "Why did Rockstar Games make empathy a key mechanic in GTA 6? \"Because it's fun\" says head of development Rob Nelson",
-   "link": "https://www.eurogamer.net/gta-6-empathy-criminal-profile-why-rockstar-added-it-rob-nelson",
-   "summary": "There's been plenty of chatter about Grand Theft Auto 6 's 'honour system', so to speak, implemented here via what the game calls your Criminal Profile. Read more",
-   "image": "https://assetsio.gnwcdn.com/GTA-6-review-14.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-25T16:42:30+00:00"
-  },
-  {
-   "title": "Paradox grand strategy Afterworld has a wasteland band mechanic that sounds worryingly like a continent-sized game of The Sims",
-   "link": "https://www.rockpapershotgun.com/paradox-grand-strategy-afterworld-has-a-wasteland-band-mechanic-that-sounds-worryingly-like-a-continent-sized-game-of-the-sims",
-   "summary": "Much like a huge dust cloud gradually resolving into an army of skull-painted bikers, Paradox's post-apocalyptic grand strategy game Afterworld continues to take shape in the course of developer blog posts. The latest…",
-   "image": "https://assetsio.gnwcdn.com/afterworld.png?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-25T16:42:00+00:00"
-  },
-  {
-   "title": "Lords Of The Fallen 2 Delayed Yet Again",
-   "link": "https://www.gamespot.com/articles/lords-of-the-fallen-2-delayed-yet-again/",
-   "summary": "CI Games has announced that Lords of the Fallen II is coming in April 2027, meaning it's been delayed again. An exact release date will be announced in December, the company said, and people are theorizing that could…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/lordsofthefallen2.png?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [
-    "releases"
-   ],
-   "date": "2026-11-25T16:38:22+00:00"
-  },
-  {
-   "title": "PS Plus diciembre 2026: Oficiales los próximos juegos gratis mensuales, con Tony Hawk y Dragon Ball como protagonistas",
-   "link": "https://areajugones.sport.es/videojuegos/ps-plus-diciembre-2026-oficiales-los-proximos-juegos-gratis-mensuales-con-tony-hawk-y-dragon-ball-como-protagonistas/",
-   "summary": "PlayStation ya ha confirmado oficialmente cuáles son los nuevos juegos mensuales que estarán disponibles sin coste adicional para todos los suscriptores de PS Plus, ya sean miembros del rango Essential, Extra y Premium.…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/ps-plus-tony-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-25T16:36:57+00:00"
-  },
-  {
-   "title": "PlayStation Plus Free Games For December 2026 Revealed",
-   "link": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-december-2026/",
-   "summary": "PlayStation has revealed this month's batch of free games for PlayStation Plus subscribers. All PS Plus members will be able to claim a trio of freebies starting December 1-- Tony Hawk's Pro Skater 3+4 , Dragon Ball…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/PS-Plus-December-2026.jpg?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-25T16:32:11+00:00"
-  },
-  {
-   "title": "Star Trek: Voyager - Across The Unknown Final DLC Ventures To Switch 2 Next Month",
-   "link": "https://www.nintendolife.com/news/2026/11/star-trek-voyager-across-the-unknown-final-dlc-ventures-to-switch-2-next-month",
-   "summary": "The Year of Hell is right around the corner. Daedalic Entertainment and GameXcite are wrapping up the bonus content for Star Trek: Voyager - Across The Unknown with one final wave of DLC. The 'Year of Hell' expansion…",
-   "image": "https://images.nintendolife.com/74626a9bf4381/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-25T16:30:00+00:00"
-  },
-  {
-   "title": "Someone counted all 5,588 buildings in GTA 6, and it turns out you can go inside 28% of them",
-   "link": "https://www.pcgamer.com/games/grand-theft-auto/someone-counted-all-5-588-buildings-in-gta-6-and-it-turns-out-you-can-go-inside-28-percent-of-them/",
-   "summary": "Grand Theft Auto 6 hasn't even been out for a week yet, and someone has already done the math on how many buildings in the whole of Leonida you can actually walk into. For those of you who are curious: it's 1,563…",
-   "image": "https://cdn.mos.cms.futurecdn.net/X5bwnU4v3okUuzcqFbJz63-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-25T16:24:15+00:00"
-  },
-  {
-   "title": "World of Warcraft: Forever's best new enchantment has been quietly changed, leaving some casters on the back foot",
-   "link": "https://www.eurogamer.net/world-of-warcraft-forever-revelation-enchantment-nerfed",
-   "summary": "As World of Warcraft: Forever players dived into the game, they quickly discovered a specific weapon enchant that took area of effect spells to a whole other level. Sadly, with a sudden hotfix last night, this…",
-   "image": "https://assetsio.gnwcdn.com/world-of-warcraft-skyborne-jpg.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-25T16:13:50+00:00"
-  },
-  {
-   "title": "How to steal the Pegassi Infernus in GTA 6",
-   "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pegassi-infernus-location/",
-   "summary": "Stealing the Pegassi Infernus in GTA 6 can be quite tricky, considering it's being held in the police department lockup, the building to the west of the police station in southwest Crosstown. You can access the building…",
-   "image": "https://cdn.mos.cms.futurecdn.net/cSMhCzgd23bambkhDRa2C3-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-25T16:10:20+00:00"
-  },
-  {
-   "title": "PS5 And Xbox Series X|S Console Sales Surged Just Before GTA 6 Came Out",
-   "link": "https://www.gamespot.com/articles/ps5-and-xbox-series-xs-console-sales-surged-just-before-gta-6-came-out/",
-   "summary": "Rockstar's Grand Theft Auto 6 is finally here, and to play the game natively, you need a PlayStation 5 or Xbox Series X|S. Unsurprisingly, new data shows that PlayStation and Xbox console sales surged in the week before…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_19_68f4ee.jpg?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [
-    "playstation",
-    "xbox"
-   ],
-   "date": "2026-11-25T16:05:50+00:00"
-  },
-  {
-   "title": "Final Fantasy Resonance Devs Surprised by How Many Fans Wanted a Traditional, Turn-Based RPG",
-   "link": "https://www.pushsquare.com/news/2026/11/final-fantasy-resonance-devs-surprised-by-how-many-fans-wanted-a-traditional-turn-based-rpg",
-   "summary": "Action (not) required. Final Fantasy Resonance has been one of the most positively-received Square Enix games in ages — but its developers were never fully convinced that it would, er, resonate on the scale that it has.…",
-   "image": "https://images.pushsquare.com/e1065ad268165/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-25T16:00:00+00:00"
-  },
-  {
-   "title": "In good news for certain Slay the Spire 2 bosses, Mega Crit's latest beta patch is \"mostly Fool-centric\", with an absolute rain of nerfs",
-   "link": "https://www.rockpapershotgun.com/in-good-news-for-certain-slay-the-spire-2-bosses-mega-crits-latest-beta-patch-is-mostly-fool-centric-with-an-absolute-rain-of-nerfs",
-   "summary": "No! I am not the Ironclad, nor was meant to be; am an attendant lord, one that will do to bind a necro, Exhaust a scene or two, advise the Regent; no doubt, an easy tool, Defective, glad to be of use, Politic, Silent,…",
-   "image": "https://assetsio.gnwcdn.com/slay-the-spire-2_DAhafo5.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-25T15:45:00+00:00"
-  },
-  {
-   "title": "Is GTA 6 Too Easy? Rockstar Weighs In",
-   "link": "https://www.gamespot.com/articles/is-gta-6-too-easy-rockstar-weighs-in/",
-   "summary": "Grand Theft Auto 6 is finally here, and one of the things people are talking about is the game's difficulty level . Some are saying it's too easy. Rockstar boss Rob Nelson has now entered the conversation, telling…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTAVintage-3.png?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-25T15:36:59+00:00"
-  },
-  {
-   "title": "Hollow Knight: Silksong devs announce a livestream for Friday, promise updates on the hotly-anticipated Sea of Sorrow DLC",
-   "link": "https://www.eurogamer.net/hollow-knight-silksong-dlc-livestream-sea-of-sorrows-update",
-   "summary": "Hollow Knight: Silksong developer Team Cherry has announced it will host a 'Cherry Time Special Presentation' on 27th November, bringing more information to light about the game's first big DLC offering, Sea of Sorrows.…",
-   "image": "https://assetsio.gnwcdn.com/cherry-time.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-25T15:32:40+00:00"
-  },
-  {
-   "title": "Hollow Knight: Silksong DLC News Is Coming This Week In A Team Cherry 'Special Presentation'",
-   "link": "https://www.nintendolife.com/news/2026/11/hollow-knight-silksong-dlc-news-is-coming-this-week-in-a-team-cherry-special-presentation",
-   "summary": "DLSEA of Sorrow. What's that? Silksong news? You're damn right it is! Team Cherry has announced that it'll be hosting a 'Cherry Time!' special presentation this week on 27th November at 3pm GMT / 7am PT / 10am ET ,…",
-   "image": "https://images.nintendolife.com/5e8ad7f83348f/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-25T15:30:00+00:00"
-  },
-  {
-   "title": "Feature: Seven Improvements We'd Still Love To See In GTA 6",
-   "link": "https://www.purexbox.com/features/seven-improvements-wed-still-love-to-see-in-gta-6",
-   "summary": "Grander Theft Auto. There's no two ways about it: GTA VI is a blummin' brilliant game, well worthy of its universally acclaimed 99 Metacritic score. But just because we gave it a 10/10 here at Pure Xbox doesn't mean…",
-   "image": "https://images.purexbox.com/af89fcded456c/small.jpg",
-   "source": "Pure Xbox",
-   "lang": "en",
-   "cats": [
-    "xbox"
-   ],
-   "date": "2026-11-25T15:30:00+00:00"
-  },
-  {
-   "title": "Hollow Knight: Silksong’s First Expansion Details Coming Friday, Here’s How To Watch",
-   "link": "https://www.gamespot.com/articles/hollow-knight-silksongs-first-expansion-details-coming-friday-heres-how-to-watch/",
-   "summary": "Hollow Knight: Silksong was such a highly anticipated sequel that it became a meme, so naturally as soon as it released, Hollow Knight fans started looking forward to the next big event: the promised Sea of Sorrow…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/images_8aabe5.jpg?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-25T15:27:27+00:00"
-  },
-  {
-   "title": "GTA 6 recompilers and vibe-coders implore AI chatbots to 'work faster' and 'make no mistakes' as they race to get the game running on PC",
-   "link": "https://www.eurogamer.net/grand-theft-auto-6-gen-ai-chatbots-work-faster-prompts",
-   "summary": "Things continue to get messy in the community of players working on getting Grand Theft Auto 6 working on PC. The previous frontrunner, Project Leonida, got their Discord server and GitHub repository taken down by…",
-   "image": "https://assetsio.gnwcdn.com/gta-6-vice-city-car-interior-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-25T15:19:10+00:00"
-  },
-  {
-   "title": "EA Sports FC 27 to resurrect John Motson with help from generative AI, because apparently football games need someone yelling about goals from beyond the grave",
-   "link": "https://www.rockpapershotgun.com/ea-sports-fc-27-to-resurrect-john-motson-with-help-from-generative-ai-because-apparently-football-games-need-someone-yelling-about-goals-from-beyond-the-grave",
-   "summary": "In today's instance of a sentence I never thought I'd write, English football commentator John Motson has followed in the footsteps of Darth Vader . In the latest instance of a game featuring a dead celebrity's voice…",
-   "image": "https://assetsio.gnwcdn.com/ea-sports-fc-27-mbappe.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-25T15:12:40+00:00"
-  },
-  {
-   "title": "Witcher 4 Won’t Be A PS5 Exclusive After New Deal With PlayStation",
-   "link": "https://www.gamespot.com/articles/witcher-4-wont-be-a-ps5-exclusive-after-new-deal-with-playstation/",
-   "summary": "CD Projekt Red and Sony Interactive Entertainment just announced a marketing deal for The Witcher 4 , but that doesn't mean the game will be exclusive to PlayStation. CD Projekt Red's Michał Nowakowski said on social…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Witcher.png?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-25T15:03:19+00:00"
-  },
-  {
-   "title": "PS5's Most Overlooked Action Game of 2026 Gets a Complete Edition Next Year",
-   "link": "https://www.pushsquare.com/news/2026/11/ps5s-most-overlooked-action-game-of-2026-gets-a-complete-edition-next-year",
-   "summary": "Nioh's the time. Nioh 3 is getting a 'Complete Edition' early next year, Koei Tecmo has confirmed. It'll include the base adventure alongside its two expansions, Hell Rising and Bloody Insurrection. The latter isn't…",
-   "image": "https://images.pushsquare.com/a0a56b4854d3a/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-25T15:00:00+00:00"
-  },
-  {
-   "title": "GTA 6’s Fake Tunnel Is A Great Way To Turn Your Muscle Car Into Scrap Metal",
-   "link": "https://www.gamespot.com/articles/gta-6-fake-tunnel-is-a-great-way-to-turn-your-muscle-car-into-scrap-metal/",
-   "summary": "GTA 6 has no shortage of forces trying to put a damper on your crime spree, but the long arm of the law might be the least of your worries if you're planning a successful caper in Vice City. As players have discovered,…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-Wall.jpg?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-25T14:55:37+00:00"
-  },
-  {
-   "title": "Yooka-Laylee And The Impossible Lair Is Getting A Definitive Edition On Switch 2",
-   "link": "https://www.nintendolife.com/news/2026/11/yooka-laylee-and-the-impossible-lair-is-getting-a-definitive-edition-on-switch-2",
-   "summary": "And it's out next month! Publisher Playtonic is bringing Yooka-Laylee and the Impossible Lair: Definitive Edition to the Switch 2 on 15th December 2026 . While the original release was already critically-acclaimed for…",
-   "image": "https://images.nintendolife.com/633db6b5f6cf2/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-25T14:45:00+00:00"
-  },
-  {
-   "title": "Letter from the Editor(s) #21: That game everyone is and isn't playing, and how we report on AI",
-   "link": "https://www.rockpapershotgun.com/letter-from-the-editors-21-that-game-everyone-is-and-isnt-playing-and-how-we-report-on-ai",
-   "summary": "Hello and welcome to an unusually not-Supporter exclusive ed letter, its paywall laying unbuilt so we can exchange some Real Talk with as many RPS readers as possible. Read more",
-   "image": "https://assetsio.gnwcdn.com/Mahoney-Oliver-Twist.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-25T14:41:50+00:00"
-  },
-  {
-   "title": "GTA 6 Causes PS5 Consoles to Sell Out in US Before Black Friday",
-   "link": "https://www.pushsquare.com/news/2026/11/gta-6-causes-ps5-consoles-to-sell-out-in-us-before-black-friday",
-   "summary": "Good luck getting one. Sony’s struggling to meet demand for the PS5 following last week’s release of GTA 6 . Many major retailers in the US, including PS Direct , are currently completely sold out of the system –…",
-   "image": "https://images.pushsquare.com/d512d5d904f3f/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-25T14:30:00+00:00"
-  },
-  {
-   "title": "70+ Songs Now Confirmed For Stage Tour Ahead Of December Xbox Release",
-   "link": "https://www.purexbox.com/news/2026/11/70plus-songs-now-confirmed-for-stage-tour-ahead-of-december-xbox-release",
-   "summary": "Including RHCP, Fall Out Boy, Metallica & more! We've got quite a few interesting Xbox releases still to come in December, and one of them that we've been keeping a close eye on is Stage Tour , which is a new Guitar…",
-   "image": "https://images.purexbox.com/a167d159a837c/small.jpg",
-   "source": "Pure Xbox",
-   "lang": "en",
-   "cats": [
-    "xbox"
-   ],
-   "date": "2026-11-25T14:30:00+00:00"
-  },
-  {
-   "title": "How to steal an ATM and get a winched vehicle in GTA 6",
-   "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-atm-winched-vehicle/",
-   "summary": "Stealing an ATM in GTA 6 requires a few different things: a winched vehicle to haul it out of the wall and drive off, plus the dye pack jammer that stops marked bills from exploding pink all over your lovely cash. There…",
-   "image": "https://cdn.mos.cms.futurecdn.net/2bsbrPohC2jrFUKms54Zqi-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-25T14:27:50+00:00"
-  },
-  {
-   "title": "GTA 6 Modders Are Trying To Vibe-Code A PC Port, And It’s Not Going Well",
-   "link": "https://www.gamespot.com/articles/gta-6-modders-are-trying-to-vibe-code-a-pc-port-and-its-not-going-well/",
-   "summary": "PC modders are racing to get GTA 6 playable on PC after the leak of the game's complete Xbox build , but so far it doesn't look too promising. GTA 6 publisher Take-Two Interactive and developer Rockstar Games haven't…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-28-2.jpg?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [
-    "pc",
-    "xbox"
-   ],
-   "date": "2026-11-25T14:23:37+00:00"
-  },
-  {
-   "title": "Lo mejor que han hecho los creadores de Until Dawn desde aquel éxito de PS4 tiene un 90% de descuento en PS Store",
-   "link": "https://areajugones.sport.es/videojuegos/lo-mejor-que-han-hecho-los-creadores-de-until-dawn-desde-aquel-exito-de-ps4-tiene-un-90-de-descuento-en-ps-store/",
-   "summary": "A todo el mundo le gusta una buena aventura en solitario, pero los juegos cooperativos pueden hacernos vivir momentos inolvidables. The Quarry, de la mano de Supermassive Games, es un videojuego que aborda ambos…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/black-friday-the-quarry-1-1024x578.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-25T14:17:12+00:00"
-  },
-  {
-   "title": "Even Max Verstappen has succumbed to GTA 6 fever, squeezing in 40 hours around his Las Vegas Grand Prix win",
-   "link": "https://www.pcgamer.com/games/grand-theft-auto/even-max-verstappen-has-succumbed-to-gta-6-fever-squeezing-in-40-hours-around-his-las-vegas-grand-prix-win/",
-   "summary": "Grand Theft Auto 6 has managed to get its claws into just about everyone. Honestly, I can't go anywhere without hearing something from the soundtrack or someone talking about how much fun it is to joyride around…",
-   "image": "https://cdn.mos.cms.futurecdn.net/CQTzhRbNRKLtjyYiPMkaDh-1920-80.jpg",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-25T14:15:51+00:00"
-  },
-  {
-   "title": "El increible lore de GTA VI que te estás perdiendo por no ir en pareja: así puedes descubrir el pasado de Jason y Lucía",
-   "link": "https://areajugones.sport.es/videojuegos/el-lore-de-gta-vi/",
-   "summary": "Una de las mayores virtudes de GTA VI es la cantidad de pequeños detalles que Rockstar ha escondido por todo Leonida. Sin embargo, algunos de los descubrimientos más interesantes no están relacionados con los vehículos,…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/lore-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-25T14:15:35+00:00"
-  },
-  {
-   "title": "The Witcher 4 Wants To Be The GTA 6 Of The Witcher Franchise",
-   "link": "https://www.gamespot.com/articles/the-witcher-4-wants-to-be-the-gta-6-of-the-witcher-franchise/",
-   "summary": "There's been a massive gap between new entries in The Witcher series, and for The Witcher 4 , developer CD Projekt Red aims to make it the GTA 6 of the series, with a noticeable leap in quality. In its Q3 earnings call,…",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/The-Witcher-4.jpg?w=300",
-   "source": "GameSpot",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-25T14:15:08+00:00"
-  },
-  {
-   "title": "I'm having a much better time in GTA 6 now I've disabled its pesky Criminal Profile pings",
-   "link": "https://www.eurogamer.net/im-having-a-much-better-time-in-gta-6-now-ive-disabled-its-pesky-criminal-profile-pings",
-   "summary": "Do you think you'd enjoy invasive UI elements in real life? You crouch to fuss your dog, and a little ping activates in your retina, informing you that you've just earned plus-three serotonin. Your boss chews you out…",
-   "image": "https://assetsio.gnwcdn.com/gta-lucia-psycho.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-25T14:06:00+00:00"
-  },
-  {
-   "title": "Max Verstappen, campeón del mundo de F1, ya lleva el 80% de GTA VI: \"No estoy entendiendo la historia\"",
-   "link": "https://areajugones.sport.es/videojuegos/max-verstappen-campeon-del-mundo-de-f1-ya-lleva-el-80-de-gta-vi-no-estoy-entendiendo-la-historia/",
-   "summary": "El cuatro veces campeón del mundo de F1, Max Verstappen, ha sorprendido al afirmar que ya lleva el 80% de progreso en GTA VI tras jugarlo durante más de 40 horas. También sorprende que haya alcanzado esa cantidad de…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/gta-vi-verstappen-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-25T14:00:57+00:00"
-  },
-  {
-   "title": "Any official GTA 6 PC port’s ability to deliver a proper first person mode would be its biggest ace in the hole, so reckon I, a traitor",
-   "link": "https://www.rockpapershotgun.com/official-gta-6-pc-port-proper-first-person-mode-would-be-biggest-ace-in-the-hole",
-   "summary": "I’ve been playing GTA 6 on PS5. To be fair, I’ve made no secret of my plans to do just that if you’ve read any of our recent roundups of what everyone’s playing over the weekend . I can understand why it might leave a…",
-   "image": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-35.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc",
-    "playstation"
-   ],
-   "date": "2026-11-25T14:00:00+00:00"
-  },
-  {
-   "title": "Feature: 8 Ways To Make Zelda: Ocarina Of Time More Difficult",
-   "link": "https://www.nintendolife.com/features/8-ways-to-make-zelda-ocarina-of-time-more-difficult",
-   "summary": "Switch 2 hard mode. While it's less likely for players enjoying Ocarina of Time for the first time, veterans may well find the game a bit easy. More than just knowing the geography and where to find key items, certain…",
-   "image": "https://images.nintendolife.com/d13caead8eb4a/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-25T14:00:00+00:00"
-  },
-  {
-   "title": "Skate PS5 Moving Away from Seasons, Adds Proximity Chat, New Mode, More in Next Update",
-   "link": "https://www.pushsquare.com/news/2026/11/skate-ps5-moving-away-from-seasons-adds-proximity-chat-new-mode-more-in-next-update",
-   "summary": "Changing the game. Skate , the free-to-play skateboarding game that's still in Early Access, is ditching its seasonal approach moving forward, publisher EA has confirmed . The always-online, shared world game has been…",
-   "image": "https://images.pushsquare.com/8817430fd7581/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-25T14:00:00+00:00"
-  },
-  {
-   "title": "Blizzard is making a lot of the Diablo 4's event-specific Diablo 2 anniversary content permanent because everyone loved it in Season 15",
-   "link": "https://www.eurogamer.net/diablo-4-season-16-keeping-season-15-diablo-2-anniversary",
-   "summary": "Blizzard has officially unveiled Diablo 4 's next live-service season: Season of Tyrael's Gambit. This is the ARPG's 16th season, and it follows on from the popular and well-received Season of Hell's Legacy. Read more",
-   "image": "https://assetsio.gnwcdn.com/diablo-4-season-of-hells-legacy-keyart-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-25T13:51:10+00:00"
-  },
-  {
-   "title": "\"Maybe They Hate Me, But I Love Nintendo\" - Kamiya Shares His Collaboration Bucket List",
-   "link": "https://www.nintendolife.com/news/2026/11/maybe-they-hate-me-but-i-love-nintendo-kamiya-shares-his-collaboration-bucket-list",
-   "summary": "Nintendo, Konami, Square Enix... you name it! It has been a long old time since we've heard anything from Hideki Kamiya's YouTube channel. The legendary designer kept us fed with gossip, grievances, and game dev stories…",
-   "image": "https://images.nintendolife.com/d542b64b83ffe/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-25T13:45:00+00:00"
-  },
-  {
-   "title": "Tired of GTA 6? Here's 23 lesser-known gems that might beat it at its own game",
-   "link": "https://www.eurogamer.net/gta-6-23-lesser-known-gems-that-might-beat-it-at-its-own-game",
-   "summary": "You can do a lot of things in GTA 6 : fishing, golfing, running, jumping, dancing, racing, roaming, shopping. It goes on! There's romancing, birdwatching, DIY, and even more besides. It really is an everything game. But…",
-   "image": "https://assetsio.gnwcdn.com/not-gta-header-resize.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-25T13:41:40+00:00"
-  },
-  {
-   "title": "Inside Retro Reset, the \"really inspirational\" father and son project teaching kids about classic games hardware from aboard a converted bus",
-   "link": "https://www.rockpapershotgun.com/inside-retro-reset-the-really-inspirational-father-and-son-project-teaching-kids-about-classic-games-hardware-from-aboard-a-converted-bus",
-   "summary": "At first the kids jostle to get to the games that they know. \"Welcome to the Retro Reset Bus,\" says Luke Stoner as the students push to get to the screen that’s caught their eye. Sonic on the Sega Mega Drive is the…",
-   "image": "https://assetsio.gnwcdn.com/Retro-Reset-bus-interior.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-25T13:00:20+00:00"
-  },
-  {
-   "title": "Lords Of The Fallen 2 Launches April 2027, Final Date Coming Next Month",
-   "link": "https://www.nintendolife.com/news/2026/11/lords-of-the-fallen-2-launches-april-2027-final-date-coming-next-month",
-   "summary": "Escaping the 2026 deluge. Publisher CI Games has announced that Lords of the Fallen 2 will launch in April 2027 . This comes via a social media post from founder and CEO Marek Tyminski (thanks, Gematsu ), who simply…",
-   "image": "https://images.nintendolife.com/9beb5d88f77f9/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo",
-    "releases"
-   ],
-   "date": "2026-11-25T13:00:00+00:00"
-  },
-  {
-   "title": "Cyberpunk 2 Development Really Ramping Up as Team Targets Big 2027",
-   "link": "https://www.pushsquare.com/news/2026/11/cyberpunk-2-development-really-ramping-up-as-team-targets-big-2027",
-   "summary": "Everyone's Chippin' In. 2027 will likely be a pivotal year for Cyberpunk 2 as it rockets towards full production, with CD Projekt Red anticipating significant expansion to the sequel's development team. Since the…",
-   "image": "https://images.pushsquare.com/2088508e22419/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-25T13:00:00+00:00"
-  },
-  {
-   "title": "One Of The Most Successful VR Games Of All Time Is Coming To Xbox In January 2027",
-   "link": "https://www.purexbox.com/news/2026/11/one-of-the-most-successful-vr-games-of-all-time-is-coming-to-xbox-in-january-2027",
-   "summary": "Say hello to the flatscreen version of Arizona Sunshine. If you've ever owned any kind of VR headset in your life, you've probably come across a game known as Arizona Sunshine , and we're pleased to say that its new…",
-   "image": "https://images.purexbox.com/753c2567d3f59/small.jpg",
-   "source": "Pure Xbox",
-   "lang": "en",
-   "cats": [
-    "xbox"
-   ],
-   "date": "2026-11-25T13:00:00+00:00"
-  },
-  {
-   "title": "El 29 de septiembre de 2027 marcará el final de otro juego como servicio: Exoprimal se suma a una lista cada vez más larga",
-   "link": "https://areajugones.sport.es/videojuegos/el-29-de-septiembre-de-2027-marcara-el-final-de-otro-juego-como-servicio-exoprimal-se-suma-a-una-lista-cada-vez-mas-larga/",
-   "summary": "Últimamente nos hemos acostumbrado a que Capcom saque un éxito tras otro. Solamente este año, la compañía ha publicado Pragmata, Monster Hunter Stories 3: Twisted Reflection, Onimusha: Way of The Sword y el destacado…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/exoprimal-1024x576.png",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-25T12:59:23+00:00"
-  },
-  {
-   "title": "Players discover over 1,500 individual buildings you can enter in GTA 6, nearly 28% of all buildings on the map",
-   "link": "https://www.eurogamer.net/gta-6-over-1500-buildings-you-can-enter",
-   "summary": "One GTA 6 player has put in the legwork and found that a shocking number of buildings across Leonida are freely accessible. Read more",
-   "image": "https://assetsio.gnwcdn.com/boobie-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-25T12:42:00+00:00"
-  },
-  {
-   "title": "Hideki Kamiya, creador de Bayonetta, quiere desarrollar un nuevo Castlevania: \"Podemos hacer algo realmente demencial\"",
-   "link": "https://areajugones.sport.es/videojuegos/hideki-kamiya-creador-de-bayonetta-quiere-desarrollar-un-nuevo-castlevania-podemos-hacer-algo-realmente-demencial/",
-   "summary": "Castlevania: Belmont's Curse es la entrega más reciente de una franquicia que ha sido referente histórico para los videojuegos, y aunque todavía estamos pendientes de conocer los datos de venta de la mano de Konami, en…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/kamiya-castlevania-1-1024x573.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-25T12:41:53+00:00"
-  },
-  {
-   "title": "Capcom dinosaur shooter Exoprimal's servers will go extinct next year, as shutdown meteor looms",
-   "link": "https://www.rockpapershotgun.com/capcom-dinosaur-shooter-exoprimals-servers-will-go-extinct-next-year-as-shutdown-meteor-looms",
-   "summary": "Exoprimal , Capcom's 2023 team shooter pitting exosuited fighters against T-rexes, is the latest game to be handed an expiration date. Its online services will cease as of late September 2027, rendering it unplayable,…",
-   "image": "https://assetsio.gnwcdn.com/exoprimal-t-rex-header.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-25T12:30:00+00:00"
-  },
-  {
-   "title": "Mandy en GTA VI: qué pasa si Lucia se la encuentra y todo lo que esconde en su casa",
-   "link": "https://areajugones.sport.es/videojuegos/mandy-en-gta-vi-que-pasa-si-lucia-se-la-encuentra-y-todo-lo-que-esconde-en-su-casa/",
-   "summary": "Mandy se convirtió en el personaje más comentado de Grand Theft Auto VI en cuestión de horas, y Rockstar no la enseñó ni en un tráiler ni en la web oficial. Apareció sola. Jason solo iba a cobrarle el alquiler. Sale de…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/guia-gtavi-mandy-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "releases"
-   ],
-   "date": "2026-11-25T12:29:28+00:00"
-  },
-  {
-   "title": "\"More than just war and peace\": Total War: Medieval 3's diplomacy system will build on Three Kingdoms' backstabbing, with rulers who aren't just focused on you",
-   "link": "https://www.rockpapershotgun.com/more-than-just-war-and-peace-total-war-medieval-3s-diplomacy-system-will-build-on-three-kingdoms-backstabbing-with-rulers-who-arent-just-focused-on-you",
-   "summary": "Creative Assembly's Total War: Medieval 3 is going to do a lot more with diplomacy, the developers promise. Diplomacy! The soul of any Total War game. They're going to build on the example of Total War: Three Kingdoms ,…",
-   "image": "https://assetsio.gnwcdn.com/total-war-medieval-3-old-king.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-25T12:08:50+00:00"
-  },
-  {
-   "title": "CD Projekt Red signs new marketing partnership deal with Sony for The Witcher 4, and to increase \"the presence\" of its games on PlayStation",
-   "link": "https://www.eurogamer.net/cd-projekt-red-signs-new-marketing-partnership-deal-with-sony-for-the-witcher-4-and-to-increase-the-presence-of-its-games-on-playstation",
-   "summary": "As part of The Witcher and Cyberpunk studio CD Projekt Red's recent Q3 earnings report, the developer offered some updates on upcoming game The Witcher 4 . Read more",
-   "image": "https://assetsio.gnwcdn.com/Ciri-in-The-Witcher-4.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-25T12:04:20+00:00"
-  },
-  {
-   "title": "Ho-Ho-Holy Moly, Nintendo's Winter Range Is Awesome",
-   "link": "https://www.nintendolife.com/news/2026/11/ho-ho-holy-moly-nintendos-winter-range-is-awesome",
-   "summary": "Exclusive to Japan, for now. Nintendo has unleashed its Winter merch range in Japan, and we're super jealous. Hopefully it make its way over to western shores, because there's some excellent stuff here. Ranging from 880…",
-   "image": "https://images.nintendolife.com/4a5bf646eca33/small.jpg",
-   "source": "Nintendo Life",
-   "lang": "en",
-   "cats": [
-    "nintendo"
-   ],
-   "date": "2026-11-25T12:00:00+00:00"
-  },
-  {
-   "title": "The Witcher 4 Dev Signs New 'Agreements' With Sony, But What Does It Mean For Xbox?",
-   "link": "https://www.purexbox.com/news/2026/11/the-witcher-4-dev-signs-new-agreements-with-sony-but-what-does-it-mean-for-xbox",
-   "summary": "\"This cooperation will support our business and financial outlook\". Last night, we saw some news starting to do the rounds about The Witcher 4 and its developer CD Projekt Red, with Chief Financial Officer Piotr…",
-   "image": "https://images.purexbox.com/0e09dd6d4f1bc/small.jpg",
-   "source": "Pure Xbox",
-   "lang": "en",
-   "cats": [
-    "xbox"
-   ],
-   "date": "2026-11-25T12:00:00+00:00"
-  },
-  {
-   "title": "Nicholas Lund, experto en aves, analiza las 60 especies de GTA VI y queda impresionado con su brillante realismo: \"La recreación más realista que he visto\"",
-   "link": "https://areajugones.sport.es/videojuegos/gta-vi-60-especies-aves/",
-   "summary": "Cuando pensamos en GTA VI, lo primero que suele venirnos a la cabeza son los atracos, los coches o las estrellas policiales. Sin embargo, parece que Rockstar ha conseguido que incluso los amantes de la naturaleza…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/pajaros-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-25T11:58:52+00:00"
-  },
-  {
-   "title": "GTA 6's best lore drops happen when you're chilling with your partner, so stop leaving them at home all the time",
-   "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-best-lore-drops-happen-when-youre-chilling-with-your-partner-so-stop-leaving-them-at-home-all-the-time/",
-   "summary": "My real relationship be damned, this last week has been all about playing cupid in Grand Theft Auto 6. I've become utterly invested in keeping Jason and Lucia in love, which means a lot of my time in the game has been…",
-   "image": "https://cdn.mos.cms.futurecdn.net/MybRDJeCE4mrHokyi4PpA5-1920-80.png",
-   "source": "PC Gamer",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-25T11:14:42+00:00"
-  },
-  {
-   "title": "Delivering \"a more modern Garry's Mod\" is the goal of spiritual successor S&box's revamped sandbox mode, as classic GMod's workshop addon system returns",
-   "link": "https://www.rockpapershotgun.com/delivering-a-more-modern-garrys-mod-is-the-goal-of-spiritual-successor-sboxs-revamped-sandbox-mode-as-classic-gmods-workshop-addon-system-returns",
-   "summary": "Facepunch Studios continue to work on S&box , the mix of open source game development platform and Garry's Mod spiritual successor they released to mixed reviews earlier this year. That rough start has it in need of a…",
-   "image": "https://assetsio.gnwcdn.com/s%26box-sandbox-mode-update-gmod-workshop-addon-system-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-25T11:10:00+00:00"
-  },
-  {
-   "title": "CD Projekt Red Expects GTA 5 to GTA 6-Like Upgrade in The Witcher 4",
-   "link": "https://www.pushsquare.com/news/2026/11/cd-projekt-red-expects-gta-5-to-gta-6-like-upgrade-in-the-witcher-4",
-   "summary": "\"You should expect us to make a bigger jump\". CD Projekt Red thinks it can deliver the same sort of \"leap\" in The Witcher 4 as Rockstar Games has just accomplished going from GTA 5 to GTA 6 . The 13-year gap between…",
-   "image": "https://images.pushsquare.com/55f1266bd6f5e/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-25T11:00:00+00:00"
-  },
-  {
-   "title": "Capcom Is Delisting Exoprimal In A Few Months, Then Killing It In 2027",
-   "link": "https://www.purexbox.com/news/2026/11/capcom-is-delisting-exoprimal-in-a-few-months-then-killing-it-in-2027",
-   "summary": "Can't believe the dinosaurs are going extinct, again! Capcom has today announced that its dinosaur PvPvE shooter Exoprimal will end service on September 29, 2027, meaning it will no longer be playable after that date.…",
-   "image": "https://images.purexbox.com/a052c022c2acd/small.jpg",
-   "source": "Pure Xbox",
-   "lang": "en",
-   "cats": [
-    "xbox"
-   ],
-   "date": "2026-11-25T11:00:00+00:00"
-  },
-  {
-   "title": "He visto muchos animes de Netflix y La caja azul me está confirmando con su temporada 2 que es el mejor de todos",
-   "link": "https://areajugones.sport.es/anime/he-visto-muchos-animes-de-netflix-y-la-caja-azul-me-esta-confirmando-con-su-temporada-2-que-es-el-mejor-de-todos/",
-   "summary": "Netflix cuenta en su catálogo con una colección de animes exclusivos. En los últimos años he visto muchos de ellos, y entre todas estas series hay algunas que me parecen auténticas obras maestras. Personalmente, hay una…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/la-caja-azul-temporada-2-mejor-anime-de-netflix-1024x576.png",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-25T10:52:57+00:00"
-  },
-  {
-   "title": "Las dos emisoras secretas de GTA VI: los cinco posters que hay que escanear y dónde están",
-   "link": "https://areajugones.sport.es/videojuegos/las-dos-emisoras-secretas-de-gta-vi-los-cinco-posters-que-hay-que-escanear-y-donde-estan/",
-   "summary": "Grand Theft Auto VI tiene 22 emisoras en el dial, y dos más que no vas a encontrar por mucho que cambies de frecuencia. Hay que desbloquearlas escaneando pósters con la aplicación WAiNK del teléfono. Es la primera vez…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/guia-gtavi-radios-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-25T10:50:01+00:00"
-  },
-  {
-   "title": "Los jugadores de GTA VI han decidido tomarse el juego con calma y eso es una buena señal para sus desarrolladores",
-   "link": "https://areajugones.sport.es/videojuegos/los-jugadores-de-gta-vi-han-decidido-tomarse-el-juego-con-calma-y-eso-es-una-buena-senal-para-sus-desarrolladores/",
-   "summary": "Suele pasarnos que, cuando finalmente tenemos algo que llevamos esperando mucho tiempo, queremos alargar el momento lo máximo posible. Disfrutar de ello con calma, mirar todos y cada uno de los detalles y asombrarnos…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/gta-6-1024x576.png",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-25T10:48:22+00:00"
-  },
-  {
-   "title": "Brooke Wilde, coreógrafa profesional, llevará los bailes de GTA VI a clubes de striptease reales: \"Me fascina la atención al detalle de Rockstar\"",
-   "link": "https://areajugones.sport.es/videojuegos/brooke-wilde-coreografa-profesional-llevara-los-bailes-de-gta-vi-a-clubes-de-striptease-reales-me-fascina-la-atencion-al-detalle-de-rockstar/",
-   "summary": "Los clubes de striptease, comúnmente conocidos como 'Tacón' por el icono que utiliza Rockstar para identificarlos, son uno de los establecimientos más populares a nivel histórico de la franquicia GTA. En esta ocasión,…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/gta-vi-club-striptease-coreografa-1-1024x572.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-25T10:43:57+00:00"
-  },
-  {
-   "title": "AI-generated GTA 6 PC ports get nuked in alleged Rockstar takedown spree, as former Bungie dev hails \"most ridiculous dumpster fire ever\"",
-   "link": "https://www.rockpapershotgun.com/ai-generated-gta-6-pc-ports-get-nuked-in-alleged-rockstar-takedown-spree-as-former-bungie-dev-hails-most-ridiculous-dumpster-fire-ever",
-   "summary": "One of the creators of an unofficial AI-generated PC \"port\" of Grand Theft Auto 6 claims that Rockstar and Take-Two Interactive have already stepped in to shut down the project, though the fearful work of…",
-   "image": "https://assetsio.gnwcdn.com/gta6-dancing-on-car.jpeg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Rock Paper Shotgun",
-   "lang": "en",
-   "cats": [
-    "pc"
-   ],
-   "date": "2026-11-25T10:38:50+00:00"
-  },
-  {
-   "title": "GTA VI desata la locura en España: triplica las ventas físicas de Zelda Ocarina of Time y PS5 arrasa frente a Xbox",
-   "link": "https://areajugones.sport.es/videojuegos/gta-vi-desata-la-locura-en-espana-triplica-las-ventas-fisicas-de-zelda-ocarina-of-time-y-ps5-arrasa-frente-a-xbox/",
-   "summary": "Los primeros datos de venta de GTA VI en España son demoledores: 322.650 unidades vendidas en formato físico (aquí no se cuentan las ventas a través de las tiendas digitales), con un 97% de esas ventas concentradas en…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/gta-vi-ventas-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [
-    "playstation",
-    "xbox",
-    "nintendo"
-   ],
-   "date": "2026-11-25T10:30:25+00:00"
-  },
-  {
-   "title": "GTA 6 Analysis Shows PS5 Version Suffers 'Substantially' More Frequent Frame Rate Drops Than Xbox Series X Version, Sparking Debate About Sony's 'Plays Best on PS5' Marketing",
-   "link": "https://www.ign.com/articles/gta-6-analysis-shows-ps5-version-suffers-substantially-more-frequent-frame-rate-drops-than-xbox-series-x-version-sparking-debate-about-sonys-plays-best-on-ps5-marketing",
-   "summary": "The tech experts at Digital Foundry have revealed their analysis of GTA 6, and found the game performs “meaningfully better” on Xbox Series X than the base PS5.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/25/gtavi-34-1795601362117.jpg",
-   "source": "IGN",
-   "lang": "en",
-   "cats": [
-    "playstation",
-    "xbox"
-   ],
-   "date": "2026-11-25T10:15:45+00:00"
-  },
-  {
-   "title": "Promising action-RPG, Showa American Story, has been delayed into late 2027 in order to feel \"cohesive, responsive and complete\" at launch",
-   "link": "https://www.eurogamer.net/showa-american-story-delay-2027",
-   "summary": "Publisher 4Divinity and developer Nekcom Entertainment have announced that upcoming action-RPG Showa American Story will now launch on 28th October, 2027. This comes after various sites noticed a Steam page update that…",
-   "image": "https://assetsio.gnwcdn.com/Showa-American-Story-header.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [
-    "pc",
-    "releases"
-   ],
-   "date": "2026-11-25T10:11:20+00:00"
-  },
-  {
-   "title": "La gama Razer Soma convierte la silla en parte del juego: una para verlo, otra para sentirlo y otra con todo",
-   "link": "https://areajugones.sport.es/videojuegos/la-gama-razer-soma-convierte-la-silla-en-parte-del-juego-una-para-verlo-otra-para-sentirlo-y-otra-con-todo/",
-   "summary": "Llevamos años mejorando todo lo que vemos y todo lo que escuchamos. Monitores más grandes, más tasa de refresco, auriculares con sonido envolvente, altavoces que colocan cada disparo donde toca. Y mientras ese salto…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/sillas-gaming-razer-con-iluminacion-rgb-1024x576.png",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-25T10:08:03+00:00"
-  },
-  {
-   "title": "GTA VI sorprende con 1.563 edificios accesibles: ¿cómo se compara con otros grandes mundos abiertos?",
-   "link": "https://areajugones.sport.es/videojuegos/gta-vi-edificios-accesibles/",
-   "summary": "Uno de los mayores atractivos de GTA VI es, sin ninguna duda, su impresionante mundo abierto. Rockstar ha conseguido construir un estado de Leonida lleno de vida, actividades y pequeños detalles que siguen sorprendiendo…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/sin-titulo-1-1-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-25T10:00:05+00:00"
-  },
-  {
-   "title": "Another Big PS5 Game Will Be Delisted in the Coming Months",
-   "link": "https://www.pushsquare.com/news/2026/11/another-big-ps5-game-will-be-delisted-in-the-coming-months",
-   "summary": "Exoprimal goes extinct like its dinosaurs. Capcom has announced it'll be delisting its multiplayer dinosaur shooter Exoprimal in March 2027, and then turning the game's servers off in September. The news comes from an…",
-   "image": "https://images.pushsquare.com/3c83fccd37082/small.jpg",
-   "source": "Push Square",
-   "lang": "en",
-   "cats": [
-    "playstation"
-   ],
-   "date": "2026-11-25T10:00:00+00:00"
-  },
-  {
-   "title": "Cómo desbloquear los huracanes en GTA VI: la misión secreta del búnker de Freddie paso a paso",
-   "link": "https://areajugones.sport.es/videojuegos/como-desbloquear-los-huracanes-en-gta-vi-la-mision-secreta-del-bunker-de-freddie-paso-a-paso/",
-   "summary": "Grand Theft Auto VI tiene huracanes. Rockstar los enseñó en buena parte de la promoción del clima dinámico. Y sin embargo puedes echarle decenas de horas a Leonida sin ver ni uno: hasta que haces esta misión, no…",
-   "image": "https://areajugones.sport.es/wp-content/uploads/2026/11/guia-gtavi-huracanes-1024x576.jpg",
-   "source": "Areajugones",
-   "lang": "es",
-   "cats": [],
-   "date": "2026-11-25T09:57:36+00:00"
-  },
-  {
-   "title": "Capcom's sci-fi dinosaur shooter Exoprimal is shutting down next year",
-   "link": "https://www.eurogamer.net/exo-primal-shutting-down-2027",
-   "summary": "Sad news dinosaur lovers. Exoprimal - Capcom's third-person sci-fi shooter with a Jurassic twist - will be shutting down next year. With its closure, the game will no longer be playable, even for those who've got it…",
-   "image": "https://assetsio.gnwcdn.com/exoprimal-header_LnCNkXk.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "lang": "en",
-   "cats": [],
-   "date": "2026-11-25T09:44:40+00:00"
   }
  ]
 }
